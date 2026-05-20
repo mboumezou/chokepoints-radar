@@ -1,9 +1,19 @@
 {
   "schema_version": 5,
   "name": "Strait of Gibraltar",
-  "updated_at": "2026-05-20T14:37:38.812853+00:00",
-  "last_article_at": "2026-05-06T07:00:00+00:00",
+  "updated_at": "2026-05-20T15:27:10.230739+00:00",
+  "last_article_at": "2026-05-16T07:00:00+00:00",
   "articles": [
+    {
+      "id": "https-www-theolivepress-es-spain-news-2026-05-16-whales-the-strait-of-gibraltar-forced-scream-shipping-noise-drowns-them",
+      "title": "Whales in Strait of Gibraltar are forced to shout over shipping noise",
+      "description": "The waters of the Strait of Gibraltar have become so noisy that whales are being pushed to their biological limits just to be heard. The waters beneath",
+      "url": "https://www.theolivepress.es/spain-news/2026/05/16/whales-the-strait-of-gibraltar-forced-scream-shipping-noise-drowns-them-out/",
+      "source": "theolivepress.es",
+      "published_at": "2026-05-16T07:00:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Gibraltar"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiswfbvv95cuxnnuvirm5cuv9pddz4u1e5dutsc2zqr3pqd3ppqnp5eeptuxvkctlpqwd4s29xmdjdu1nvz",
       "title": "US ambassador to the UN extends Hormuz warning to Gibraltar shipping corridor - HESPRESS English - Morocco News",
@@ -17,6 +27,27 @@
   ],
   "assessment": {
     "classified_articles": [
+      {
+        "article": {
+          "id": "https-www-theolivepress-es-spain-news-2026-05-16-whales-the-strait-of-gibraltar-forced-scream-shipping-noise-drowns-them",
+          "title": "Whales in Strait of Gibraltar are forced to shout over shipping noise",
+          "description": "The waters of the Strait of Gibraltar have become so noisy that whales are being pushed to their biological limits just to be heard. The waters beneath",
+          "url": "https://www.theolivepress.es/spain-news/2026/05/16/whales-the-strait-of-gibraltar-forced-scream-shipping-noise-drowns-them-out/",
+          "source": "theolivepress.es",
+          "published_at": "2026-05-16T07:00:00+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Gibraltar"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "The waters of the Strait of Gibraltar have become so noisy that whales are being pushed to their biological limits just to be heard. The waters beneath",
+        "filter_method": "score-input"
+      },
       {
         "article": {
           "id": "https-news-google-com-rss-articles-cbmiswfbvv95cuxnnuvirm5cuv9pddz4u1e5dutsc2zqr3pqd3ppqnp5eeptuxvkctlpqwd4s29xmdjdu1nvz",
@@ -40,26 +71,26 @@
       }
     ],
     "tension_score": 20,
-    "market_summary": "Heightened political rhetoric from US officials regarding Gibraltar shipping corridor, though no active disruptions reported. Weather conditions remain within normal operational parameters with moderate winds and waves.",
-    "score_rationale": "Single diplomatic warning increases political risk slightly above baseline, but no confirmed operational impacts or disruptions to report.",
+    "market_summary": "Minimal disruption risk in Gibraltar despite US diplomatic warnings. Whale noise concerns may lead to future speed restrictions but no current impact on shipping operations.",
+    "score_rationale": "Elevated political rhetoric but no active disruptions, with minor weather impacts and environmental concerns not yet affecting transit.",
     "political_context_score": 20,
     "logistics_score": 0,
     "weather_score": 5,
     "assessment_method": "ollama-aggregate",
-    "updated_at": "2026-05-20T14:37:38.810854+00:00"
+    "updated_at": "2026-05-20T15:27:10.226787+00:00"
   },
   "weather": {
-    "time": "2026-05-20T14:30",
-    "wave_height": 0.96,
+    "time": "2026-05-20T15:15",
+    "wave_height": 0.98,
     "wave_height_unit": "m",
-    "wave_direction": 1,
+    "wave_direction": 0,
     "wave_direction_unit": "°",
-    "wave_period": 8.3,
+    "wave_period": 8.4,
     "wave_period_unit": "s",
-    "wind_wave_height": 0.68,
-    "swell_wave_height": 0.6,
-    "wind_time": "2026-05-20T14:30",
-    "wind_speed": 40.1,
+    "wind_wave_height": 0.7,
+    "swell_wave_height": 0.62,
+    "wind_time": "2026-05-20T15:15",
+    "wind_speed": 40.0,
     "wind_speed_unit": "km/h",
     "wind_gusts": 53.6,
     "wind_gusts_unit": "km/h",

@@ -1,9 +1,39 @@
 {
   "schema_version": 5,
   "name": "Suez Canal",
-  "updated_at": "2026-05-20T14:36:00.366187+00:00",
-  "last_article_at": "2026-05-19T19:00:07+00:00",
+  "updated_at": "2026-05-20T15:26:45.113503+00:00",
+  "last_article_at": "2026-05-20T13:29:06+00:00",
   "articles": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmirgfbvv95cuxnqjrgoghdrnlscwj6y2i5ymluugvntzdeudf2nzdgtwiymedny1awvekwd3fcqmyyzkc0b",
+      "title": "Suez Canal Blockage Highlights Plight of Farm Animals at Sea - Animal Welfare Institute",
+      "description": "Suez Canal Blockage Highlights Plight of Farm Animals at Sea Animal Welfare Institute",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjRGOGhDRnlscWJ6Y2I5YmlUUGVnTzdEUDF2NzdGTWIyMEdnY1AwVEkwd3FCQmYyZkc0bXV4YTFXZ0x0VDkwaE9xSkhmTFlSb0k4TXZZVlN4Qng3LU1KOU8yVEhNRFVHWWtEdUtDdlVWMXlVbFRpa1dSREpaYUc1R3FINTk5SWl5Ql9hdDQyN0I4OXZrM2N6OHZuSHp4bEw3VThIZFdDSUM4RTN6U3c?oc=5",
+      "source": "Animal Welfare Institute",
+      "published_at": "2026-05-20T13:29:06+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Suez Canal"
+    },
+    {
+      "id": "https-splash247-com-ibaizabal-heads-back-to-suezmax-newbuilds",
+      "title": "Ibaizabal revives suezmax expansion with Hengli order",
+      "description": "Spanish shipowner Ibaizabal Group has returned to the suezmax newbuilding market after more than a decade, with the tanker owner linked to a fresh order at China’s Hengli Heavy Industries. Multiple shipbuilding sources said the group’s tanker arm, Ibaizabal Tankers, has contracted at least two 158,000 dwt crude carriers at the Dalian-based builder for delivery …",
+      "url": "https://splash247.com/ibaizabal-heads-back-to-suezmax-newbuilds/",
+      "source": "Splash247",
+      "published_at": "2026-05-20T05:10:00+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Suez Canal"
+    },
+    {
+      "id": "https-splash247-com-dynacom-lands-65m-for-ageing-suezmax",
+      "title": "Dynacom lands $65m for ageing suezmax",
+      "description": "A sale by shipping titan George Procopiou has emerged. The Greek owner has landed a standout price for one of his older suezmax tankers, selling the 2008-built Gladiator for around $65m. The 149,944 dwt Universal-built tanker, now renamed Visund, comes amid a period of extraordinary earnings for the tanker sector in the 11th week of …",
+      "url": "https://splash247.com/dynacom-lands-65m-for-ageing-suezmax/",
+      "source": "Splash247",
+      "published_at": "2026-05-20T05:00:42+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Suez Canal"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmirwfbvv95cuxozgjimg9rzvf5whyts3riwlv4b2dtuwlyqnnysglfutvyytjicfrrt2c0ewron0u5mlzvq",
       "title": "Egypt’s FM in London highlights Suez Canal role, meets IMO Secretary-General - Egyptian Gazette",
@@ -25,12 +55,42 @@
       "chokepoint": "Suez Canal"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmisefvx3lxte1uzl9wnvnnnm9hy1q0evo5s3hqsgm3sfzgtle1mnfytv9fmeu5nldirwhuddrdufvnbvfrt",
+      "title": "suez-cargo.jpg - Welcome to the United Nations",
+      "description": "suez-cargo.jpg Welcome to the United Nations",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uZl9WNVNnNm9hY1Q0eVo5S3hQSGM3SFZGTlE1MnFyTV9fMEU5NldiRWhudDRDUFVNbVFrTldVUGpkR0xqdTdzVw?oc=5",
+      "source": "Welcome to the United Nations",
+      "published_at": "2026-05-19T10:38:24+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Suez Canal"
+    },
+    {
+      "id": "https-list25-com-us-navy-patrols-suez-canal-security",
+      "title": "U.S. Navy Patrols: Securing Global Shipping Through Suez Can",
+      "description": "Discover how U.S. Navy patrols are securing global shipping through the Suez Canal. Learn about their vital role in protecting this critical waterway from",
+      "url": "https://list25.com/us-navy-patrols-suez-canal-security",
+      "source": "list25.com",
+      "published_at": "2026-05-15T07:27:05+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Suez Canal"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmif0fvx3lxte9xv3nqrwliuu1ozevzn2tqs2lryu9lthh0vgc3oextbkwwc0s5um1ou2jzumruuwnemfnct",
       "title": "“Fjord FSTR” docks in Gibraltar after the Suez Canal blockage - Puente de Mando",
       "description": "“Fjord FSTR” docks in Gibraltar after the Suez Canal blockage Puente de Mando",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xV3NQRWlIUU1oZEVzN2tqS2lRYU9lTHh0VGc3OExTbkwwc0s5Um1oU2JZUmRUUWNEMFNCTlBhMUdJUkhaWWR5Y0hySkw3SUVwQm5YR05oUjdKTC1OcFZ5QmpwbnZiVEtuX0xIREV1cy05WFh5d3o4NG5NN1JtTTg?oc=5",
       "source": "Puente de Mando",
       "published_at": "2026-05-07T18:05:22+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Suez Canal"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmisgfbvv95cuxqvu93a2vjsnbbx1pzwfhrujewzjlwb0hndufusutpb19asmy2qvlnefc4ehnqcll3x2dzm",
+      "title": "Global famine fears rise as Hormuz crisis threatens ‘eight-year,' Suez-scale disruption - Fox News",
+      "description": "Global famine fears rise as Hormuz crisis threatens ‘eight-year,' Suez-scale disruption Fox News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVU93a2VJSnBBX1pzWFhrUjEwZjlwb0hNdUFUSUtPb19aSmY2QVlNeFc4eHNQcll3X2dZM2VUMk1KVVliR05JVF92Y3RxMUZ1ak92ZzB6cWtyR3d0QnZQOTFxWXJoSUMxajM1Q2p3UW95ZE9kdUN2YlN0d2dVc2ZWSDd6R3pVVmwtWVdFQjRXaG53RDItYWpuclNGQXFfaUhua1FJZnlhdzZUNFhmVGFtUmRn0gG3AUFVX3lxTFBaeXF3ZUF4Z2ZPTG1mNTc2MUh4eW54aDR4VDZyZUpqYnZXdUc0SDBldi1leUY1cVkwc3B4X3E0ZTRlREFTLWw2cGd4MmpjSVNaTUswQ2FIVkdXaGNSMjh2VlpzaXFBbFo3RFlRemxmRFNaMXRrN3NJb0R3U1NCeEJTMTZ0elJaVUtINkhwbFBaRkJiMjJCaVZ6QWU2TVJRTk1rVXI1S0hxOE5DTEhHYjRISHpDYVJhUQ?oc=5",
+      "source": "Fox News",
+      "published_at": "2026-04-30T07:00:00+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Suez Canal"
     },
@@ -47,6 +107,70 @@
   ],
   "assessment": {
     "classified_articles": [
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmirgfbvv95cuxnqjrgoghdrnlscwj6y2i5ymluugvntzdeudf2nzdgtwiymedny1awvekwd3fcqmyyzkc0b",
+          "title": "Suez Canal Blockage Highlights Plight of Farm Animals at Sea - Animal Welfare Institute",
+          "description": "Suez Canal Blockage Highlights Plight of Farm Animals at Sea Animal Welfare Institute",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjRGOGhDRnlscWJ6Y2I5YmlUUGVnTzdEUDF2NzdGTWIyMEdnY1AwVEkwd3FCQmYyZkc0bXV4YTFXZ0x0VDkwaE9xSkhmTFlSb0k4TXZZVlN4Qng3LU1KOU8yVEhNRFVHWWtEdUtDdlVWMXlVbFRpa1dSREpaYUc1R3FINTk5SWl5Ql9hdDQyN0I4OXZrM2N6OHZuSHp4bEw3VThIZFdDSUM4RTN6U3c?oc=5",
+          "source": "Animal Welfare Institute",
+          "published_at": "2026-05-20T13:29:06+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Suez Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Suez Canal Blockage Highlights Plight of Farm Animals at Sea Animal Welfare Institute",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-splash247-com-ibaizabal-heads-back-to-suezmax-newbuilds",
+          "title": "Ibaizabal revives suezmax expansion with Hengli order",
+          "description": "Spanish shipowner Ibaizabal Group has returned to the suezmax newbuilding market after more than a decade, with the tanker owner linked to a fresh order at China’s Hengli Heavy Industries. Multiple shipbuilding sources said the group’s tanker arm, Ibaizabal Tankers, has contracted at least two 158,000 dwt crude carriers at the Dalian-based builder for delivery …",
+          "url": "https://splash247.com/ibaizabal-heads-back-to-suezmax-newbuilds/",
+          "source": "Splash247",
+          "published_at": "2026-05-20T05:10:00+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Suez Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "energy"
+        ],
+        "risk_type": "other",
+        "summary": "Spanish shipowner Ibaizabal Group has returned to the suezmax newbuilding market after more than a decade, with the tanker owner linked to a fresh order at China’s Hengli Heavy Industries. Multiple shipbuilding sources said the group’s tank",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-splash247-com-dynacom-lands-65m-for-ageing-suezmax",
+          "title": "Dynacom lands $65m for ageing suezmax",
+          "description": "A sale by shipping titan George Procopiou has emerged. The Greek owner has landed a standout price for one of his older suezmax tankers, selling the 2008-built Gladiator for around $65m. The 149,944 dwt Universal-built tanker, now renamed Visund, comes amid a period of extraordinary earnings for the tanker sector in the 11th week of …",
+          "url": "https://splash247.com/dynacom-lands-65m-for-ageing-suezmax/",
+          "source": "Splash247",
+          "published_at": "2026-05-20T05:00:42+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Suez Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight",
+          "energy"
+        ],
+        "risk_type": "market",
+        "summary": "A sale by shipping titan George Procopiou has emerged. The Greek owner has landed a standout price for one of his older suezmax tankers, selling the 2008-built Gladiator for around $65m. The 149,944 dwt Universal-built tanker, now renamed V",
+        "filter_method": "score-input"
+      },
       {
         "article": {
           "id": "https-news-google-com-rss-articles-cbmirwfbvv95cuxozgjimg9rzvf5whyts3riwlv4b2dtuwlyqnnysglfutvyytjicfrrt2c0ewron0u5mlzvq",
@@ -91,6 +215,48 @@
       },
       {
         "article": {
+          "id": "https-news-google-com-rss-articles-cbmisefvx3lxte1uzl9wnvnnnm9hy1q0evo5s3hqsgm3sfzgtle1mnfytv9fmeu5nldirwhuddrdufvnbvfrt",
+          "title": "suez-cargo.jpg - Welcome to the United Nations",
+          "description": "suez-cargo.jpg Welcome to the United Nations",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uZl9WNVNnNm9hY1Q0eVo5S3hQSGM3SFZGTlE1MnFyTV9fMEU5NldiRWhudDRDUFVNbVFrTldVUGpkR0xqdTdzVw?oc=5",
+          "source": "Welcome to the United Nations",
+          "published_at": "2026-05-19T10:38:24+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Suez Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "suez-cargo.jpg Welcome to the United Nations",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-list25-com-us-navy-patrols-suez-canal-security",
+          "title": "U.S. Navy Patrols: Securing Global Shipping Through Suez Can",
+          "description": "Discover how U.S. Navy patrols are securing global shipping through the Suez Canal. Learn about their vital role in protecting this critical waterway from",
+          "url": "https://list25.com/us-navy-patrols-suez-canal-security",
+          "source": "list25.com",
+          "published_at": "2026-05-15T07:27:05+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Suez Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "Discover how U.S. Navy patrols are securing global shipping through the Suez Canal. Learn about their vital role in protecting this critical waterway from",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmif0fvx3lxte9xv3nqrwliuu1ozevzn2tqs2lryu9lthh0vgc3oextbkwwc0s5um1ou2jzumruuwnemfnct",
           "title": "“Fjord FSTR” docks in Gibraltar after the Suez Canal blockage - Puente de Mando",
           "description": "“Fjord FSTR” docks in Gibraltar after the Suez Canal blockage Puente de Mando",
@@ -108,6 +274,27 @@
         ],
         "risk_type": "other",
         "summary": "“Fjord FSTR” docks in Gibraltar after the Suez Canal blockage Puente de Mando",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmisgfbvv95cuxqvu93a2vjsnbbx1pzwfhrujewzjlwb0hndufusutpb19asmy2qvlnefc4ehnqcll3x2dzm",
+          "title": "Global famine fears rise as Hormuz crisis threatens ‘eight-year,' Suez-scale disruption - Fox News",
+          "description": "Global famine fears rise as Hormuz crisis threatens ‘eight-year,' Suez-scale disruption Fox News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVU93a2VJSnBBX1pzWFhrUjEwZjlwb0hNdUFUSUtPb19aSmY2QVlNeFc4eHNQcll3X2dZM2VUMk1KVVliR05JVF92Y3RxMUZ1ak92ZzB6cWtyR3d0QnZQOTFxWXJoSUMxajM1Q2p3UW95ZE9kdUN2YlN0d2dVc2ZWSDd6R3pVVmwtWVdFQjRXaG53RDItYWpuclNGQXFfaUhua1FJZnlhdzZUNFhmVGFtUmRn0gG3AUFVX3lxTFBaeXF3ZUF4Z2ZPTG1mNTc2MUh4eW54aDR4VDZyZUpqYnZXdUc0SDBldi1leUY1cVkwc3B4X3E0ZTRlREFTLWw2cGd4MmpjSVNaTUswQ2FIVkdXaGNSMjh2VlpzaXFBbFo3RFlRemxmRFNaMXRrN3NJb0R3U1NCeEJTMTZ0elJaVUtINkhwbFBaRkJiMjJCaVZ6QWU2TVJRTk1rVXI1S0hxOE5DTEhHYjRISHpDYVJhUQ?oc=5",
+          "source": "Fox News",
+          "published_at": "2026-04-30T07:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Suez Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Global famine fears rise as Hormuz crisis threatens ‘eight-year,' Suez-scale disruption Fox News",
         "filter_method": "score-input"
       },
       {
@@ -133,16 +320,16 @@
       }
     ],
     "tension_score": 43,
-    "market_summary": "The Suez Canal remains operational with no active disruptions, though strategic vulnerabilities are being addressed through international infrastructure investments. Traders should monitor regional diplomatic engagements and infrastructure developments, but current conditions don't indicate immediate supply chain risks.",
-    "score_rationale": "Articles show normal diplomatic activity and infrastructure planning rather than active disruptions, though weather conditions warrant minor caution.",
-    "political_context_score": 25,
-    "logistics_score": 20,
+    "market_summary": "Suez Canal operations remain stable with no active disruptions, though strategic discussions about infrastructure expansion and security continue. Market participants should monitor regional diplomatic engagements and any developments in the Red Sea security situation that could impact transit.",
+    "score_rationale": "Elevated political discussions and security presence but no active disruptions or operational constraints at the chokepoint.",
+    "political_context_score": 30,
+    "logistics_score": 25,
     "weather_score": 5,
     "assessment_method": "ollama-aggregate",
-    "updated_at": "2026-05-20T14:36:00.366187+00:00"
+    "updated_at": "2026-05-20T15:26:45.113503+00:00"
   },
   "weather": {
-    "time": "2026-05-20T14:30",
+    "time": "2026-05-20T15:15",
     "wave_height": null,
     "wave_height_unit": "m",
     "wave_direction": null,
@@ -151,11 +338,11 @@
     "wave_period_unit": "s",
     "wind_wave_height": null,
     "swell_wave_height": null,
-    "wind_time": "2026-05-20T14:30",
-    "wind_speed": 20.8,
+    "wind_time": "2026-05-20T15:15",
+    "wind_speed": 21.0,
     "wind_speed_unit": "km/h",
-    "wind_gusts": 39.6,
+    "wind_gusts": 38.9,
     "wind_gusts_unit": "km/h",
-    "weather_code": 1
+    "weather_code": 0
   }
 }

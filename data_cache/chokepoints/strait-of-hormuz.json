@@ -1,7 +1,7 @@
 {
   "schema_version": 5,
   "name": "Strait of Hormuz",
-  "updated_at": "2026-05-20T14:36:35.507287+00:00",
+  "updated_at": "2026-05-20T15:26:55.752762+00:00",
   "last_article_at": "2026-05-20T14:19:34+00:00",
   "articles": [
     {
@@ -12,6 +12,16 @@
       "source": "FloorDaily.net",
       "published_at": "2026-05-20T14:19:34+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-oilprice-com-latest-energy-news-world-news-three-supertankers-carrying-6-million-barrels-exit-strait-of-hormuz-htm",
+      "title": "Three Supertankers Carrying 6 Million Barrels Exit Strait of Hormuz",
+      "description": "Three commercial supertankers carrying a combined 6 million barrels of Middle East crude oil have successfully exited the Strait of Hormuz, Reuters reports. The vessels departed the strategic waterway on Wednesday, after being stranded inside the Persian Gulf for over two months, lending hope to an end to the closure of the strait. The crude cargoes were split evenly among three Very Large Crude Carriers (VLCCs) heading to Asian refining hubs. The first was Universal Winner, a South Korean-flagged supertanker carrying 2 million barrels of Kuwaiti…",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Three-Supertankers-Carrying-6-Million-Barrels-Exit-Strait-of-Hormuz.html",
+      "source": "Oilprice.com",
+      "published_at": "2026-05-20T13:30:00+00:00",
+      "origin": "Curated RSS",
       "chokepoint": "Strait of Hormuz"
     },
     {
@@ -42,6 +52,16 @@
       "source": "Anadolu Ajansı",
       "published_at": "2026-05-20T11:52:25+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-reuters-com-world-middle-east-hormuz-closure-could-trigger-agrifood-shock-price-crisis-within-year-fao-warns-2",
+      "title": "Hormuz closure could trigger 'agrifood shock', price crisis within a year, FAO warns | Reuters",
+      "description": "The closure of the Strait of Hormuz is the beginning of a \"systemic agrifood shock\" that could trigger a severe global ​food price crisis within six to 12 months, the United ‌Nations Food and Agriculture Organization said on Wednesday.",
+      "url": "https://www.reuters.com/world/middle-east/hormuz-closure-could-trigger-agrifood-shock-price-crisis-within-year-fao-warns-2026-05-20/",
+      "source": "reuters.com",
+      "published_at": "2026-05-20T11:08:43+00:00",
+      "origin": "Brave News",
       "chokepoint": "Strait of Hormuz"
     },
     {
@@ -95,6 +115,56 @@
       "chokepoint": "Strait of Hormuz"
     },
     {
+      "id": "https-www-hellenicshippingnews-com-oil-prices-slip-as-u-s-hints-at-iran-talks-progress-tankers-exit-hormuz",
+      "title": "Oil prices slip as U.S. hints at Iran talks progress, tankers exit Hormuz",
+      "description": "Oil prices fell on Wednesday as markets awaited more cues on U.S.-Iran talks after Washington flagged progress in ongoing negotiations. Brent oil futures for July, the global crude benchmark, sank by 2.5% to $109.25 a barrel by 04:44 ET (08:44 GMT), while U.S. West Texas Intermediate crude futures dropped 1.9% to $102.35 a barrel. Both ...",
+      "url": "https://www.hellenicshippingnews.com/oil-prices-slip-as-u-s-hints-at-iran-talks-progress-tankers-exit-hormuz/",
+      "source": "Hellenic Shipping News Worldwide",
+      "published_at": "2026-05-20T10:00:27+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-hellenicshippingnews-com-europe-faces-oil-crunch-as-iran-war-chokes-hormuz-inventories-plunge",
+      "title": "Europe faces oil crunch as Iran war chokes Hormuz, inventories plunge",
+      "description": "Global oil inventories are plunging and may not recover until late 2027, as the Iran war and the closure of the Strait of Hormuz threaten to trigger physical shortages across Europe within weeks, according to a CNBC report. Analysts warn that even a swift reopening of the key shipping route will not prevent months of ...",
+      "url": "https://www.hellenicshippingnews.com/europe-faces-oil-crunch-as-iran-war-chokes-hormuz-inventories-plunge/",
+      "source": "Hellenic Shipping News Worldwide",
+      "published_at": "2026-05-20T10:00:23+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-koreajoongangdaily-joins-com-news-2026-05-20-national-diplomacy-as-korean-tanker-transits-strait-of-hormuz-questio",
+      "title": "As Korean tanker transits Strait of Hormuz, questions arise over how",
+      "description": "A Korean-flagged vessel is now passing through the Strait of Hormuz after being stranded in the Persian Gulf for months, according to the Korean foreign minister on Wednesday.",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-05-20/national/diplomacy/As-Korean-tanker-transits-Strait-of-Hormuz-questions-arise-over-how/2597063",
+      "source": "koreajoongangdaily.joins.com",
+      "published_at": "2026-05-20T09:41:08+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-oilprice-com-latest-energy-news-world-news-india-eyes-direct-gulf-oil-loading-despite-hormuz-blockade-html",
+      "title": "India Eyes Direct Gulf Oil Loading Despite Hormuz Blockade",
+      "description": "India plans to send empty tankers into the Strait of Hormuz to load oil supplies from the Gulf producers in a first such Indian move west of the chokepoint for loading crude and LPG since the Iran war began, sources with knowledge of the matter told Bloomberg on Wednesday. Despite the closed Strait of Hormuz, which has now been nearly inaccessible for 80 days, India has seen some shipments out of the Gulf pass through the critical chokepoint, likely with the blessing of both Iran and the U.S., which have been separately blockading the shipping…",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Eyes-Direct-Gulf-Oil-Loading-Despite-Hormuz-Blockade.html",
+      "source": "Oilprice.com",
+      "published_at": "2026-05-20T09:20:00+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-splash247-com-strait-cash-iran-revives-a-centuries-old-maritime-business-model",
+      "title": "Strait cash: Iran revives a centuries-old maritime business model",
+      "description": "Andrew Craig-Bennett on what Iran can learn from the kings who monetised the Baltic. “History doesn’t repeat itself, but it often rhymes” Mark Twain The Strait of Hormuz has been pretty much closed for more than 80 days now. Iran wants to control the strait and charge a toll. The US doesn’t want them to. …",
+      "url": "https://splash247.com/strait-cash-iran-revives-a-centuries-old-maritime-business-model/",
+      "source": "Splash247",
+      "published_at": "2026-05-20T08:37:55+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmitwfbvv95cuxnu3hnwezkmdlpa2nqefi3azlsaji0undsdfkxdfrmvf9pum9hrkm3ujjta2wzdgzhekd0u",
       "title": "S. Korea-operated vessel passing through Strait of Hormuz: foreign minister - upi.com",
       "description": "S. Korea-operated vessel passing through Strait of Hormuz: foreign minister upi.com",
@@ -115,12 +185,62 @@
       "chokepoint": "Strait of Hormuz"
     },
     {
+      "id": "https-oilprice-com-latest-energy-news-world-news-two-supertankers-exit-hormuz-with-crude-bound-for-china-html",
+      "title": "Two Supertankers Exit Hormuz With Crude Bound for China",
+      "description": "Two supertankers loaded with crude oil exited the Strait of Hormuz today and are heading to China, Reuters reported, citing data from LSEG and Kpler. The vessels are carrying Iraqi and some Qatari crude, loaded in late February and early March. The cargoes were ordered by Chinese energy majors Unipec and Sinochem. Last week, Iran said it had allowed as many as 30 vessels to pass through the Strait of Hormuz, after indicating it would operate on a per-government basis, agreeing deals with individual countries that rely on the energy flows out of…",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Exit-Hormuz-With-Crude-Bound-for-China.html",
+      "source": "Oilprice.com",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiuwfbvv95cuxovkzdcxdlodd5dkplcxjyt2htagl6tnfhdetxmhiwawjwmmdid1otqmtzmxlqcuhgslvhx",
       "title": "Shipping traffic through Strait of Hormuz rebounds, report says - news.cgtn.com",
       "description": "Shipping traffic through Strait of Hormuz rebounds, report says news.cgtn.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkZDcXdlODd5dkpLcXJyT2htaGl6TnFHdEtxMHIwaWJwMmdId1otQmtZMXlqcUhGSlVhX0ZvMGUyaGR4QWYwVTlVMEhkWDZVLVNoQXgxVDlmRHp1QjlyQ3ZZNU1SOTY0QldXWEdELWEwSXF5UWw2Ujdob3huLVhHMkdNZWMtX2NOYUJsVTF0TW9KWGN2RDE4NEtkRU5JVHRJQ3hNZVNlLTNickpmdGpsZVJodGcwR2cza2Jv?oc=5",
       "source": "news.cgtn.com",
       "published_at": "2026-05-20T05:28:03+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-seatrade-maritime-com-tankers-two-chinese-vlccs-cross-the-strait-of-hormuz",
+      "title": "Two Chinese VLCCs cross the Strait of Hormuz",
+      "description": "Laden Cosco Shipping and Sinochem tankers have exited the Gulf via the Hormuz Strait while an HMM VLCC is transiting the waterway",
+      "url": "https://www.seatrade-maritime.com/tankers/two-chinese-vlccs-cross-the-strait-of-hormuz",
+      "source": "seatrademaritime",
+      "published_at": "2026-05-20T03:14:32+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-maritimegateway-com-hormuz-holds-its-breath",
+      "title": "Hormuz Holds Its Breath | Maritime Gateway",
+      "description": "A recovery in tanker traffic through the world's most critical oil chokepoint masks a deeper fragility, and Iran's new transit charges add another layer of",
+      "url": "https://maritimegateway.com/hormuz-holds-its-breath",
+      "source": "maritimegateway.com",
+      "published_at": "2026-05-20T03:00:21+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-reuters-com-business-energy-chinese-tankers-exit-strait-hormuz-with-4-million-barrels-crude-oil-data-shows-202",
+      "title": "Tankers exit Strait of Hormuz with 6 million barrels of crude oil | Reuters",
+      "description": "Three supertankers were crossing the Strait of Hormuz carrying oil bound for Asian markets, after ​waiting in the Gulf for more than two months.",
+      "url": "https://www.reuters.com/business/energy/chinese-tankers-exit-strait-hormuz-with-4-million-barrels-crude-oil-data-shows-2026-05-20/",
+      "source": "reuters.com",
+      "published_at": "2026-05-20T00:56:32+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiygfbvv95cuxpvxnrrtvht0c5mgxfumjnewzoywpmbluyu2phrfuzs1czm1zwaty5xzvcchzkuzznmnbpz",
+      "title": "Tankers exit Strait of Hormuz with 6 million barrels of crude oil - Reuters",
+      "description": "Tankers exit Strait of Hormuz with 6 million barrels of crude oil Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNrRTVhT0c5MGxfUmJneWZOYWpMblUyU2pHRFUzS1czM1ZWaTY5XzVCcHZKUzZnMnBpZ2wydzdSSS1uNExYd21adTY2QlkwODBIUmNpeHBtTG1rblN5dzJOUkxjLVFzYV9xQUctWmxXcWNJTTdNVGpCbnlqYkZTQW5RN084YTU2QklES3VuX21kTUJBR2Y5akFzOFBUd3BEVE5HdkYwdk5wSktsS2pvZHM5QUwtSUhONkNqQ0UweE1fNWN0emdQZTZR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-20T00:56:00+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Strait of Hormuz"
     },
@@ -155,12 +275,102 @@
       "chokepoint": "Strait of Hormuz"
     },
     {
+      "id": "https-www-timesnownews-com-world-us-us-news-strait-of-hormuz-shipping-at-risk-us-iran-tensions-disrupt-global-oil-routes",
+      "title": "Strait of Hormuz Shipping at Risk: US-Iran Tensions Disrupt Global Oil Routes | Times Now",
+      "description": "The ongoing power struggle between the United States and Iran over the Strait of Hormuz has led to heightened risks for commercial vessels, with many opting to sail without transmitting identification signals. , US News, Times Now",
+      "url": "https://www.timesnownews.com/world/us/us-news/strait-of-hormuz-shipping-at-risk-us-iran-tensions-disrupt-global-oil-routes-article-154352579",
+      "source": "timesnownews.com",
+      "published_at": "2026-05-19T14:00:06+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi1wfbvv95cuxoawe0zjvwuwrka1ndbutfc1i4v2lstktpugd5zfqxvkc0rg1fmhlvngdjx2xrnfv6amlym",
+      "title": "Iran Launches Bitcoin-Settled Maritime Insurance Platform for Strait of Hormuz, Claims $10 Billion Revenue Target - unchainedcrypto.com",
+      "description": "Iran Launches Bitcoin-Settled Maritime Insurance Platform for Strait of Hormuz, Claims $10 Billion Revenue Target unchainedcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWE0ZjVwUWRka1NDbUtFc1I4V2lSTktPUGd5ZFQxVkc0RG1fMHlvNGdjX2xRNFV6amlyMW9VcC1YcHppSFV2ejVsQ3hVRzFDX0pUaXNialdfaDdtbzgwaE42ZUJoZkxRQVJqRUQ2ZS1LMTYxcXB0S0hpVFZkYjFob1B5MThCYXdNNmRJQTRabXFreDl0ZV9Zamh2NGpYT3VLM2k3ZU9QWlRRZjhTX2RBWm9sUDljaHZoRkZvanBDUVdBRUttV0RXVThZY3lkVGlhZnRxSHRwMA?oc=5",
+      "source": "unchainedcrypto.com",
+      "published_at": "2026-05-19T11:10:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmihafbvv95cuxntzkzcmkxavjwn1nlavv2ykzittnwceftnfvkrnkxve5pa01mdgtgrnnnegxpt0vzsndmt",
       "title": "CMB.Tech Profit Surges as Hormuz Disruption Boosts Tanker Rates - Marine News Magazine",
       "description": "CMB.Tech Profit Surges as Hormuz Disruption Boosts Tanker Rates Marine News Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzkzcmkxaVJWN1NlaVV2YkZITTNWcEFtNFVKRnkxVE5pa01MdGtGRnNNeGxpT0VzSndmT05OUHdzTklsTnBjMzk4RW5fOUVYVFdtSmppd0JtQkNUYkdIMWd4R1planlzaUlxd0dyUmt4U1RLTTBOZ2RUR2ZqeUp1TFNkQmY?oc=5",
       "source": "Marine News Magazine",
       "published_at": "2026-05-19T08:50:36+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-gulfnews-com-world-mena-shipping-surge-after-strait-of-chaos-how-the-hormuz-blockade-broke-then-bounced-back-1-500",
+      "title": "Strait of Hormuz Reopens: Shipping Surge After Blockade Eases, But Global Oil Trade Still at Risk",
+      "description": "After weeks of disruption, ship traffic through the Strait of Hormuz jumps, easing a critical oil chokepoint but leaving global trade on edge.",
+      "url": "https://gulfnews.com/world/mena/shipping-surge-after-strait-of-chaos-how-the-hormuz-blockade-broke-then-bounced-back-1.500545273",
+      "source": "gulfnews.com",
+      "published_at": "2026-05-18T23:49:47+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixwfbvv95cuxqoujwrmxqa3ntckrlogr4wnbvnzdfem9pexlxs25oretinufvzc1bzjrbt3vvc2flzexvt",
+      "title": "Shipping surge after strait of chaos: How the Hormuz blockade broke — then bounced back - Gulf News",
+      "description": "Shipping surge after strait of chaos: How the Hormuz blockade broke — then bounced back Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUJwRmxQa3NTckRlOGR4WnBVNzdFem9peXlxS25oREtINUFvZC1BZjRBT3VVc2FLZExvTGJGVnhhdTBZMjdsMWN0Zm1VX195bjFvYWt5ZGtnYmJfcXplNVRuQjFCRkVBdWpRYzlKVWZHOTdBWlJuOHJ2cklmSklxWjMtTEdVOVJraERuMVB1dWFIRWEtbGVld2d6ZnFRVlMzaU9lNU1qRk02cXFfc0NlV29JYkxDbW9yU0U3R0dVbGJYaUtuRFF30gHaAUFVX3lxTE5zRjJtNU5haUI5Yi1DNHR6RFowNTY5cl9hSUdnOFVyaDFOeEdHR3hpYUJjUHVGLWlaenVPbWUxMEFzSVhxWWtyYXhIVlFnV0pzMVA0a3NwXzNvU2EyemtvREhZR3c0ZDV1Njc5eko4Wm5nLU42bWY1ZzgxREZjamxVRWNhUnlFWC01dzI0cFR1Y3dzWll3bnRvemh5SnJPQUlGNUg5MmsyZEhPQ19Hajc2UDJsV2EybWVMZXp6LVpmc3JaaG1Jck1LNFlRVU85eFU0dU1OY1FJUVN3?oc=5",
+      "source": "Gulf News",
+      "published_at": "2026-05-18T23:49:47+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivafbvv95cuxpsgttaufknuezrjvbsvvkbelfwnrqsgtdlwixemnzd3douxa1vec4bxj2afdodkn0uwl6d",
+      "title": "Iran announces new body to manage Strait of Hormuz as peace talks stall - France 24",
+      "description": "Iran announces new body to manage Strait of Hormuz as peace talks stall France 24",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGtTaUFkNUEzRjVBSVVkbElFWnRqSGtDLWIxemNZd3doUXA1VEc4bXJ2aFdodkN0UWl6dzVfS3RRRTBsTWl3RGtPc2dCTVZtTFp2aHRRLUNhWlBQZlhDSFo3RzRsWV9XRmVyVTRNa2gtNVpGT3FpN3ItR3JyRGlwOVV6aXhsdWVQY2cxMVg1aHVvXzhiOU9raV9OVXJjMWxmNDAxVFB3SnJqOUYzWUhXb0FCTHAzamJndHVsaQ?oc=5",
+      "source": "France 24",
+      "published_at": "2026-05-18T21:37:33+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmirwfbvv95cuxovjayrfvkylnyujvindfgm3rfqjzkudnosvlzwe5xnwtioxy2v1zdnmlyrwroyvdkr1dfm",
+      "title": "Hormuz Disruption Opens New Test for Crypto in Global Trade - PYMNTS.com",
+      "description": "Hormuz Disruption Opens New Test for Crypto in Global Trade PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjAyRFVKYlNyUjViNDFGM3RfQjZKUDNoSVlZWE5xNWtIOXY2V1ZDNmlYRWROYVdKR1dFMENYM2NvbUNzOHgxRFZhUXVJRFc0bjZqT21GOXVNM3BMNXJEWk1oX21OekxDUjVIUXhWOHVyVnM2RTdjZGV2Sm9ScncwNjJVMk5xME1ONXpVLWNIWVNqbTdKWHJaYWJ4bEE0bjcxUWtCdWhPSFdpbHdtc0xZ?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-05-18T19:55:10+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitwfbvv95cuxnagvqrxzftjrramnrafk2rvywym0wv1l4ogcwbhk3dhzvtdvkberlsxjqcxzpbnboz1p4y",
+      "title": "Trump-Xi Summit Stalemate Locks Fed Into Rate Hikes as Hormuz Disruption Persists - Crux Investor",
+      "description": "Trump-Xi Summit Stalemate Locks Fed Into Rate Hikes as Hormuz Disruption Persists Crux Investor",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGVQRXZfTjRRamNraFk2RVYwYm0wV1l4OGcwbHk3dHZVTDVkbERlSXJQcXZpbnBOZ1p4Ym9pYkJIZTFZbF9XcXJScklOc3hnX0x2eVlmWVBMSkRxM0tXM2lZU0pwSUhuclVEaXNzZWw4VHZfVXJrQ0hkT0hBSTRSbkdpa1dGZHJoVzdSYWU0ejVMZWRyR3lxUjJ0WGJDS3ptaG41Slp2TGo3Z1JwWm9hbTlQSW5qVGs?oc=5",
+      "source": "Crux Investor",
+      "published_at": "2026-05-18T16:00:14+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiowfbvv95cuxnunrnzw14v3l4uvbpde1nyy1tbumtbthfretnefqydlv2dghomvnsq004zer5zuthazfow",
+      "title": "Iran sets up Hormuz transit authority to charge ships for passage - Euronews.com",
+      "description": "Iran sets up Hormuz transit authority to charge ships for passage Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRNZW14V3l4UVBpdE1NYy1TbUMtbThFREtneFQydlV2dGhoMVNsQ004ZER5ZUtHazFoWDJhbmNYWjgzaVY1MGFwTnExLTh2QTMzNUdzWlVqWnJabF9BMGx1Rkx2TTFRMmtsUUdDcktmVmdNOTVDaXlUZVlWQk1wZ21WX01GMS1kcjBLa21CcVhqLVVoMXhucUhpRmdPVUNJTEQ4?oc=5",
+      "source": "Euronews.com",
+      "published_at": "2026-05-18T15:15:48+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiz0fvx3lxte02uwnja3ctmzlqs3f6rfritmzwywjnyuutbfzsrzdxchlvsfdloerqvvbveldpc3vubnjvv",
+      "title": "Hormuz Becomes a Holding Queue: Iran’s Toll Regime, Bilateral Carve-Outs, and a Bifurcating Strait - Windward",
+      "description": "Hormuz Becomes a Holding Queue: Iran’s Toll Regime, Bilateral Carve-Outs, and a Bifurcating Strait Windward",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02UWNJa3ctMzlQS3F6RFRiTmZWYWJnYUUtbFZSRzdXcHlVSFdlOERqVVBveldpc3VubnJvVXV1aV90Z2ZUeWtLSkhLMmZrQ0NzVUhSWlhBWUVQd19xcjRwWWRyYlFyZFE?oc=5",
+      "source": "Windward",
+      "published_at": "2026-05-18T14:31:16+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Strait of Hormuz"
     },
@@ -175,12 +385,72 @@
       "chokepoint": "Strait of Hormuz"
     },
     {
+      "id": "https-thearabianpost-com-hormuz-insurance-plan-tests-shipping-risks",
+      "title": "Hormuz insurance plan tests shipping risks — Arabian Post",
+      "description": "Tehran has moved to turn the Strait of Hormuz crisis into a new insurance and payments channel, with an Iran-linked platform branded Hormuz Safe offering maritime cargo cover tied to cryptocurrency settlement for vessels using the strategic waterway. The initiative targets shipowners, charterers ...",
+      "url": "https://thearabianpost.com/hormuz-insurance-plan-tests-shipping-risks/",
+      "source": "thearabianpost.com",
+      "published_at": "2026-05-18T12:53:04+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmipafbvv95cuxnckhowgvgtk85odjuv1nla0rmnek0zzfmewdhy2xhahp2z25erwjsak5mvzezzw45vhrts",
+      "title": "Iran plans to offer insurance for Hormuz transit: Will it work? - Al Jazeera",
+      "description": "Iran plans to offer insurance for Hormuz transit: Will it work? Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckhOWGVGTk85ODJUV1NLa0RmNEk0ZzFmeWdHY2xhaHp2Z25ERWJsak5MVzEzZW45VHRTSzlIbm40Q1FUc3BfQ1I1bkQ5cXJrZFJkWndtYWlPTGNhM0ptRWhxRVRaeFU3bXpCT3MzTFpOdVgyZDk2d0M3N0l3b1BmWE1raUwzdVk3ZFVJcG9PcFRMbEFtYWxOV3Z6cFU5LTlfYTg3aNIBqgFBVV95cUxNU1dZcmFkV0ZWdUc3UjJHcTU2UVdTbTEzejJMYlE0aVlDejJHcmNJQ0F6QTlGVGRaMGxxSDNxOEZwdGRQSmtLQ3RrZGl3emF6Y2NlRzM1UWZZRlFGRlhoVnBZMHVlcFdiY3ZNLVp4VjY2ZkcxZGFXM1NzX2tiQ0dkYTZPaUQxVnJwd2hPZEtaQXhWM1Vobm84ZlZoNUFaRlFpQVpKbjVfUk53UQ?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-18T11:58:35+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-seatrade-maritime-com-crewing-two-filipino-crew-injured-on-the-cma-cgm-san-antonio-return-home",
+      "title": "Two Filipino crew injured on the CMA CGM San Antonio return home",
+      "description": "Two of seven Filipino crew injured in a missile attack on a container ship in the Strait of Hormuz return to Manila",
+      "url": "https://www.seatrade-maritime.com/crewing/two-filipino-crew-injured-on-the-cma-cgm-san-antonio-return-home",
+      "source": "seatrademaritime",
+      "published_at": "2026-05-18T10:37:48+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmihgfbvv95cuxotgluetnon01vtmhjevbvsehmeunvodjuendhz2pmlxzeoc1wtgs4yljgltnumvrkrmjoq",
       "title": "Iran's Hormuz Transit Toll Mechanism & What It Means at Sea - Windward",
       "description": "Iran's Hormuz Transit Toll Mechanism & What It Means at Sea Windward",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGlueTNON01vTmhJeVBVSEhMeUNVODJUendhZ2pmLXZEOC1wTGs4YlJGLTNuMVRKRmJOQzVCSWJUSGJ0T2JwZTltODZzcmdKMng2Q0x6eXRVeUY3d0tncW9mUzhEc1NFVndIOVM0QkwyeXkweHpCR1NxMkpPdDZrZjU5dWUxQQ?oc=5",
       "source": "Windward",
       "published_at": "2026-05-18T10:31:16+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-seatrade-maritime-com-security-top-maritime-news-stories-for-week-ended-16-may",
+      "title": "Top maritime news stories for week ended 16 May",
+      "description": "Strait of Hormuz stalemate, Dali criminal charges over Key Bridge disaster, and China freight filing violations",
+      "url": "https://www.seatrade-maritime.com/security/top-maritime-news-stories-for-week-ended-16-may",
+      "source": "seatrademaritime",
+      "published_at": "2026-05-18T04:09:13+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-bloomberg-com-news-articles-2026-05-17-hormuz-tracker-gridlock-persists-while-blocked-tanker-sails-on",
+      "title": "Strait of Hormuz Shipping Stalls as US-Blocked Tanker Resumes Voyage - Bloomberg",
+      "description": "Commercial shipping through the Strait of Hormuz remains largely frozen, with only limited vessel movements observed and most tied to Iranian-linked shipping. In a notable development, a supertanker previously halted by the US naval blockade has resumed its journey toward its destination.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/hormuz-tracker-gridlock-persists-while-blocked-tanker-sails-on",
+      "source": "bloomberg.com",
+      "published_at": "2026-05-17T10:30:51+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwgfbvv95cuxndmytnhbidwzozjbqazdit20tqnexcupcsnvoujvmcnlyataxn0dztddgug5srw5szljwd",
+      "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping - Al Jazeera",
+      "description": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmYtNHBidWZoZjBQazdiT20tQnExcUpCSnVoUjVMcnlYaTAxN0dZTDdGUG5SRW5sZlJwdzB2NjNHUTZSQ1BEcTV2V29xMjh0NGt2cEJFZEZTcjRzTkpTZUd5RnRMajZBSnk0UDAzQ1NoSTZMOFJnNGdsTmxNSkY3QWRRVDdqbEVSalpyaWZiY0pFQnUza19FdXJjR0Q3alRia1ZoeFBFaGJodW54Z3FOckxkeG43cFpjYUNuZDRzaGtZZ9IBxwFBVV95cUxQVGt0bkE3eWV3UmdaOEtBekFpeGUtNDFOV1BwZXlmV3ZydTBObFVKVFl2ZGNyTlJZRS1QcnZPcERVeWluY0JZUHlub1F5RFpuYXBNZUZ6eXlfeGhPemYzMk5GdWczVWpGei13S3BQdXBfRFFUNmg3LTBURGF0LXc0MkpRVlQ0TlZOdkhPeWl4VkZldWtGX3NLRWY5ZUVoRkVfekM1Z19kUXFOSlhOWnIwb3kxQVQxdGRQNFgtckFIRk03S1hRemNR?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-17T09:33:17+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Strait of Hormuz"
     },
@@ -192,6 +462,166 @@
       "source": "Stars and Stripes",
       "published_at": "2026-05-16T05:21:53+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-hstoday-us-subject-matter-areas-maritime-security-iran-tightens-grip-on-strait-of-hormuz-as-shipping-forced-in",
+      "title": "Iran Conflict Maritime Update: Iran Expands Administrative Control Over Hormuz as Commercial Shipping Splinters - HSToday",
+      "description": "Key Takeaways - May 18, 2026 Iran is moving to formalize a state-administered transit-toll regime under the new Persian Gulf Strait Authority (PGSA), with reported per-transit payments of up to $2 million settled in Chinese yuan and Bitcoin transfers to IRGC-linked wallets.",
+      "url": "https://www.hstoday.us/subject-matter-areas/maritime-security/iran-tightens-grip-on-strait-of-hormuz-as-shipping-forced-into-controlled-routes/",
+      "source": "hstoday.us",
+      "published_at": "2026-05-14T00:00:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-reuters-com-business-energy-chinese-supertanker-attempts-hormuz-passage-data-show-2026-05-13",
+      "title": "Chinese oil tanker exits Strait of Hormuz, heads for Zhoushan, data shows | Reuters",
+      "description": "A Chinese supertanker carrying two million barrels of Iraqi crude sailed through the Strait of Hormuz on Wednesday ​after being stranded in the Gulf for more than two months due to ‌the U.S.-Iran war, LSEG and Kpler ship-tracking data showed.",
+      "url": "https://www.reuters.com/business/energy/chinese-supertanker-attempts-hormuz-passage-data-show-2026-05-13/",
+      "source": "reuters.com",
+      "published_at": "2026-05-13T07:52:47+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-windward-ai-blog-commercial-shipping-around-hormuz-is-increasingly-going-dark",
+      "title": "Commercial Shipping Around Hormuz Is Increasingly Going Dark",
+      "description": "Dark tanker activity, IRGC patrols, EMCON transits, and export bottlenecks are increasing instability and reducing visibility around the Strait of Hormuz.",
+      "url": "https://windward.ai/blog/commercial-shipping-around-hormuz-is-increasingly-going-dark/",
+      "source": "windward.ai",
+      "published_at": "2026-05-11T17:17:42+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-pbs-org-newshour-world-u-s-fires-on-and-disables-2-more-iranian-tankers-as-tensions-rise-in-the-strait-of-horm",
+      "title": "U.S. fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz | PBS News",
+      "description": "The attacks cast more doubt on a tenuous month-old ceasefire that the United States has insisted is still in effect.",
+      "url": "https://www.pbs.org/newshour/world/u-s-fires-on-and-disables-2-more-iranian-tankers-as-tensions-rise-in-the-strait-of-hormuz",
+      "source": "pbs.org",
+      "published_at": "2026-05-08T21:39:12+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-carraglobe-com-strait-of-hormuz-closure-2026",
+      "title": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes - Carra Globe",
+      "description": "Updated May 2026: 1,550 vessels stranded, 22,500 mariners trapped. Strait of Hormuz closure 2026 impact, routes, and what to do now.",
+      "url": "https://carraglobe.com/strait-of-hormuz-closure-2026/",
+      "source": "carraglobe.com",
+      "published_at": "2026-05-08T06:51:41+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-pbs-org-newshour-economy-shipping-firms-are-being-whipsawed-by-changing-stances-and-risks-as-they-wait-for-hor",
+      "title": "Shipping firms are being whipsawed by changing stances and risks as they wait for Hormuz to reopen | PBS News",
+      "description": "To pressure Iran, the U.S. Navy is blockading Iran's ports, enforcing the blockade outside the strait in the Gulf of Oman and the Arabian Sea.",
+      "url": "https://www.pbs.org/newshour/economy/shipping-firms-are-being-whipsawed-by-changing-stances-and-risks-as-they-wait-for-hormuz-to-reopen",
+      "source": "pbs.org",
+      "published_at": "2026-05-07T19:58:25+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-gulfnews-com-world-mena-defying-maritime-law-iran-imposes-new-shipping-rules-in-strait-of-hormuz-1-500532868",
+      "title": "Iran Imposes New Strait of Hormuz Shipping Rules, Defies Maritime Law and Threatens Global Oil Trade",
+      "description": "Iran’s new Strait of Hormuz rules defy maritime law, threaten global oil flows and raise risks for shippers amid rising tensions and collapsing traffic.",
+      "url": "https://gulfnews.com/world/mena/defying-maritime-law-iran-imposes-new-shipping-rules-in-strait-of-hormuz-1.500532868",
+      "source": "gulfnews.com",
+      "published_at": "2026-05-07T16:19:57+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-pbs-org-newshour-world-u-s-says-2-merchant-ships-have-crossed-the-strait-of-hormuz-as-navy-helps-to-restore-sh",
+      "title": "U.S. says 2 merchant ships have crossed the Strait of Hormuz as Navy helps to restore shipping traffic | PBS News",
+      "description": "The U.S.-led Joint Maritime Information Center has advised ships to cross the strait in Oman's waters, saying it set up an \"enhanced security area.\"",
+      "url": "https://www.pbs.org/newshour/world/u-s-says-2-merchant-ships-have-crossed-the-strait-of-hormuz-as-navy-helps-to-restore-shipping-traffic",
+      "source": "pbs.org",
+      "published_at": "2026-05-04T14:18:19+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-nytimes-com-2026-05-04-business-trump-hormuz-shipping-companies-html",
+      "title": "Confusion in Strait of Hormuz Leaves Shipping Firms Guessing - The New York Times",
+      "description": "The U.S. vowed to help tankers navigate the perilous conditions that have kept them stranded in the Persian Gulf, but it remained unclear if companies would try to get out.",
+      "url": "https://www.nytimes.com/2026/05/04/business/trump-hormuz-shipping-companies.html",
+      "source": "nytimes.com",
+      "published_at": "2026-05-04T14:08:35+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-reuters-com-world-middle-east-most-strait-hormuz-shipping-standstill-despite-latest-us-pledge-2026-05-04",
+      "title": "Most Strait of Hormuz shipping at a standstill despite latest US pledge | Reuters",
+      "description": "There were no signs of increased vessel traffic through the Strait of Hormuz ‌on Monday, a day after President Donald Trump said the U.S. would begin efforts to free up shipping.",
+      "url": "https://www.reuters.com/world/middle-east/most-strait-hormuz-shipping-standstill-despite-latest-us-pledge-2026-05-04/",
+      "source": "reuters.com",
+      "published_at": "2026-05-04T11:53:57+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-bbc-com-news-articles-c3v2l2qq9qlo",
+      "title": "Strait of Hormuz: US threatens shipping firms with sanctions if they pay Iran tolls",
+      "description": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo",
+      "source": "bbc.com",
+      "published_at": "2026-05-02T13:59:32+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-reuters-com-world-middle-east-hormuz-shipping-traffic-remains-trickle-us-iran-deadlock-deepens-2026-04-29",
+      "title": "Hormuz shipping traffic remains at a trickle as US-Iran deadlock deepens | Reuters",
+      "description": "At least six ships - a fraction of the usual traffic - have crossed the Strait of Hormuz in the past 24 hours, shipping ​data showed on Wednesday, while the U.S. and Iran remain deadlocked ‌over coming to terms that would re-open the crucial waterway.",
+      "url": "https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-remains-trickle-us-iran-deadlock-deepens-2026-04-29/",
+      "source": "reuters.com",
+      "published_at": "2026-04-29T15:43:17+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-aljazeera-com-features-2026-4-28-when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again",
+      "title": "When will Strait of Hormuz be ‘safe’ for commercial shipping again? | Explainer | Al Jazeera",
+      "description": "Even if the strait reopens, shipping insurance could cost 20 times more than before the war, analysts say.",
+      "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again",
+      "source": "aljazeera.com",
+      "published_at": "2026-04-28T11:18:09+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-www-reuters-com-world-middle-east-shipping-traffic-through-hormuz-remains-muted-with-no-us-iran-deal-sight-data-20",
+      "title": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse | Reuters",
+      "description": "Six tankers loaded with Iranian oil have ‌been forced back to Iran by the U.S. blockade in recent days, ship-tracking data shows, underscoring the impact the Iran war is having on traffic through the Strait of Hormuz, a major global oil export route.",
+      "url": "https://www.reuters.com/world/middle-east/shipping-traffic-through-hormuz-remains-muted-with-no-us-iran-deal-sight-data-2026-04-27/",
+      "source": "reuters.com",
+      "published_at": "2026-04-27T11:42:04+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-news-un-org-en-story-2026-04-1167383",
+      "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities | UN News",
+      "description": "The blockading of ships in the Strait of Hormuz as a result of the conflict between the United States and Iran has demonstrated how ships and seafarers have become “leverage in geopolitical disputes,” according to the head of the UN’s International Maritime Organization (IMO).",
+      "url": "https://news.un.org/en/story/2026/04/1167383",
+      "source": "news.un.org",
+      "published_at": "2026-04-26T20:42:38+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Hormuz"
+    },
+    {
+      "id": "https-nytimes-com-2026-04-22-world-middleeast-iran-ships-attacked-strait-hormuz-html",
+      "title": "Strait of Hormuz Dangers Escalate as Iran Says It Seized 2 Cargo Ships - The New York Times",
+      "description": "Hours after President Trump extended a cease-fire, Tehran appeared to be exerting its authority in the contested waters near the strait.",
+      "url": "https://nytimes.com/2026/04/22/world/middleeast/iran-ships-attacked-strait-hormuz.html",
+      "source": "nytimes.com",
+      "published_at": "2026-04-22T12:58:53+00:00",
+      "origin": "Brave News",
       "chokepoint": "Strait of Hormuz"
     }
   ],
@@ -216,6 +646,28 @@
         ],
         "risk_type": "market",
         "summary": "Global Container Rates Climb Due to Strait of Hormuz Disruption FloorDaily.net",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-oilprice-com-latest-energy-news-world-news-three-supertankers-carrying-6-million-barrels-exit-strait-of-hormuz-htm",
+          "title": "Three Supertankers Carrying 6 Million Barrels Exit Strait of Hormuz",
+          "description": "Three commercial supertankers carrying a combined 6 million barrels of Middle East crude oil have successfully exited the Strait of Hormuz, Reuters reports. The vessels departed the strategic waterway on Wednesday, after being stranded inside the Persian Gulf for over two months, lending hope to an end to the closure of the strait. The crude cargoes were split evenly among three Very Large Crude Carriers (VLCCs) heading to Asian refining hubs. The first was Universal Winner, a South Korean-flagged supertanker carrying 2 million barrels of Kuwaiti…",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Three-Supertankers-Carrying-6-Million-Barrels-Exit-Strait-of-Hormuz.html",
+          "source": "Oilprice.com",
+          "published_at": "2026-05-20T13:30:00+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight",
+          "energy"
+        ],
+        "risk_type": "market",
+        "summary": "Three commercial supertankers carrying a combined 6 million barrels of Middle East crude oil have successfully exited the Strait of Hormuz, Reuters reports. The vessels departed the strategic waterway on Wednesday, after being stranded insi",
         "filter_method": "score-input"
       },
       {
@@ -280,6 +732,27 @@
         ],
         "risk_type": "policy",
         "summary": "UK eases Russian oil sanctions amid fears over fuel shortages after Hormuz disruption Anadolu Ajansı",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-www-reuters-com-world-middle-east-hormuz-closure-could-trigger-agrifood-shock-price-crisis-within-year-fao-warns-2",
+          "title": "Hormuz closure could trigger 'agrifood shock', price crisis within a year, FAO warns | Reuters",
+          "description": "The closure of the Strait of Hormuz is the beginning of a \"systemic agrifood shock\" that could trigger a severe global ​food price crisis within six to 12 months, the United ‌Nations Food and Agriculture Organization said on Wednesday.",
+          "url": "https://www.reuters.com/world/middle-east/hormuz-closure-could-trigger-agrifood-shock-price-crisis-within-year-fao-warns-2026-05-20/",
+          "source": "reuters.com",
+          "published_at": "2026-05-20T11:08:43+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "market",
+        "summary": "The closure of the Strait of Hormuz is the beginning of a \"systemic agrifood shock\" that could trigger a severe global ​food price crisis within six to 12 months, the United ‌Nations Food and Agriculture Organization said on Wednesday.",
         "filter_method": "score-input"
       },
       {
@@ -391,6 +864,114 @@
       },
       {
         "article": {
+          "id": "https-www-hellenicshippingnews-com-oil-prices-slip-as-u-s-hints-at-iran-talks-progress-tankers-exit-hormuz",
+          "title": "Oil prices slip as U.S. hints at Iran talks progress, tankers exit Hormuz",
+          "description": "Oil prices fell on Wednesday as markets awaited more cues on U.S.-Iran talks after Washington flagged progress in ongoing negotiations. Brent oil futures for July, the global crude benchmark, sank by 2.5% to $109.25 a barrel by 04:44 ET (08:44 GMT), while U.S. West Texas Intermediate crude futures dropped 1.9% to $102.35 a barrel. Both ...",
+          "url": "https://www.hellenicshippingnews.com/oil-prices-slip-as-u-s-hints-at-iran-talks-progress-tankers-exit-hormuz/",
+          "source": "Hellenic Shipping News Worldwide",
+          "published_at": "2026-05-20T10:00:27+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "energy"
+        ],
+        "risk_type": "market",
+        "summary": "Oil prices fell on Wednesday as markets awaited more cues on U.S.-Iran talks after Washington flagged progress in ongoing negotiations. Brent oil futures for July, the global crude benchmark, sank by 2.5% to $109.25 a barrel by 04:44 ET (08",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-www-hellenicshippingnews-com-europe-faces-oil-crunch-as-iran-war-chokes-hormuz-inventories-plunge",
+          "title": "Europe faces oil crunch as Iran war chokes Hormuz, inventories plunge",
+          "description": "Global oil inventories are plunging and may not recover until late 2027, as the Iran war and the closure of the Strait of Hormuz threaten to trigger physical shortages across Europe within weeks, according to a CNBC report. Analysts warn that even a swift reopening of the key shipping route will not prevent months of ...",
+          "url": "https://www.hellenicshippingnews.com/europe-faces-oil-crunch-as-iran-war-chokes-hormuz-inventories-plunge/",
+          "source": "Hellenic Shipping News Worldwide",
+          "published_at": "2026-05-20T10:00:23+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight",
+          "energy"
+        ],
+        "risk_type": "other",
+        "summary": "Global oil inventories are plunging and may not recover until late 2027, as the Iran war and the closure of the Strait of Hormuz threaten to trigger physical shortages across Europe within weeks, according to a CNBC report. Analysts warn th",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-koreajoongangdaily-joins-com-news-2026-05-20-national-diplomacy-as-korean-tanker-transits-strait-of-hormuz-questio",
+          "title": "As Korean tanker transits Strait of Hormuz, questions arise over how",
+          "description": "A Korean-flagged vessel is now passing through the Strait of Hormuz after being stranded in the Persian Gulf for months, according to the Korean foreign minister on Wednesday.",
+          "url": "https://koreajoongangdaily.joins.com/news/2026-05-20/national/diplomacy/As-Korean-tanker-transits-Strait-of-Hormuz-questions-arise-over-how/2597063",
+          "source": "koreajoongangdaily.joins.com",
+          "published_at": "2026-05-20T09:41:08+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight",
+          "energy"
+        ],
+        "risk_type": "other",
+        "summary": "A Korean-flagged vessel is now passing through the Strait of Hormuz after being stranded in the Persian Gulf for months, according to the Korean foreign minister on Wednesday.",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-oilprice-com-latest-energy-news-world-news-india-eyes-direct-gulf-oil-loading-despite-hormuz-blockade-html",
+          "title": "India Eyes Direct Gulf Oil Loading Despite Hormuz Blockade",
+          "description": "India plans to send empty tankers into the Strait of Hormuz to load oil supplies from the Gulf producers in a first such Indian move west of the chokepoint for loading crude and LPG since the Iran war began, sources with knowledge of the matter told Bloomberg on Wednesday. Despite the closed Strait of Hormuz, which has now been nearly inaccessible for 80 days, India has seen some shipments out of the Gulf pass through the critical chokepoint, likely with the blessing of both Iran and the U.S., which have been separately blockading the shipping…",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Eyes-Direct-Gulf-Oil-Loading-Despite-Hormuz-Blockade.html",
+          "source": "Oilprice.com",
+          "published_at": "2026-05-20T09:20:00+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight",
+          "energy"
+        ],
+        "risk_type": "market",
+        "summary": "India plans to send empty tankers into the Strait of Hormuz to load oil supplies from the Gulf producers in a first such Indian move west of the chokepoint for loading crude and LPG since the Iran war began, sources with knowledge of the ma",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-splash247-com-strait-cash-iran-revives-a-centuries-old-maritime-business-model",
+          "title": "Strait cash: Iran revives a centuries-old maritime business model",
+          "description": "Andrew Craig-Bennett on what Iran can learn from the kings who monetised the Baltic. “History doesn’t repeat itself, but it often rhymes” Mark Twain The Strait of Hormuz has been pretty much closed for more than 80 days now. Iran wants to control the strait and charge a toll. The US doesn’t want them to. …",
+          "url": "https://splash247.com/strait-cash-iran-revives-a-centuries-old-maritime-business-model/",
+          "source": "Splash247",
+          "published_at": "2026-05-20T08:37:55+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Andrew Craig-Bennett on what Iran can learn from the kings who monetised the Baltic. “History doesn’t repeat itself, but it often rhymes” Mark Twain The Strait of Hormuz has been pretty much closed for more than 80 days now. Iran wants to c",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmitwfbvv95cuxnu3hnwezkmdlpa2nqefi3azlsaji0undsdfkxdfrmvf9pum9hrkm3ujjta2wzdgzhekd0u",
           "title": "S. Korea-operated vessel passing through Strait of Hormuz: foreign minister - upi.com",
           "description": "S. Korea-operated vessel passing through Strait of Hormuz: foreign minister upi.com",
@@ -434,6 +1015,28 @@
       },
       {
         "article": {
+          "id": "https-oilprice-com-latest-energy-news-world-news-two-supertankers-exit-hormuz-with-crude-bound-for-china-html",
+          "title": "Two Supertankers Exit Hormuz With Crude Bound for China",
+          "description": "Two supertankers loaded with crude oil exited the Strait of Hormuz today and are heading to China, Reuters reported, citing data from LSEG and Kpler. The vessels are carrying Iraqi and some Qatari crude, loaded in late February and early March. The cargoes were ordered by Chinese energy majors Unipec and Sinochem. Last week, Iran said it had allowed as many as 30 vessels to pass through the Strait of Hormuz, after indicating it would operate on a per-government basis, agreeing deals with individual countries that rely on the energy flows out of…",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Exit-Hormuz-With-Crude-Bound-for-China.html",
+          "source": "Oilprice.com",
+          "published_at": "2026-05-20T07:00:00+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Strait of Hormuz"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight",
+          "energy"
+        ],
+        "risk_type": "market",
+        "summary": "Two supertankers loaded with crude oil exited the Strait of Hormuz today and are heading to China, Reuters reported, citing data from LSEG and Kpler. The vessels are carrying Iraqi and some Qatari crude, loaded in late February and early Ma",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmiuwfbvv95cuxovkzdcxdlodd5dkplcxjyt2htagl6tnfhdetxmhiwawjwmmdid1otqmtzmxlqcuhgslvhx",
           "title": "Shipping traffic through Strait of Hormuz rebounds, report says - news.cgtn.com",
           "description": "Shipping traffic through Strait of Hormuz rebounds, report says news.cgtn.com",
@@ -452,94 +1055,31 @@
         "risk_type": "other",
         "summary": "Shipping traffic through Strait of Hormuz rebounds, report says news.cgtn.com",
         "filter_method": "score-input"
-      },
-      {
-        "article": {
-          "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxtfbmtddasvk2m0d1zdbirejwy1dvcthxbhzysu1seni1njlnmwtpztlpngjluf9ncnbqb0rrc",
-          "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks - UN News",
-          "description": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks UN News",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmTDdaSVk2M0d1ZDBiREJwY1dvcThXbHZySU1SenI1NjlNMWtPZTlPNGJlUF9ncnBQb0RrcXNrNjlSclJWLVVRcEFqU1QycmFwY3ZpYXBXVQ?oc=5",
-          "source": "UN News",
-          "published_at": "2026-05-19T18:14:28+00:00",
-          "origin": "Google News RSS",
-          "chokepoint": "Strait of Hormuz"
-        },
-        "relevant": true,
-        "confidence": 1.0,
-        "severity": 0,
-        "impact_tags": [
-          "freight"
-        ],
-        "risk_type": "other",
-        "summary": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks UN News",
-        "filter_method": "score-input"
-      },
-      {
-        "article": {
-          "id": "https-news-google-com-rss-articles-cbmipwfbvv95cuxpshbashryef81dndxn1jnuetruursd1zjevbeul9ga3vodjbxv1f6ceqyukzvu2ppuuxqs",
-          "title": "Strait of Hormuz: Belgian shipping group says blocked ships’ crews are safe - belganewsagency.eu",
-          "description": "Strait of Hormuz: Belgian shipping group says blocked ships’ crews are safe belganewsagency.eu",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSHBaSHRYeF81dndXN1JNUEtrUURsd1ZJeVBEUl9Ga3VOdjBXV1F6cEQyUkZVU2pPUUxQSkhSclBqTEp2T3hIRm5hLTA1NmN3Zm1vdVVVZlBPdEtWTEwtWmRYLTJ6Y2laLTRyQ2MzbzN0S0l5NEw1M2xXdGpxRUZkNVVxTmY5QUstRlQxVGJWY2ZscWZSSkJ2RFBzcUVwcjE2eE1ndkRBSQ?oc=5",
-          "source": "belganewsagency.eu",
-          "published_at": "2026-05-19T16:33:00+00:00",
-          "origin": "Google News RSS",
-          "chokepoint": "Strait of Hormuz"
-        },
-        "relevant": true,
-        "confidence": 1.0,
-        "severity": 0,
-        "impact_tags": [
-          "freight"
-        ],
-        "risk_type": "other",
-        "summary": "Strait of Hormuz: Belgian shipping group says blocked ships’ crews are safe belganewsagency.eu",
-        "filter_method": "score-input"
-      },
-      {
-        "article": {
-          "id": "https-news-google-com-rss-articles-cbminwfbvv95cuxozg1ksmc0bldnt0rxmw51cznkr294v25trdz6vuvcb09vuwrzuexma0uxcgf6c3pusxaxr",
-          "title": "A ship’s crew risked the Strait of Hormuz. They met with a hail of bullets. - The Washington Post",
-          "description": "A ship’s crew risked the Strait of Hormuz. They met with a hail of bullets. The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZG1KSmc0bldNT0RxMW51czNKR294V25tRDZ6VUVCb09vUWRzUExMa0UxcGF6c3puSXAxRjdqQ1A2NVBKbXlNNmRBWnhmNDRNdEZnTUNHUDRxem5yc1JycUpJRmU0WncyQVhZZ0UwNHN5OTNKT2ZRcFV2eXVScEFVYzQzY2pyXzRLQno5WGp3blhaeUtVeE9jaDBnbnNoLUE?oc=5",
-          "source": "The Washington Post",
-          "published_at": "2026-05-19T16:00:00+00:00",
-          "origin": "Google News RSS",
-          "chokepoint": "Strait of Hormuz"
-        },
-        "relevant": true,
-        "confidence": 1.0,
-        "severity": 0,
-        "impact_tags": [
-          "monitoring"
-        ],
-        "risk_type": "other",
-        "summary": "A ship’s crew risked the Strait of Hormuz. They met with a hail of bullets. The Washington Post",
-        "filter_method": "score-input"
       }
     ],
     "tension_score": 91,
-    "market_summary": "The Strait of Hormuz remains highly volatile with Iran implementing new transit tolls and checkpoints, while U.S. sanctions target Iranian oil trade. Shipping traffic shows signs of recovery but remains well below normal with significant insurance and security costs. Global container rates are climbing as the crisis disrupts multiple commodity flows beyond just energy.",
-    "score_rationale": "Active conflict dynamics, new Iranian transit controls, and U.S. sanctions create high disruption risk despite some traffic recovery from recent lows.",
+    "market_summary": "Strait of Hormuz shows signs of partial reopening with several tankers exiting after months of closure, but Iran's new transit toll mechanism and ongoing geopolitical tensions maintain high risk. Global container rates are climbing, and the FAO warns of potential agrifood shock within 6-12 months due to the disruption. European oil inventories are critically low, with potential shortages expected within weeks despite",
+    "score_rationale": "Acute crisis conditions persist with partial reopening amid high political tensions, Iranian control measures, and severe supply chain disruptions across multiple commodity classes.",
     "political_context_score": 85,
     "logistics_score": 70,
     "weather_score": 5,
     "assessment_method": "ollama-aggregate",
-    "updated_at": "2026-05-20T14:36:35.506318+00:00"
+    "updated_at": "2026-05-20T15:26:55.752762+00:00"
   },
   "weather": {
-    "time": "2026-05-20T14:30",
-    "wave_height": 1.32,
+    "time": "2026-05-20T15:15",
+    "wave_height": 1.4,
     "wave_height_unit": "m",
-    "wave_direction": 238,
+    "wave_direction": 240,
     "wave_direction_unit": "°",
-    "wave_period": 4.3,
+    "wave_period": 4.45,
     "wave_period_unit": "s",
-    "wind_wave_height": 1.32,
-    "swell_wave_height": 0.1,
-    "wind_time": "2026-05-20T14:30",
-    "wind_speed": 39.9,
+    "wind_wave_height": 1.4,
+    "swell_wave_height": 0.12,
+    "wind_time": "2026-05-20T15:15",
+    "wind_speed": 40.9,
     "wind_speed_unit": "km/h",
-    "wind_gusts": 52.6,
+    "wind_gusts": 54.0,
     "wind_gusts_unit": "km/h",
     "weather_code": 0
   }

@@ -11,10 +11,69 @@ from typing import Iterable
 
 import requests
 
-from core.config import CHOKEPOINTS, CURATED_RSS_FEEDS, GENERAL_TRADE_TERMS, Chokepoint
+from core.config import CHOKEPOINTS, CHOKEPOINT_CONTEXT_TERMS, CURATED_RSS_FEEDS, GENERAL_TRADE_TERMS, Chokepoint
 
 
 REQUEST_TIMEOUT_SECONDS = 14
+BRAVE_NEWS_ENDPOINT = "https://api.search.brave.com/res/v1/news/search"
+
+
+def read_brave_api_key(path: str = "brave.tkt") -> str:
+    try:
+        import streamlit as st
+        key = st.secrets.get("BRAVE_API_KEY", "")
+        if key:
+            return str(key).strip()
+    except Exception:
+        pass
+    try:
+        return open(path, "r", encoding="utf-8").read().strip().splitlines()[0].strip()
+    except OSError:
+        return ""
+
+
+def brave_news_query(chokepoint: Chokepoint) -> str:
+    aliases_part = " OR ".join(f'"{alias}"' for alias in chokepoint.aliases[:2])
+    return (
+        f"({aliases_part}) "
+        "(shipping OR maritime OR commodity OR freight OR tanker OR cargo "
+        "OR attack OR disruption OR sanctions OR rerouting OR security OR closure)"
+    )
+
+
+def fetch_brave_news_articles(
+    chokepoint: Chokepoint,
+    api_key: str,
+    count: int = 20,
+) -> list[Article]:
+    if not api_key:
+        return []
+    response = requests.get(
+        BRAVE_NEWS_ENDPOINT,
+        headers={"X-Subscription-Token": api_key, "Accept": "application/json"},
+        params={"q": brave_news_query(chokepoint), "count": count, "search_lang": "en", "country": "us"},
+        timeout=REQUEST_TIMEOUT_SECONDS,
+    )
+    response.raise_for_status()
+    articles: list[Article] = []
+    for item in response.json().get("results", []) or []:
+        title = clean_text(item.get("title"))
+        url = item.get("url", "")
+        if not title or not url:
+            continue
+        published = parse_datetime(item.get("page_age") or "")
+        source = clean_text((item.get("meta_url") or {}).get("netloc") or "Brave News")
+        articles.append(Article(
+            id=article_id(url, title),
+            title=title,
+            description=clean_text(item.get("description") or ""),
+            url=url,
+            source=source,
+            published_at=iso_or_blank(published),
+            origin="Brave News",
+            chokepoint=chokepoint.name,
+        ))
+    return articles
 
 
 @dataclass(frozen=True)
@@ -83,16 +142,6 @@ def article_id(url: str, title: str) -> str:
     return normalized[:120] or "article"
 
 
-def gdelt_query(chokepoint: Chokepoint) -> str:
-    aliases = " OR ".join(f'"{alias}"' for alias in chokepoint.aliases)
-    core_terms = (
-        "shipping OR maritime OR freight OR vessel OR cargo OR commodity OR commodities "
-        'OR "raw materials" OR "supply chain" OR port OR congestion OR rerouting '
-        "OR disruption OR blockage OR drought OR attack OR security OR sanctions OR storm"
-    )
-    return f"({aliases}) ({core_terms})"
-
-
 def google_query(chokepoint: Chokepoint, days: int) -> str:
     aliases = " OR ".join(f'"{alias}"' for alias in chokepoint.aliases[:3])
     return (
@@ -101,49 +150,6 @@ def google_query(chokepoint: Chokepoint, days: int) -> str:
         "OR port OR congestion OR rerouting OR disruption OR blockage OR drought OR attack) "
         f"when:{days}d"
     )
-
-
-def fetch_gdelt_articles(chokepoint: Chokepoint, days: int, max_records: int) -> list[Article]:
-    end = utc_now()
-    start = end - timedelta(days=days)
-    params = {
-        "query": gdelt_query(chokepoint),
-        "mode": "ArtList",
-        "format": "json",
-        "maxrecords": str(max_records),
-        "sort": "HybridRel",
-        "startdatetime": start.strftime("%Y%m%d%H%M%S"),
-        "enddatetime": end.strftime("%Y%m%d%H%M%S"),
-    }
-    response = requests.get(
-        "https://api.gdeltproject.org/api/v2/doc/doc",
-        params=params,
-        timeout=REQUEST_TIMEOUT_SECONDS,
-    )
-    response.raise_for_status()
-    payload = response.json()
-
-    articles: list[Article] = []
-    for raw in payload.get("articles", []) or []:
-        title = clean_text(raw.get("title"))
-        url = raw.get("url", "")
-        if not title or not url:
-            continue
-        published = parse_datetime(raw.get("seendate", ""))
-        source = raw.get("domain") or raw.get("sourceCountry") or "GDELT"
-        articles.append(
-            Article(
-                id=article_id(url, title),
-                title=title,
-                description=clean_text(raw.get("snippet") or raw.get("sourceCollection") or ""),
-                url=url,
-                source=source,
-                published_at=iso_or_blank(published),
-                origin="GDELT",
-                chokepoint=chokepoint.name,
-            )
-        )
-    return articles
 
 
 def fetch_google_news_articles(chokepoint: Chokepoint, days: int, max_records: int) -> list[Article]:
@@ -226,13 +232,19 @@ def attach_curated_articles_to_chokepoint(
     chokepoint: Chokepoint, curated_articles: Iterable[Article]
 ) -> list[Article]:
     aliases = tuple(alias.lower() for alias in chokepoint.aliases)
+    context_terms = tuple(t.lower() for t in CHOKEPOINT_CONTEXT_TERMS.get(chokepoint.name, ()))
     trade_terms = tuple(term.lower() for term in GENERAL_TRADE_TERMS)
     matches: list[Article] = []
     for article in curated_articles:
-        text = f"{article.title} {article.description}".lower()
-        alias_hit = any(alias in text for alias in aliases)
-        trade_hit = any(term in text for term in trade_terms)
-        if alias_hit and trade_hit:
+        title = article.title.lower()
+        full_text = f"{article.title} {article.description}".lower()
+        title_alias_hit = any(alias in title for alias in aliases)
+        full_alias_hit = any(alias in full_text for alias in aliases)
+        context_hit = any(term in full_text for term in context_terms)
+        trade_hit = any(term in full_text for term in trade_terms)
+        # Accept if: alias in title (strong signal), OR context term hit,
+        # OR alias anywhere in text + at least one trade term
+        if title_alias_hit or context_hit or (full_alias_hit and trade_hit):
             matches.append(
                 Article(
                     id=article.id,
@@ -264,17 +276,3 @@ def dedupe_articles(articles: Iterable[Article]) -> list[Article]:
     return sorted(unique, key=sort_key, reverse=True)
 
 
-def fetch_articles_for_chokepoint(
-    chokepoint: Chokepoint,
-    days: int = 30,
-    max_records_per_source: int = 45,
-    curated_articles: Iterable[Article] = (),
-) -> list[Article]:
-    articles: list[Article] = []
-    for fetcher in (fetch_gdelt_articles, fetch_google_news_articles):
-        try:
-            articles.extend(fetcher(chokepoint, days=days, max_records=max_records_per_source))
-        except Exception:
-            continue
-    articles.extend(attach_curated_articles_to_chokepoint(chokepoint, curated_articles))
-    return dedupe_articles(articles)

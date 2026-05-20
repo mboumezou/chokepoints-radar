@@ -105,10 +105,35 @@ HIGH_RISK_TERMS = (
     "sanction", "storm",
 )
 
+# Extra context terms used only for RSS article matching (broader than aliases)
+CHOKEPOINT_CONTEXT_TERMS: dict[str, tuple[str, ...]] = {
+    "Bab el-Mandeb": ("houthi", "houthis", "yemen", "gulf of aden", "red sea attack", "red sea shipping"),
+    "Strait of Hormuz": ("persian gulf", "iran sanctions", "gulf tensions", "iran oil", "iran nuclear"),
+    "Suez Canal": ("red sea rerouting", "red sea disruption", "port said", "suez blockage"),
+    "Strait of Gibraltar": ("western mediterranean", "algeciras", "ceuta", "strait traffic"),
+    "Panama Canal": ("gatun lake", "canal drought", "canal restrictions", "canal water level"),
+    "Strait of Malacca": ("south china sea", "singapore strait", "piracy asia"),
+    "Cape of Good Hope": ("cape route", "africa rerouting", "suez alternative", "cape storms"),
+}
+
+
 CURATED_RSS_FEEDS = (
+    # ── Maritime / Shipping ──────────────────────────────────────────────
     "https://gcaptain.com/feed/",
     "https://safety4sea.com/feed/",
     "https://www.hellenicshippingnews.com/feed/",
     "https://www.freightwaves.com/feed/",
     "https://maritime-executive.com/rss",
+    "https://splash247.com/feed/",
+    "https://www.seatrade-maritime.com/rss.xml",
+    "https://www.marinelink.com/rss/",
+    "https://www.offshore-energy.biz/feed/",
+    # ── Energy / Commodities ─────────────────────────────────────────────
+    "https://oilprice.com/rss/main",
+    "https://www.mining.com/feed/",
+    # ── World News / Geopolitics ─────────────────────────────────────────
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "https://feeds.reuters.com/reuters/worldNews",
+    "https://feeds.reuters.com/reuters/businessNews",
 )

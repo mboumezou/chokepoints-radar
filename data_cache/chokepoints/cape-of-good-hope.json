@@ -1,7 +1,7 @@
 {
   "schema_version": 5,
   "name": "Cape of Good Hope",
-  "updated_at": "2026-05-20T14:37:57.850877+00:00",
+  "updated_at": "2026-05-20T15:27:15.350640+00:00",
   "last_article_at": "2026-05-19T16:33:35+00:00",
   "articles": [
     {
@@ -11,6 +11,16 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRSzlVTE0tZjRWM3hfUVVCOE1qWDE0bTdGUXBZNlVTRXhDYS1fWXQzUmZCY1JobUljQ2pFYkJfWFpNZlBiWUpQcGVXOVoxdFJfaFFIRFVnSHhvVzNLUHJ3dVRFQWw3aW5ydnJCckZB?oc=5",
       "source": "Travel And Tour World",
       "published_at": "2026-05-19T16:33:35+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Cape of Good Hope"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivgfbvv95cuxoztzav2ppuxvfdul6atf5mxlvzzrudznuvhbzyxbhnw1odfrvtnlloeplm2vlog51vgzws",
+      "title": "Concerns over traffic and parking at Granger Bay expansion discussed at meeting - CapeTowner",
+      "description": "Concerns over traffic and parking at Granger Bay expansion discussed at meeting CapeTowner",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZTZaV2pPUXVfdUl6aTF5MXlvZzRUdzNuVHBzYXBHNW1OdFRvTnllOEpLM2VLOG51VGZWSEh0OWZpd3hKdHd4MkU0RTVHOV9rbkdlWFVsNmctdGlKS1dTNjdoTVJnNzM4S21paTNYeGt0VkJ0dTVNaGZFbXktV2sxZHpmZEpPS25WYlNra21INnQ0RjZZMGZmSnNsNUVqOTJwYWNMcDFoc1RwMVN3SDhsbHNXdDBoMlYtU3dkLURB?oc=5",
+      "source": "CapeTowner",
+      "published_at": "2026-05-18T15:55:02+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Cape of Good Hope"
     },
@@ -35,12 +45,52 @@
       "chokepoint": "Cape of Good Hope"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmikafbvv95cuxocjheuxpkzmpivtg1d3lovwprbus4re95tdjlew9xs1rfr0w4evzybeixnvb1evk0shbgq",
+      "title": "Cape Town calls for input on road safety strategy - freightnews.co.za",
+      "description": "Cape Town calls for input on road safety strategy freightnews.co.za",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjhEUXpkZmpIVTg1d3lOVWpRbUs4RE95TDJleW9xS1RFR0w4eVZybEIxNVB1eVk0SHBGQ084Y0w4X2J5QWdwRGppRjlRLXoxOS1Dd1JHT0xBbk9vcHJxTkVXTWFkVVVQUmJqSjk1dWdzakdFbFpCQXhHXzlfVTZlcXVCMV9MQ1NqdDRVYlQwTzQ?oc=5",
+      "source": "freightnews.co.za",
+      "published_at": "2026-05-14T14:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Cape of Good Hope"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmijwfbvv95cuxqyzfhu2rnczncb0jkqmjnu1poczhqs05bnxc2vk5oa0nvwhhtrfdqbw1lb0nxylezbnz1b",
       "title": "Port of Cape Town stacks extended to ease delays - freightnews.co.za",
       "description": "Port of Cape Town stacks extended to ease delays freightnews.co.za",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzFHU2RnczNCb0JkQmJnU1pOczhqS05BNXc2Vk5oa0NvWHhtRFdQbW1lb0NXYlEzbnZ1blJNNFJJZGZLLTI4dHJ4SEFiZXRlSE9hZU8yal9tYWFnMjRwSGVBV0pSQXFCR1hPelRNbXJaS3UxMUtBM1BRdWY1eWtibUtIVEY2WWZfNGExUU15Zw?oc=5",
       "source": "freightnews.co.za",
       "published_at": "2026-05-14T13:55:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Cape of Good Hope"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxqrutmnllxvgs1bxnkxzdunc1vszltdf9jzm1dq1m5rdfvadfoay11zdrld3fun1oytnd1y",
+      "title": "Cape Town dry dock bookings stretch into 2028 - freightnews.co.za",
+      "description": "Cape Town dry dock bookings stretch into 2028 freightnews.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUtMNllXVGs1bXNkXzduNC1vSzltdF9JZm1DQ1M5RDFVaDFOay11ZDRld3FUN1oyTnd1Y1B1QTZSS054ZEw4NWZybXRrT0E1c184NzlnV2E4ZG02VGhPQ3gzS2VpaGx4ZUZLZ095OXg3WU5MV0hvRjBKZnE4SVF1dzZxaFZ4MkM2aXQw?oc=5",
+      "source": "freightnews.co.za",
+      "published_at": "2026-05-08T15:20:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Cape of Good Hope"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxpzxd1tfdiahotchd4v251uvvowlrfeurzc09plwlvuwdimlhqd1bhdla4v2xnrdn5mdcze",
+      "title": "Why rail matters for Cape Town’s traffic congestion - GroundUp",
+      "description": "Why rail matters for Cape Town’s traffic congestion GroundUp",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXd1TFdiaHotcHd4V251UVVOWlRFeURZc09PLWlVUWdiMlhQd1BHdlA4V2xNRDN5MDczeS1xX2t6TG5Nb2lQOWthc1NyQ056VEN0Tkd3c1d4SGdKVHhWOHZacllydnV1X1lPcFp1X1VYZEtvak5JQllHNUl1MXIxVDE4NFV1MWVOY3M4?oc=5",
+      "source": "GroundUp",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Cape of Good Hope"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmimgfbvv95cuxnu3zjwwf0rziyqmruzmd1eeqzt1j2ngutbfdwuhlwcldevklyvkdwazawefgza0dvm1z6b",
+      "title": "Transnet opens Cape Town liquid bulk terminal bid - Bizcommunity",
+      "description": "Transnet opens Cape Town liquid bulk terminal bid Bizcommunity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3ZjWWF0RzIyQmRUZmd1eEQzT1J2NGUtbFdwUHlWcldEVklyVkdWazAweFgza0dvM1Z6b05iV25xdXR2dUFYY0YxY09iUW9BUThydjRaX0xwMGwzUmxUbzdSNG9YZzMyR1hTb3h1OW9XZnA5bHRDSHo2dXVSb0lvTzBjVm1Kc1Z1TDRzdVJScUhXcmRPekJfMnN3?oc=5",
+      "source": "Bizcommunity",
+      "published_at": "2026-05-07T07:00:00+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Cape of Good Hope"
     },
@@ -65,12 +115,12 @@
       "chokepoint": "Cape of Good Hope"
     },
     {
-      "id": "https-news-google-com-rss-articles-cbmilafbvv95cuxpdunnsgzvtw9detvxd3voakzmbxy0twtyyk1cow1va2hmblpgowlzlwozbhlkztrvrvhme",
-      "title": "Cape rerouting exposes South Africa’s maritime blind spots - ISS Africa",
-      "description": "Cape rerouting exposes South Africa’s maritime blind spots ISS Africa",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUNNSGZVTW9DeTVxd3VoakZMbXY0TWtyYk1COW1va2hmblpGOWlzLWozbHlKZTRVRVhmeTgzRzFiYktkZ1FhLVN6NGotOHhKcUEzRkRaSTNUVWc4ZjcwRHdzQi0xa1RBZGdWZGFyTXlUSHNySVhpQjE5R005dkowejIySXE3NVZWOXF6S1U4VjZLdlh5?oc=5",
-      "source": "ISS Africa",
-      "published_at": "2026-04-29T16:05:50+00:00",
+      "id": "https-news-google-com-rss-articles-cbmivgfbvv95cuxns3fcqxfomu9fumjlm05zog5lefnzz0tlvklmshvwwwiweuxdqmjhner2ahhkbl9mr01jv",
+      "title": "Travel Disruption in Cape Town now as Chapman’s Peak Drive Remains Closed - Travel And Tour World",
+      "description": "Travel Disruption in Cape Town now as Chapman’s Peak Drive Remains Closed Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3FCQXFOMU9FUmJLM05zOG5LeFNZZ0tLVklMSHVwWWIweUxDQmJhNER2aHhkbl9mR01jVmpnN2dDY01SajhUTFgxUHQ3cHByLTFPZGtZTnpTS1k1VUFMWmdKRlZqb2V0WGd1YWNnc1YyeTN6RU93WUFtMkhhUkxBZmVKbkRybThzOC1uR0tuZldpVWJJSzZzLU8tNXVhT0tXWktkTEpBMWYwbVdaWUpUZExMekdWX1BTUGxNMGd3?oc=5",
+      "source": "Travel And Tour World",
+      "published_at": "2026-05-02T07:44:36+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Cape of Good Hope"
     }
@@ -97,6 +147,27 @@
         ],
         "risk_type": "other",
         "summary": "Egypt Joins UK, US, Germany, UAE, Saudi Arabia, Spain, South Africa and Others in Urgent Global Push to Secure Alternate Shipping Routes, Expand Suez, Bab el-Mandeb and Cape of Good Hope Trade Corridors to Stabilize Oil, LNG and Jet Fuel Su",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmivgfbvv95cuxoztzav2ppuxvfdul6atf5mxlvzzrudznuvhbzyxbhnw1odfrvtnlloeplm2vlog51vgzws",
+          "title": "Concerns over traffic and parking at Granger Bay expansion discussed at meeting - CapeTowner",
+          "description": "Concerns over traffic and parking at Granger Bay expansion discussed at meeting CapeTowner",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZTZaV2pPUXVfdUl6aTF5MXlvZzRUdzNuVHBzYXBHNW1OdFRvTnllOEpLM2VLOG51VGZWSEh0OWZpd3hKdHd4MkU0RTVHOV9rbkdlWFVsNmctdGlKS1dTNjdoTVJnNzM4S21paTNYeGt0VkJ0dTVNaGZFbXktV2sxZHpmZEpPS25WYlNra21INnQ0RjZZMGZmSnNsNUVqOTJwYWNMcDFoc1RwMVN3SDhsbHNXdDBoMlYtU3dkLURB?oc=5",
+          "source": "CapeTowner",
+          "published_at": "2026-05-18T15:55:02+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Cape of Good Hope"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Concerns over traffic and parking at Granger Bay expansion discussed at meeting CapeTowner",
         "filter_method": "score-input"
       },
       {
@@ -143,6 +214,27 @@
       },
       {
         "article": {
+          "id": "https-news-google-com-rss-articles-cbmikafbvv95cuxocjheuxpkzmpivtg1d3lovwprbus4re95tdjlew9xs1rfr0w4evzybeixnvb1evk0shbgq",
+          "title": "Cape Town calls for input on road safety strategy - freightnews.co.za",
+          "description": "Cape Town calls for input on road safety strategy freightnews.co.za",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjhEUXpkZmpIVTg1d3lOVWpRbUs4RE95TDJleW9xS1RFR0w4eVZybEIxNVB1eVk0SHBGQ084Y0w4X2J5QWdwRGppRjlRLXoxOS1Dd1JHT0xBbk9vcHJxTkVXTWFkVVVQUmJqSjk1dWdzakdFbFpCQXhHXzlfVTZlcXVCMV9MQ1NqdDRVYlQwTzQ?oc=5",
+          "source": "freightnews.co.za",
+          "published_at": "2026-05-14T14:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Cape of Good Hope"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "market",
+        "summary": "Cape Town calls for input on road safety strategy freightnews.co.za",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmijwfbvv95cuxqyzfhu2rnczncb0jkqmjnu1poczhqs05bnxc2vk5oa0nvwhhtrfdqbw1lb0nxylezbnz1b",
           "title": "Port of Cape Town stacks extended to ease delays - freightnews.co.za",
           "description": "Port of Cape Town stacks extended to ease delays freightnews.co.za",
@@ -161,6 +253,69 @@
         ],
         "risk_type": "congestion",
         "summary": "Port of Cape Town stacks extended to ease delays freightnews.co.za",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxqrutmnllxvgs1bxnkxzdunc1vszltdf9jzm1dq1m5rdfvadfoay11zdrld3fun1oytnd1y",
+          "title": "Cape Town dry dock bookings stretch into 2028 - freightnews.co.za",
+          "description": "Cape Town dry dock bookings stretch into 2028 freightnews.co.za",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUtMNllXVGs1bXNkXzduNC1vSzltdF9JZm1DQ1M5RDFVaDFOay11ZDRld3FUN1oyTnd1Y1B1QTZSS054ZEw4NWZybXRrT0E1c184NzlnV2E4ZG02VGhPQ3gzS2VpaGx4ZUZLZ095OXg3WU5MV0hvRjBKZnE4SVF1dzZxaFZ4MkM2aXQw?oc=5",
+          "source": "freightnews.co.za",
+          "published_at": "2026-05-08T15:20:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Cape of Good Hope"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "market",
+        "summary": "Cape Town dry dock bookings stretch into 2028 freightnews.co.za",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxpzxd1tfdiahotchd4v251uvvowlrfeurzc09plwlvuwdimlhqd1bhdla4v2xnrdn5mdcze",
+          "title": "Why rail matters for Cape Town’s traffic congestion - GroundUp",
+          "description": "Why rail matters for Cape Town’s traffic congestion GroundUp",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXd1TFdiaHotcHd4V251UVVOWlRFeURZc09PLWlVUWdiMlhQd1BHdlA4V2xNRDN5MDczeS1xX2t6TG5Nb2lQOWthc1NyQ056VEN0Tkd3c1d4SGdKVHhWOHZacllydnV1X1lPcFp1X1VYZEtvak5JQllHNUl1MXIxVDE4NFV1MWVOY3M4?oc=5",
+          "source": "GroundUp",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Cape of Good Hope"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "congestion"
+        ],
+        "risk_type": "congestion",
+        "summary": "Why rail matters for Cape Town’s traffic congestion GroundUp",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmimgfbvv95cuxnu3zjwwf0rziyqmruzmd1eeqzt1j2ngutbfdwuhlwcldevklyvkdwazawefgza0dvm1z6b",
+          "title": "Transnet opens Cape Town liquid bulk terminal bid - Bizcommunity",
+          "description": "Transnet opens Cape Town liquid bulk terminal bid Bizcommunity",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3ZjWWF0RzIyQmRUZmd1eEQzT1J2NGUtbFdwUHlWcldEVklyVkdWazAweFgza0dvM1Z6b05iV25xdXR2dUFYY0YxY09iUW9BUThydjRaX0xwMGwzUmxUbzdSNG9YZzMyR1hTb3h1OW9XZnA5bHRDSHo2dXVSb0lvTzBjVm1Kc1Z1TDRzdVJScUhXcmRPekJfMnN3?oc=5",
+          "source": "Bizcommunity",
+          "published_at": "2026-05-07T07:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Cape of Good Hope"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Transnet opens Cape Town liquid bulk terminal bid Bizcommunity",
         "filter_method": "score-input"
       },
       {
@@ -208,12 +363,12 @@
       },
       {
         "article": {
-          "id": "https-news-google-com-rss-articles-cbmilafbvv95cuxpdunnsgzvtw9detvxd3voakzmbxy0twtyyk1cow1va2hmblpgowlzlwozbhlkztrvrvhme",
-          "title": "Cape rerouting exposes South Africa’s maritime blind spots - ISS Africa",
-          "description": "Cape rerouting exposes South Africa’s maritime blind spots ISS Africa",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUNNSGZVTW9DeTVxd3VoakZMbXY0TWtyYk1COW1va2hmblpGOWlzLWozbHlKZTRVRVhmeTgzRzFiYktkZ1FhLVN6NGotOHhKcUEzRkRaSTNUVWc4ZjcwRHdzQi0xa1RBZGdWZGFyTXlUSHNySVhpQjE5R005dkowejIySXE3NVZWOXF6S1U4VjZLdlh5?oc=5",
-          "source": "ISS Africa",
-          "published_at": "2026-04-29T16:05:50+00:00",
+          "id": "https-news-google-com-rss-articles-cbmivgfbvv95cuxns3fcqxfomu9fumjlm05zog5lefnzz0tlvklmshvwwwiweuxdqmjhner2ahhkbl9mr01jv",
+          "title": "Travel Disruption in Cape Town now as Chapman’s Peak Drive Remains Closed - Travel And Tour World",
+          "description": "Travel Disruption in Cape Town now as Chapman’s Peak Drive Remains Closed Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3FCQXFOMU9FUmJLM05zOG5LeFNZZ0tLVklMSHVwWWIweUxDQmJhNER2aHhkbl9mR01jVmpnN2dDY01SajhUTFgxUHQ3cHByLTFPZGtZTnpTS1k1VUFMWmdKRlZqb2V0WGd1YWNnc1YyeTN6RU93WUFtMkhhUkxBZmVKbkRybThzOC1uR0tuZldpVWJJSzZzLU8tNXVhT0tXWktkTEpBMWYwbVdaWUpUZExMekdWX1BTUGxNMGd3?oc=5",
+          "source": "Travel And Tour World",
+          "published_at": "2026-05-02T07:44:36+00:00",
           "origin": "Google News RSS",
           "chokepoint": "Cape of Good Hope"
         },
@@ -221,36 +376,36 @@
         "confidence": 1.0,
         "severity": 0,
         "impact_tags": [
-          "freight"
+          "monitoring"
         ],
-        "risk_type": "congestion",
-        "summary": "Cape rerouting exposes South Africa’s maritime blind spots ISS Africa",
+        "risk_type": "other",
+        "summary": "Travel Disruption in Cape Town now as Chapman’s Peak Drive Remains Closed Travel And Tour World",
         "filter_method": "score-input"
       }
     ],
     "tension_score": 47,
-    "market_summary": "The Cape of Good Hope is experiencing increased traffic and operational strain due to Suez/Bab el-Mandeb diversions, with significant port delays in Cape Town. While global powers are coordinating to secure alternative routes, South Africa's infrastructure limitations are creating bottlenecks and missed economic opportunities. Traders should factor in extended transit times and potential congestion-related surcharges",
-    "score_rationale": "Elevated tension from Suez diversions driving heavy traffic, compounded by port congestion and infrastructure constraints, though no active conflict or security incidents reported.",
-    "political_context_score": 40,
-    "logistics_score": 55,
+    "market_summary": "Cape of Good Hope faces moderate operational tension due to port congestion and infrastructure constraints, with dry dock bookings extended to 2028 and exporters warning of delays. While global efforts are underway to secure alternate routes, the chokepoint is experiencing increased traffic from Suez diversions without corresponding infrastructure improvements.",
+    "score_rationale": "Persistent port delays, infrastructure constraints, and increased traffic from Suez diversions create meaningful operational tension, though no active security threats are present.",
+    "political_context_score": 30,
+    "logistics_score": 60,
     "weather_score": 5,
     "assessment_method": "ollama-aggregate",
-    "updated_at": "2026-05-20T14:37:57.849519+00:00"
+    "updated_at": "2026-05-20T15:27:15.350640+00:00"
   },
   "weather": {
-    "time": "2026-05-20T14:30",
-    "wave_height": 2.36,
+    "time": "2026-05-20T15:15",
+    "wave_height": 2.32,
     "wave_height_unit": "m",
     "wave_direction": 146,
     "wave_direction_unit": "°",
     "wave_period": 7.95,
     "wave_period_unit": "s",
     "wind_wave_height": 0.96,
-    "swell_wave_height": 2.06,
-    "wind_time": "2026-05-20T14:30",
-    "wind_speed": 19.0,
+    "swell_wave_height": 2.04,
+    "wind_time": "2026-05-20T15:15",
+    "wind_speed": 18.0,
     "wind_speed_unit": "km/h",
-    "wind_gusts": 35.6,
+    "wind_gusts": 32.8,
     "wind_gusts_unit": "km/h",
     "weather_code": 0
   }

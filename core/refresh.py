@@ -16,9 +16,10 @@ from core.news import (
     Article,
     attach_curated_articles_to_chokepoint,
     dedupe_articles,
+    fetch_brave_news_articles,
     fetch_curated_feed_articles,
-    fetch_gdelt_articles,
     fetch_google_news_articles,
+    read_brave_api_key,
 )
 from core.cache import (
     ChokepointSnapshot,
@@ -37,7 +38,7 @@ def default_settings() -> dict:
         "max_records": 15,
         "max_stored_articles": 80,
         "max_ai_articles": 15,
-        "curated_feed_limit": 15,
+        "curated_feed_limit": 100,
         "model": DEFAULT_MODEL,
         "api_base": DEFAULT_OLLAMA_API_BASE,
         "use_ai": True,
@@ -84,6 +85,7 @@ def refresh_chokepoint_snapshot(
     settings: dict,
     curated_articles: list[Article],
     api_key: str,
+    brave_api_key: str,
     existing: ChokepointSnapshot | None,
     emit: Callable[[str], None],
 ) -> ChokepointSnapshot:
@@ -95,13 +97,13 @@ def refresh_chokepoint_snapshot(
     # ── Article fetching ──────────────────────────────────────────────────
     emit(f"{chokepoint.name}: window = last {refresh_days} day(s), {n} records/source.")
 
-    emit(f"{chokepoint.name}: [1/3] querying GDELT…")
-    gdelt_articles: list[Article] = []
+    emit(f"{chokepoint.name}: [1/3] querying Brave News Search…")
+    brave_articles: list[Article] = []
     try:
-        gdelt_articles = fetch_gdelt_articles(chokepoint, days=refresh_days, max_records=n)
-        emit(f"{chokepoint.name}: GDELT → {len(gdelt_articles)} articles.")
+        brave_articles = fetch_brave_news_articles(chokepoint, api_key=brave_api_key, count=n)
+        emit(f"{chokepoint.name}: Brave News → {len(brave_articles)} articles.")
     except Exception as exc:
-        emit(f"{chokepoint.name}: GDELT error — {exc}.")
+        emit(f"{chokepoint.name}: Brave News error — {exc}.")
 
     emit(f"{chokepoint.name}: [2/3] querying Google News RSS…")
     google_articles: list[Article] = []
@@ -111,12 +113,12 @@ def refresh_chokepoint_snapshot(
     except Exception as exc:
         emit(f"{chokepoint.name}: Google News error — {exc}.")
 
-    emit(f"{chokepoint.name}: [3/3] matching curated RSS pool…")
+    emit(f"{chokepoint.name}: [3/3] matching curated RSS pool ({len(curated_articles)} articles across {len(set(a.source for a in curated_articles))} feeds)…")
     curated_matched = attach_curated_articles_to_chokepoint(chokepoint, curated_articles)
     emit(f"{chokepoint.name}: curated RSS → {len(curated_matched)} matched.")
 
-    fetched_articles = dedupe_articles([*gdelt_articles, *google_articles, *curated_matched])
-    emit(f"{chokepoint.name}: {len(fetched_articles)} unique after dedup (GDELT+Google+RSS).")
+    fetched_articles = dedupe_articles([*brave_articles, *google_articles, *curated_matched])
+    emit(f"{chokepoint.name}: {len(fetched_articles)} unique after dedup (Brave + Google + RSS).")
 
     merged_articles = merge_and_trim_articles(
         existing_articles,
@@ -193,6 +195,12 @@ def refresh_targets(
         return
 
     api_key = read_ollama_api_key() if settings["use_ai"] else ""
+    brave_api_key = read_brave_api_key()
+    if brave_api_key:
+        emit("Brave News API key loaded.")
+    else:
+        emit("Brave News API key not found — Brave source skipped.")
+
     emit(
         f"Fetching curated maritime RSS feeds: last {settings['days']} day(s), "
         f"{settings['curated_feed_limit']} items/feed."
@@ -212,6 +220,7 @@ def refresh_targets(
                 settings=settings,
                 curated_articles=curated,
                 api_key=api_key,
+                brave_api_key=brave_api_key,
                 existing=existing,
                 emit=emit,
             )

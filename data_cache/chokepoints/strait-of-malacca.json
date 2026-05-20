@@ -1,9 +1,29 @@
 {
   "schema_version": 5,
   "name": "Strait of Malacca",
-  "updated_at": "2026-05-20T14:37:07.551357+00:00",
-  "last_article_at": "2026-05-11T17:17:30+00:00",
+  "updated_at": "2026-05-20T15:27:05.872268+00:00",
+  "last_article_at": "2026-05-18T09:47:58+00:00",
   "articles": [
+    {
+      "id": "https-www-seatrade-maritime-com-regulations-malaysia-trialling-automatic-ship-reporting-for-malacca-strait",
+      "title": "Malaysia trialling automatic ship reporting for Malacca Strait",
+      "description": "Electronic report submission and AIS identification being trialled at Klang VTS",
+      "url": "https://www.seatrade-maritime.com/regulations/malaysia-trialling-automatic-ship-reporting-for-malacca-strait",
+      "source": "seatrademaritime",
+      "published_at": "2026-05-18T09:47:58+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-breakbulk-news-malacca-strait-toll-debate-raises-fresh-fears-over-weaponization-of-global-shipping-chokepoints",
+      "title": "Malacca Strait Toll Debate Raises Fresh Fears Over Weaponization of Global Shipping Chokepoints",
+      "description": "Rising tensions around the #MalaccaStrait and #Hormuz are forcing carriers, insurers, and cargo owners to reassess exposure to maritime chokepoints as geopolitical risks threaten global #shipping, #containers, #projectcargo, and energy supply chains.",
+      "url": "https://breakbulk.news/malacca-strait-toll-debate-raises-fresh-fears-over-weaponization-of-global-shipping-chokepoints/",
+      "source": "breakbulk.news",
+      "published_at": "2026-05-15T16:20:20+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmi-wfbvv95cuxqmzzlm0xvu1y5s1p0oxdqaxhwa3dxm3vintlzctnlwu9vrflsmlrjnepcwmlzvdvanwfwm",
       "title": "Bridging Fragmentation In The Horn Of Africa-Gulf Logistics Systems: Lessons From The Malacca–ASEAN–Indian Ocean System – Analysis - Eurasia Review",
@@ -12,6 +32,16 @@
       "source": "Eurasia Review",
       "published_at": "2026-05-11T17:17:30+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-defencesecurityasia-com-en-indonesia-anka-drones-malacca-strait-south-china-sea-surveillance-power-shift",
+      "title": "Indonesia Deploys Turkish ANKA Drones at Malacca Strait, Triggering New Indo-Pacific Surveillance Power Shift Against Rising South China Sea Tensions - Defence Security Asia",
+      "description": "Indonesia is transforming Tanjungpinang into a forward ANKA drone hub overlooking the Malacca Strait, boosting maritime surveillance, ISR dominance, and strategic deterrence across the South China Sea and Indo-Pacific sea lanes.",
+      "url": "https://defencesecurityasia.com/en/indonesia-anka-drones-malacca-strait-south-china-sea-surveillance-power-shift/",
+      "source": "defencesecurityasia.com",
+      "published_at": "2026-05-11T14:13:54+00:00",
+      "origin": "Brave News",
       "chokepoint": "Strait of Malacca"
     },
     {
@@ -35,6 +65,36 @@
       "chokepoint": "Strait of Malacca"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmi7afbvv95cuxnovptvu1sqvdwtvpuylbzwmfzbun3n296ullntwv4qxvnrxjun0penlpyywrwwefbzthwn",
+      "title": "Malaysia and Indonesia weigh tolls for Strait of Malacca shipping - MSN",
+      "description": "Malaysia and Indonesia weigh tolls for Strait of Malacca shipping MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVptVU1sQVdwTVpuYlBzWmFzbUN3N296UllnTWV4QXVnRXJUN0pENlpyYWRWWEFBZThwN2Vob1BCV2tyMGJabk1LX2I3SUFHZzZPZlhTN1ZmWE9oM1RaWFRCYXgzZ0ZseE05eWZ5aHlqMkl2MHpGam9SWmF3X0dkUVpFOXh3SnFPNTFsNVRKeHczazFNR1Rlb1hSOE1hdDV3bUNBTkdsUTNqTURIZlJNQXVRT0g4TC1HMXNENElwTkVDZDZMbkp5YjkzaDVmb1hrbmppVnNTZlo1N0cwOUhTNnZWUG12dFRqYnd6Uw?oc=5",
+      "source": "MSN",
+      "published_at": "2026-05-10T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-businesstoday-com-my-2026-05-09-chokepoint-sovereignty-keeping-the-malacca-strait-open-for-resource-security",
+      "title": "Chokepoint Sovereignty: Keeping the Malacca Strait Open For Resource Security",
+      "description": "While Hormuz handles roughly 11 percent of global trade, Malacca facilitates a staggering 25 percent. It is the world’s premier trade highway, carrying over 23 million barrels of oil daily, which is more than any other maritime chokepoint on earth.",
+      "url": "https://businesstoday.com.my/2026/05/09/chokepoint-sovereignty-keeping-the-malacca-strait-open-for-resource-security",
+      "source": "businesstoday.com.my",
+      "published_at": "2026-05-08T23:15:04+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-nationalsecurityjournal-org-the-strait-of-hormuz-just-stopped-20-of-the-worlds-oil-but-the-strait-of-malacca-could",
+      "title": "The Strait of Hormuz Just Stopped 20% of the World's Oil — but the Strait of Malacca Could Stop One-Third of Global GDP - National Security Journal",
+      "description": "Iran has functionally closed the Strait of Hormuz during Operation Epic Fury, halting roughly 20% of the world’s oil supply and triggering an immediate energy price shock. But the Strait of Malacca carries $3.5 trillion in annual trade and one-third of global GDP — and 80% of China’s ...",
+      "url": "https://nationalsecurityjournal.org/the-strait-of-hormuz-just-stopped-20-of-the-worlds-oil-but-the-strait-of-malacca-could-stop-one-third-of-global-gdp",
+      "source": "nationalsecurityjournal.org",
+      "published_at": "2026-05-08T13:52:27+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiwgfbvv95cuxnnxjcdfzsb3bsudhytxrzsvpnyur2s3jnm1ayqtl4shduu1dmdmfdx1hwytdhcfzzwmhor",
       "title": "Indonesia’s Malacca Strait ‘toll’ proposal violates UNCLOS. Is there an alternative? - Indonesia at Melbourne",
       "description": "Indonesia’s Malacca Strait ‘toll’ proposal violates UNCLOS. Is there an alternative? Indonesia at Melbourne",
@@ -55,6 +115,26 @@
       "chokepoint": "Strait of Malacca"
     },
     {
+      "id": "https-fortune-com-2026-05-02-us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle",
+      "title": "The Iran war has turned the world's shipping straits into a chessboard—and the U.S. aims to box out China from the Panama Canal to the Malacca Strait | Fortune",
+      "description": "As the war over the Strait of Hormuz wages on, the U.S. is quietly gaining more influence over the Panama Canal and the straits of Malacca and Gibraltar.",
+      "url": "https://fortune.com/2026/05/02/us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle/",
+      "source": "fortune.com",
+      "published_at": "2026-05-02T07:08:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-amti-csis-org-how-indonesia-can-legally-increase-revenue-from-the-malacca-strait",
+      "title": "How Indonesia Can Legally Increase Revenue from the Malacca Strait | Asia Maritime Transparency Initiative",
+      "description": "Key takeaways Under international law, Indonesia has the obligation to ensure transit passage in the Malacca Strait; imposing a fee on vessels passing through the strait is illegal. However, Indonesia can maximize its strategic location by improving port infrastructure for maritime services, ...",
+      "url": "https://amti.csis.org/how-indonesia-can-legally-increase-revenue-from-the-malacca-strait",
+      "source": "amti.csis.org",
+      "published_at": "2026-05-01T13:20:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiqwfbvv95cuxpee8wbzzbrvbjog45q3fva1p5nwnmzvzicxb5ukxbbdzqak0yegvqqze4rhfkvegwwwfsv",
       "title": "Strait of Malacca Under Pressure: US–Indonesia Defense Pact Sparks Fears of New Global Oil Chokepoint Crisis Targeting China - Defence Security Asia",
       "description": "Strait of Malacca Under Pressure: US–Indonesia Defense Pact Sparks Fears of New Global Oil Chokepoint Crisis Targeting China Defence Security Asia",
@@ -62,6 +142,26 @@
       "source": "Defence Security Asia",
       "published_at": "2026-05-01T07:00:00+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-defencesecurityasia-com-en-malacca-strait-us-indonesia-defense-pact-china-energy-chokepoint-crisis",
+      "title": "Strait of Malacca Under Pressure: US–Indonesia Defense Pact Sparks Fears of New Global Oil Chokepoint Crisis Targeting China - Defence Security Asia",
+      "description": "The US–Indonesia defense pact is transforming the Strait of Malacca into a potential global flashpoint, threatening China’s oil supply routes and reshaping Indo-Pacific strategic competition amid rising chokepoint tensions.",
+      "url": "https://defencesecurityasia.com/en/malacca-strait-us-indonesia-defense-pact-china-energy-chokepoint-crisis/",
+      "source": "defencesecurityasia.com",
+      "published_at": "2026-05-01T03:09:39+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-scmp-com-week-asia-economics-article-3351687-why-asean-cooperation-remains-primary-shield-against-malacca-strait-t",
+      "title": "Why Malacca Strait tolls are unlikely despite Indonesia’s maritime push",
+      "description": "Indonesia, Malaysia and Singapore are united in upholding the principle of free passage but this must be ‘actively maintained’, analysts say.",
+      "url": "https://scmp.com/week-asia/economics/article/3351687/why-asean-cooperation-remains-primary-shield-against-malacca-strait-tolls",
+      "source": "scmp.com",
+      "published_at": "2026-04-28T07:58:19+00:00",
+      "origin": "Brave News",
       "chokepoint": "Strait of Malacca"
     },
     {
@@ -75,13 +175,13 @@
       "chokepoint": "Strait of Malacca"
     },
     {
-      "id": "https-news-google-com-rss-articles-cbmioafbvv95cuxqdvdsae14v3g1ovhhsffgaep2dg9trjhtdxh4aw03qjlpae1kyta2njk0teqztui4wdjxb",
-      "title": "Hormuz crisis throws spotlight on world’s largest ’chokepoint’ — the Malacca Strait - The Japan Times",
-      "description": "Hormuz crisis throws spotlight on world’s largest ’chokepoint’ — the Malacca Strait The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVdSaE14V3g1OVhHSFFGaEp2dG9tRjhtdXh4aW03QjlPaE1KYTA2Njk0TEQzTUI4WDJXbGtId1p1dXA1RzhZQTNCa2tNdThoTlBmRFd6WEMxSThkcmx6U18wQW1zNWttQ0U1YjV1a1NITkQwT3VJM2U5Ym5Ib1pGcUJWdHNMekpUUEJfLThfYmlrTGo1ODRnV0o0c1c3blVF?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-04-26T07:00:00+00:00",
-      "origin": "Google News RSS",
+      "id": "https-www-straitstimes-com-asia-se-asia-why-anxieties-are-rising-over-the-malacca-strait-asias-key-shipping-route",
+      "title": "Why anxieties are rising over the Malacca Strait, Asia’s key shipping route | The Straits Times",
+      "description": "The Strait of Malacca has come into sharper focus following the effective shutdown of the Hormuz strait by Iran. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/se-asia/why-anxieties-are-rising-over-the-malacca-strait-asias-key-shipping-route",
+      "source": "straitstimes.com",
+      "published_at": "2026-04-28T02:55:00+00:00",
+      "origin": "Brave News",
       "chokepoint": "Strait of Malacca"
     },
     {
@@ -115,6 +215,66 @@
       "chokepoint": "Strait of Malacca"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmizgfbvv95cuxotwleblzuek9vyuhisgzinnnlejhky01nekcyx205rmuyykznrzjebfbnbnlqnukyywitc",
+      "title": "Indonesia rules out levies for Malacca shipping, backs open sea lanes - Business Standard",
+      "description": "Indonesia rules out levies for Malacca shipping, backs open sea lanes Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWlEblZUek9VYUhISGZiNnNlejhKY01NekcyX205RmUyYkZnRzJEbFBNbnlQNUkyYWItcnNSejVaMTNiTWNNSUVmZThZVjlaSUFRT2x0WG1OaDRVMUxCWHFTeGNWZ0J5dkhLaUhoWXJLcmVFT3BpckhlQjZ0eHZMVnFHdmoxZDVkaFYtbHk0bTVYckxPaDBxTER0UVFYUk0ycENIdlpxdEZ0bklaUU53X2djVDcwVlVaRkEyaTdlZnFDb21HYk9DQUNxemhCQdIB0wFBVV95cUxNT0ZmU21PUGhqdy1BRnNDU3FpYUxodGlrdnFSMEZMcGkzRWs2d3ZMWlFzR0JiRk9qRGRqMlZJWG92NmJhMHRyRmcyTVZWMXlVLUJpZ0E5SnF3QTR0V29NTXB2RDJyUEpGb3JCaXNpQkZsNThWRzJBQ0h6ZjlTTlUtQTNWUFFOZWxFWGVEakd4SVpoa0ExV2FBeURwaFhkQ1dRTkpncDhLQkFfbWRXcy14Z3NTN3dSQWpLUEdIcXppbXJIcHB0NlRMbG1ZV3psUmVfSlp3?oc=5",
+      "source": "Business Standard",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuafbvv95cuxqyxhlqxrfztvrbmfkexnurm1zlu1bcxziajn3tjjhrg5irhhizkt2bwf4u2jkbjnvulzzw",
+      "title": "Indonesia affirms adherence to maritime law amid Malacca Strait levy proposal - The Online Citizen",
+      "description": "Indonesia affirms adherence to maritime law amid Malacca Strait levy proposal The Online Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXhlQXRFZTVRbmFKeXNuRm1ZLU1BcXZiajN3TjJhRG5IRHhiZkt2bWF4U2JKbjNvUlZzWDlDYjBIV1pRbW9VWTl2NmlxS2M3N0pQTmVQVDBTVUxKUjFjVnVlQ1FOemdocU91MDZmcDNaYWpMc0tQQWNCOEctYlhpOFQxRVBLaFRaRS1lRTBNVGRjNzNvWmRwZVBCbHRiREx3OTNvNVh2UldCc3l6UVJFb2tkOTdOVHhB?oc=5",
+      "source": "The Online Citizen",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-www-idnfinancials-com-news-63239-malacca-strait-in-focus-as-hormuz-disruption-reverberates-globally",
+      "title": "Malacca Strait in focus as Hormuz disruption reverberates globally | IDNFinancials",
+      "description": "Disruptions at Hormuz shift attention to Malacca, a vital global oil route facing elevated risks.",
+      "url": "https://www.idnfinancials.com/news/63239/malacca-strait-in-focus-as-hormuz-disruption-reverberates-globally",
+      "source": "idnfinancials.com",
+      "published_at": "2026-04-24T06:32:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitwfbvv95cuxnrflttdbuymhkqwnsyvzoslbdoui4cfhacwtawfzzu05trfdvmupxrjzfunfkuzfzeuxlw",
+      "title": "No unilateral moves on Strait of Malacca, says Malaysia - The Straits Times",
+      "description": "No unilateral moves on Strait of Malacca, says Malaysia The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFltTDBUYmhkQWNsYVZoSlBDOUI4cFhacWtaWFZzU05TRFdvMUpxRjZFUnFKUzFZeUxLWUZYV00yUml2ZWRUX0hLUTNwRHd6THpNZk9vYWtfUnJjY3pMTHNFWWI2QXBMZ1RRU1dfM1BpcG5EYVZreVlzUmlQeGJYUzdCcENuN2hhVVlNTnlIVWxoQndvZktxYXZpTHlQX3NvRG4tQjNOYUZBVlB4Y0pFRjk0Y3E4SEU?oc=5",
+      "source": "The Straits Times",
+      "published_at": "2026-04-23T12:27:02+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-discoveryalert-com-au-strategic-maritime-trade-vulnerabilities-malacca-hormuz-2026",
+      "title": "Hormuz Crisis Malacca Strait: Maritime Chokepoint Vulnerabilities Exposed",
+      "description": "Explore how the Hormuz crisis exposes vulnerabilities at the Malacca Strait chokepoint and other critical maritime passages.",
+      "url": "https://discoveryalert.com.au/strategic-maritime-trade-vulnerabilities-malacca-hormuz-2026",
+      "source": "discoveryalert.com.au",
+      "published_at": "2026-04-23T09:08:48+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-moderndiplomacy-eu-2026-04-23-hormuz-crisis-turns-attention-to-malacca-strait-the-worlds-most-critical-shipping-ch",
+      "title": "Hormuz Crisis Turns Attention to Malacca Strait the World’s Most Critical Shipping Chokepoint - Modern Diplomacy",
+      "description": "The ongoing disruption in the Strait of Hormuz has pushed governments and analysts to reassess the vulnerability of other major global trade routes.",
+      "url": "https://moderndiplomacy.eu/2026/04/23/hormuz-crisis-turns-attention-to-malacca-strait-the-worlds-most-critical-shipping-chokepoint/",
+      "source": "moderndiplomacy.eu",
+      "published_at": "2026-04-23T08:27:57+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiywfbvv95cuxpdmpxqnhfqkzydjbjyv8xm1lkv1jkrkfasxq2z3y3uhdwm25xcldbsek5mgs2vu5zr3bis",
       "title": "Hormuz Crisis Turns Attention to Malacca Strait the World’s Most Critical Shipping Chokepoint - Modern Diplomacy",
       "description": "Hormuz Crisis Turns Attention to Malacca Strait the World’s Most Critical Shipping Chokepoint Modern Diplomacy",
@@ -122,6 +282,16 @@
       "source": "Modern Diplomacy",
       "published_at": "2026-04-23T07:00:00+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-tekedia-com-malacca-strait-emerges-as-next-flashpoint-as-hormuz-disruption-ripples-across-global-trade",
+      "title": "Malacca Strait Emerges as Next Flashpoint as Hormuz Disruption Ripples Across Global Trade - Tekedia",
+      "description": "The effective closure of the Strait of Hormuz is beginning to reverberate far beyond the Middle East, redirecting focus to the Strait of Malacca, a corridor that underpins the flow of goods and energy into Asia’s industrial core. What initially appeared as a regional disruption is now being ...",
+      "url": "https://tekedia.com/malacca-strait-emerges-as-next-flashpoint-as-hormuz-disruption-ripples-across-global-trade",
+      "source": "tekedia.com",
+      "published_at": "2026-04-22T17:05:39+00:00",
+      "origin": "Brave News",
       "chokepoint": "Strait of Malacca"
     },
     {
@@ -133,10 +303,72 @@
       "published_at": "2026-04-22T07:00:00+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi3gfbvv95cuxpaurpqvdgb1jzthlgdexzmtbtc0lxblzpbhvtuvvjdw5la1hxs19wekwxbvzksw9mshpjt",
+      "title": "The Malacca Question: After Hormuz, the world’s most dangerous chokepoint may lie in Southeast Asia - Firstpost",
+      "description": "The Malacca Question: After Hormuz, the world’s most dangerous chokepoint may lie in Southeast Asia Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaURPQVdGb1JzTHlGdExzMTBtc0lXblZpbHVtUVVjdW5La1hXS19wekwxbVZKSW9MSHpjTkdaYlp4YnV6SC1XU3ZzWU02UmtyaHV4MlNpTEdPUHFOLXhsczN1cnp3R1dyZmVVQld1R0t4c3VlRmhILUZTeUN3ZXlNNGZ0UXFpdXk3SENLRE9jWWJ1d0swUzNDNTRkRmJlWFJrVEZLbGRyVkhFU2FWaEI0V0dkWFpqb2JlcXprazY2YnZDOUZKWVZGcWtzMTZ3cWtjNGJha2gzaEVUTzhYaUHSAeMBQVVfeXFMUGJGaTRqRnZKMk1WWDVEZW5RVjBpYmVvZHBTQ1NNMUdpbklveGJoNHZmc29fYmZ0STYzVnphcU52VTFfTndmaUVEZnV1YkxaZkJlRy1oU3dXQmtKX1E4QWV4SmVPRDZ3LVdVQS1GQU1aSzdCR196Y0Z4QlNzUFI2LURuYkRoOXZxWloxVjZncDh6cW9kNEdUMzF2TWFVdVhtWG9JZjZVck5CR1dVTkFXbGlBQzgtODB2cy04NFh2OC1qRFdLWmhfb29XLXYzMDE4U3dKLVprR2FxZ2I1bktCbVg3ZVE?oc=5",
+      "source": "Firstpost",
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmingfbvv95cuxqmvdot2h2s0tqx05nytfzylrlqli0ugprslnizknrngowbnzlne5katvfz0xjyy1mavfpd",
+      "title": "U.S. fleet crosses Malacca, following carriers near Hormuz - IDNFinancials",
+      "description": "U.S. fleet crosses Malacca, following carriers near Hormuz IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVdOT2h2S0tQX05nYTFzYlRlQlI0UGprSlNIZkNrNGowbnZLNE5kaTVFZ0xJYy1MaVFPd25DQkxFRUQwMHRueFJFelRYZ0NXZkJYS3l6LV8ybXVmLUVpU2lsU3FQajd0UWtBXzJhczF1U2ctbGNYMXdmbFR5b2gzUEc4eEpuaEx2aXhTajQyM0ZMUnYtaGJCdmNVSnhyQQ?oc=5",
+      "source": "IDNFinancials",
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Malacca"
     }
   ],
   "assessment": {
     "classified_articles": [
+      {
+        "article": {
+          "id": "https-www-seatrade-maritime-com-regulations-malaysia-trialling-automatic-ship-reporting-for-malacca-strait",
+          "title": "Malaysia trialling automatic ship reporting for Malacca Strait",
+          "description": "Electronic report submission and AIS identification being trialled at Klang VTS",
+          "url": "https://www.seatrade-maritime.com/regulations/malaysia-trialling-automatic-ship-reporting-for-malacca-strait",
+          "source": "seatrademaritime",
+          "published_at": "2026-05-18T09:47:58+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "Electronic report submission and AIS identification being trialled at Klang VTS",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-breakbulk-news-malacca-strait-toll-debate-raises-fresh-fears-over-weaponization-of-global-shipping-chokepoints",
+          "title": "Malacca Strait Toll Debate Raises Fresh Fears Over Weaponization of Global Shipping Chokepoints",
+          "description": "Rising tensions around the #MalaccaStrait and #Hormuz are forcing carriers, insurers, and cargo owners to reassess exposure to maritime chokepoints as geopolitical risks threaten global #shipping, #containers, #projectcargo, and energy supply chains.",
+          "url": "https://breakbulk.news/malacca-strait-toll-debate-raises-fresh-fears-over-weaponization-of-global-shipping-chokepoints/",
+          "source": "breakbulk.news",
+          "published_at": "2026-05-15T16:20:20+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "Rising tensions around the #MalaccaStrait and #Hormuz are forcing carriers, insurers, and cargo owners to reassess exposure to maritime chokepoints as geopolitical risks threaten global #shipping, #containers, #projectcargo, and energy supp",
+        "filter_method": "score-input"
+      },
       {
         "article": {
           "id": "https-news-google-com-rss-articles-cbmi-wfbvv95cuxqmzzlm0xvu1y5s1p0oxdqaxhwa3dxm3vintlzctnlwu9vrflsmlrjnepcwmlzvdvanwfwm",
@@ -156,6 +388,27 @@
         ],
         "risk_type": "other",
         "summary": "Bridging Fragmentation In The Horn Of Africa-Gulf Logistics Systems: Lessons From The Malacca–ASEAN–Indian Ocean System – Analysis Eurasia Review",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-defencesecurityasia-com-en-indonesia-anka-drones-malacca-strait-south-china-sea-surveillance-power-shift",
+          "title": "Indonesia Deploys Turkish ANKA Drones at Malacca Strait, Triggering New Indo-Pacific Surveillance Power Shift Against Rising South China Sea Tensions - Defence Security Asia",
+          "description": "Indonesia is transforming Tanjungpinang into a forward ANKA drone hub overlooking the Malacca Strait, boosting maritime surveillance, ISR dominance, and strategic deterrence across the South China Sea and Indo-Pacific sea lanes.",
+          "url": "https://defencesecurityasia.com/en/indonesia-anka-drones-malacca-strait-south-china-sea-surveillance-power-shift/",
+          "source": "defencesecurityasia.com",
+          "published_at": "2026-05-11T14:13:54+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "security"
+        ],
+        "risk_type": "security",
+        "summary": "Indonesia is transforming Tanjungpinang into a forward ANKA drone hub overlooking the Malacca Strait, boosting maritime surveillance, ISR dominance, and strategic deterrence across the South China Sea and Indo-Pacific sea lanes.",
         "filter_method": "score-input"
       },
       {
@@ -202,6 +455,69 @@
       },
       {
         "article": {
+          "id": "https-news-google-com-rss-articles-cbmi7afbvv95cuxnovptvu1sqvdwtvpuylbzwmfzbun3n296ullntwv4qxvnrxjun0penlpyywrwwefbzthwn",
+          "title": "Malaysia and Indonesia weigh tolls for Strait of Malacca shipping - MSN",
+          "description": "Malaysia and Indonesia weigh tolls for Strait of Malacca shipping MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVptVU1sQVdwTVpuYlBzWmFzbUN3N296UllnTWV4QXVnRXJUN0pENlpyYWRWWEFBZThwN2Vob1BCV2tyMGJabk1LX2I3SUFHZzZPZlhTN1ZmWE9oM1RaWFRCYXgzZ0ZseE05eWZ5aHlqMkl2MHpGam9SWmF3X0dkUVpFOXh3SnFPNTFsNVRKeHczazFNR1Rlb1hSOE1hdDV3bUNBTkdsUTNqTURIZlJNQXVRT0g4TC1HMXNENElwTkVDZDZMbkp5YjkzaDVmb1hrbmppVnNTZlo1N0cwOUhTNnZWUG12dFRqYnd6Uw?oc=5",
+          "source": "MSN",
+          "published_at": "2026-05-10T07:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "Malaysia and Indonesia weigh tolls for Strait of Malacca shipping MSN",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-businesstoday-com-my-2026-05-09-chokepoint-sovereignty-keeping-the-malacca-strait-open-for-resource-security",
+          "title": "Chokepoint Sovereignty: Keeping the Malacca Strait Open For Resource Security",
+          "description": "While Hormuz handles roughly 11 percent of global trade, Malacca facilitates a staggering 25 percent. It is the world’s premier trade highway, carrying over 23 million barrels of oil daily, which is more than any other maritime chokepoint on earth.",
+          "url": "https://businesstoday.com.my/2026/05/09/chokepoint-sovereignty-keeping-the-malacca-strait-open-for-resource-security",
+          "source": "businesstoday.com.my",
+          "published_at": "2026-05-08T23:15:04+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "energy"
+        ],
+        "risk_type": "security",
+        "summary": "While Hormuz handles roughly 11 percent of global trade, Malacca facilitates a staggering 25 percent. It is the world’s premier trade highway, carrying over 23 million barrels of oil daily, which is more than any other maritime chokepoint o",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-nationalsecurityjournal-org-the-strait-of-hormuz-just-stopped-20-of-the-worlds-oil-but-the-strait-of-malacca-could",
+          "title": "The Strait of Hormuz Just Stopped 20% of the World's Oil — but the Strait of Malacca Could Stop One-Third of Global GDP - National Security Journal",
+          "description": "Iran has functionally closed the Strait of Hormuz during Operation Epic Fury, halting roughly 20% of the world’s oil supply and triggering an immediate energy price shock. But the Strait of Malacca carries $3.5 trillion in annual trade and one-third of global GDP — and 80% of China’s ...",
+          "url": "https://nationalsecurityjournal.org/the-strait-of-hormuz-just-stopped-20-of-the-worlds-oil-but-the-strait-of-malacca-could-stop-one-third-of-global-gdp",
+          "source": "nationalsecurityjournal.org",
+          "published_at": "2026-05-08T13:52:27+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "energy"
+        ],
+        "risk_type": "security",
+        "summary": "Iran has functionally closed the Strait of Hormuz during Operation Epic Fury, halting roughly 20% of the world’s oil supply and triggering an immediate energy price shock. But the Strait of Malacca carries $3.5 trillion in annual trade and ",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmiwgfbvv95cuxnnxjcdfzsb3bsudhytxrzsvpnyur2s3jnm1ayqtl4shduu1dmdmfdx1hwytdhcfzzwmhor",
           "title": "Indonesia’s Malacca Strait ‘toll’ proposal violates UNCLOS. Is there an alternative? - Indonesia at Melbourne",
           "description": "Indonesia’s Malacca Strait ‘toll’ proposal violates UNCLOS. Is there an alternative? Indonesia at Melbourne",
@@ -244,6 +560,48 @@
       },
       {
         "article": {
+          "id": "https-fortune-com-2026-05-02-us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle",
+          "title": "The Iran war has turned the world's shipping straits into a chessboard—and the U.S. aims to box out China from the Panama Canal to the Malacca Strait | Fortune",
+          "description": "As the war over the Strait of Hormuz wages on, the U.S. is quietly gaining more influence over the Panama Canal and the straits of Malacca and Gibraltar.",
+          "url": "https://fortune.com/2026/05/02/us-cold-war-china-iran-strait-hormuz-piece-larger-puzzle/",
+          "source": "fortune.com",
+          "published_at": "2026-05-02T07:08:00+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "As the war over the Strait of Hormuz wages on, the U.S. is quietly gaining more influence over the Panama Canal and the straits of Malacca and Gibraltar.",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-amti-csis-org-how-indonesia-can-legally-increase-revenue-from-the-malacca-strait",
+          "title": "How Indonesia Can Legally Increase Revenue from the Malacca Strait | Asia Maritime Transparency Initiative",
+          "description": "Key takeaways Under international law, Indonesia has the obligation to ensure transit passage in the Malacca Strait; imposing a fee on vessels passing through the strait is illegal. However, Indonesia can maximize its strategic location by improving port infrastructure for maritime services, ...",
+          "url": "https://amti.csis.org/how-indonesia-can-legally-increase-revenue-from-the-malacca-strait",
+          "source": "amti.csis.org",
+          "published_at": "2026-05-01T13:20:00+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "market",
+        "summary": "Key takeaways Under international law, Indonesia has the obligation to ensure transit passage in the Malacca Strait; imposing a fee on vessels passing through the strait is illegal. However, Indonesia can maximize its strategic location by ",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmiqwfbvv95cuxpee8wbzzbrvbjog45q3fva1p5nwnmzvzicxb5ukxbbdzqak0yegvqqze4rhfkvegwwwfsv",
           "title": "Strait of Malacca Under Pressure: US–Indonesia Defense Pact Sparks Fears of New Global Oil Chokepoint Crisis Targeting China - Defence Security Asia",
           "description": "Strait of Malacca Under Pressure: US–Indonesia Defense Pact Sparks Fears of New Global Oil Chokepoint Crisis Targeting China Defence Security Asia",
@@ -261,6 +619,48 @@
         ],
         "risk_type": "security",
         "summary": "Strait of Malacca Under Pressure: US–Indonesia Defense Pact Sparks Fears of New Global Oil Chokepoint Crisis Targeting China Defence Security Asia",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-defencesecurityasia-com-en-malacca-strait-us-indonesia-defense-pact-china-energy-chokepoint-crisis",
+          "title": "Strait of Malacca Under Pressure: US–Indonesia Defense Pact Sparks Fears of New Global Oil Chokepoint Crisis Targeting China - Defence Security Asia",
+          "description": "The US–Indonesia defense pact is transforming the Strait of Malacca into a potential global flashpoint, threatening China’s oil supply routes and reshaping Indo-Pacific strategic competition amid rising chokepoint tensions.",
+          "url": "https://defencesecurityasia.com/en/malacca-strait-us-indonesia-defense-pact-china-energy-chokepoint-crisis/",
+          "source": "defencesecurityasia.com",
+          "published_at": "2026-05-01T03:09:39+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "energy"
+        ],
+        "risk_type": "security",
+        "summary": "The US–Indonesia defense pact is transforming the Strait of Malacca into a potential global flashpoint, threatening China’s oil supply routes and reshaping Indo-Pacific strategic competition amid rising chokepoint tensions.",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-scmp-com-week-asia-economics-article-3351687-why-asean-cooperation-remains-primary-shield-against-malacca-strait-t",
+          "title": "Why Malacca Strait tolls are unlikely despite Indonesia’s maritime push",
+          "description": "Indonesia, Malaysia and Singapore are united in upholding the principle of free passage but this must be ‘actively maintained’, analysts say.",
+          "url": "https://scmp.com/week-asia/economics/article/3351687/why-asean-cooperation-remains-primary-shield-against-malacca-strait-tolls",
+          "source": "scmp.com",
+          "published_at": "2026-04-28T07:58:19+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Strait of Malacca"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Indonesia, Malaysia and Singapore are united in upholding the principle of free passage but this must be ‘actively maintained’, analysts say.",
         "filter_method": "score-input"
       },
       {
@@ -286,23 +686,23 @@
       },
       {
         "article": {
-          "id": "https-news-google-com-rss-articles-cbmioafbvv95cuxqdvdsae14v3g1ovhhsffgaep2dg9trjhtdxh4aw03qjlpae1kyta2njk0teqztui4wdjxb",
-          "title": "Hormuz crisis throws spotlight on world’s largest ’chokepoint’ — the Malacca Strait - The Japan Times",
-          "description": "Hormuz crisis throws spotlight on world’s largest ’chokepoint’ — the Malacca Strait The Japan Times",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVdSaE14V3g1OVhHSFFGaEp2dG9tRjhtdXh4aW03QjlPaE1KYTA2Njk0TEQzTUI4WDJXbGtId1p1dXA1RzhZQTNCa2tNdThoTlBmRFd6WEMxSThkcmx6U18wQW1zNWttQ0U1YjV1a1NITkQwT3VJM2U5Ym5Ib1pGcUJWdHNMekpUUEJfLThfYmlrTGo1ODRnV0o0c1c3blVF?oc=5",
-          "source": "The Japan Times",
-          "published_at": "2026-04-26T07:00:00+00:00",
-          "origin": "Google News RSS",
+          "id": "https-www-straitstimes-com-asia-se-asia-why-anxieties-are-rising-over-the-malacca-strait-asias-key-shipping-route",
+          "title": "Why anxieties are rising over the Malacca Strait, Asia’s key shipping route | The Straits Times",
+          "description": "The Strait of Malacca has come into sharper focus following the effective shutdown of the Hormuz strait by Iran. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/asia/se-asia/why-anxieties-are-rising-over-the-malacca-strait-asias-key-shipping-route",
+          "source": "straitstimes.com",
+          "published_at": "2026-04-28T02:55:00+00:00",
+          "origin": "Brave News",
           "chokepoint": "Strait of Malacca"
         },
         "relevant": true,
         "confidence": 1.0,
         "severity": 0,
         "impact_tags": [
-          "monitoring"
+          "freight"
         ],
         "risk_type": "other",
-        "summary": "Hormuz crisis throws spotlight on world’s largest ’chokepoint’ — the Malacca Strait The Japan Times",
+        "summary": "The Strait of Malacca has come into sharper focus following the effective shutdown of the Hormuz strait by Iran. Read more at straitstimes.com.",
         "filter_method": "score-input"
       },
       {
@@ -346,95 +746,32 @@
         "risk_type": "other",
         "summary": "‘I Wasn’t Serious About Malacca Tax, Maritime Law Stands’: Indonesia’s Purbaya Jakarta Globe",
         "filter_method": "score-input"
-      },
-      {
-        "article": {
-          "id": "https-news-google-com-rss-articles-cbmi7gfbvv95cuxqc3bjng9tv2vfwtfjaxbowwd1t21vazjhcun5ehzkbelhrerrtvrnnmvwvkvvx2gzyjriq",
-          "title": "Travel Shock Averted As Strait Of Malacca Toll Plan Sparks Diplomatic Firestorm And Swift Regional Rejection - Travel And Tour World",
-          "description": "Travel Shock Averted As Strait Of Malacca Toll Plan Sparks Diplomatic Firestorm And Swift Regional Rejection Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc3BJNG9tV2VfWTFjaXBoWWd1T21VazJHcUN5eHZKbElhRERRTVRnNmVwVkVVX2gzYjRIQUpOOGZLNWNCWkI0c1pKbk5HT0ZtMVI2cDJoZTJSTHZFOXM4OUtOQjFDQzdKMkktRzVNalBHMHkzMDNINnFQNzdMVjJ6ZmhXM2UtSW43Um12TFMyZHJkT1dtalFXQmFQSmYwNDg4SFV2TFVxWnR2cEpDWUpIUmNkYkJqWVNSX1VMbmFUTVRPVGxxMDc2SHE0OHFsd29UZ0tXWmhHcXg0eVZkMThtR0xSWXVRVkFNREhXRzJn?oc=5",
-          "source": "Travel And Tour World",
-          "published_at": "2026-04-24T07:00:00+00:00",
-          "origin": "Google News RSS",
-          "chokepoint": "Strait of Malacca"
-        },
-        "relevant": true,
-        "confidence": 1.0,
-        "severity": 0,
-        "impact_tags": [
-          "weather"
-        ],
-        "risk_type": "weather",
-        "summary": "Travel Shock Averted As Strait Of Malacca Toll Plan Sparks Diplomatic Firestorm And Swift Regional Rejection Travel And Tour World",
-        "filter_method": "score-input"
-      },
-      {
-        "article": {
-          "id": "https-news-google-com-rss-articles-cbmiywfbvv95cuxpdmpxqnhfqkzydjbjyv8xm1lkv1jkrkfasxq2z3y3uhdwm25xcldbsek5mgs2vu5zr3bis",
-          "title": "Hormuz Crisis Turns Attention to Malacca Strait the World’s Most Critical Shipping Chokepoint - Modern Diplomacy",
-          "description": "Hormuz Crisis Turns Attention to Malacca Strait the World’s Most Critical Shipping Chokepoint Modern Diplomacy",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmpxQnhFQkZYdjBJYV8xM1lKV1JKRkFaSXQ2Z3Y3UHdwM25XcldBSEk5MGs2VU5ZR3BISENIVm9IMWFmRGFIMHpKeERMeV9lSlFmU1hZSVd4Qk1MRWRLakRRdlliLU1sMy1jYTBaaUY3VVNVbGFJMjkyLUZRalMxTmxnV1pZLXdWT0JhZllyc1ZoUGNVR2N6MHJBWHVZY1NPYkJHOGctWlNfc2pjSFJ5SU1zSnJtcVliRU5lNkRqbUpUbThBSzF3LXRfMA?oc=5",
-          "source": "Modern Diplomacy",
-          "published_at": "2026-04-23T07:00:00+00:00",
-          "origin": "Google News RSS",
-          "chokepoint": "Strait of Malacca"
-        },
-        "relevant": true,
-        "confidence": 1.0,
-        "severity": 0,
-        "impact_tags": [
-          "freight"
-        ],
-        "risk_type": "other",
-        "summary": "Hormuz Crisis Turns Attention to Malacca Strait the World’s Most Critical Shipping Chokepoint Modern Diplomacy",
-        "filter_method": "score-input"
-      },
-      {
-        "article": {
-          "id": "https-news-google-com-rss-articles-cbmitgfbvv95cuxqrdlnzu0wr3e2qwvcturhaldwelfir3h4bnrbq2vxeug0y0xoahp1cxl1d1rvnjnwaetwm",
-          "title": "Malacca Strait Emerges as Next Flashpoint as Hormuz Disruption Ripples Across Global Trade - Tekedia",
-          "description": "Malacca Strait Emerges as Next Flashpoint as Hormuz Disruption Ripples Across Global Trade Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRDlnZU0wR3E2QWVCTURHaldWelFiR3h4bnRBQ2VxeUg0Y0xOaHp1cXl1d1RvNjNWaEtWMlpRQWt0Ul9XZjkwUW4wb0pYanFqU05ZNlVFVGU1ejlDMGxiRjdOcmE3QV9ma1I3d1dBdHBqenByNFhLR1Y4ZFFKTG1QTW9URkl5X1d2clhnSmVXUzVoZThqZUtqbHRFMTBBTGUyN1RLOXp4QVN6MXFBbHB4X3pScTkxZw?oc=5",
-          "source": "Tekedia",
-          "published_at": "2026-04-22T07:00:00+00:00",
-          "origin": "Google News RSS",
-          "chokepoint": "Strait of Malacca"
-        },
-        "relevant": true,
-        "confidence": 1.0,
-        "severity": 0,
-        "impact_tags": [
-          "monitoring"
-        ],
-        "risk_type": "other",
-        "summary": "Malacca Strait Emerges as Next Flashpoint as Hormuz Disruption Ripples Across Global Trade Tekedia",
-        "filter_method": "score-input"
       }
     ],
     "tension_score": 48,
-    "market_summary": "The Strait of Malacca is experiencing elevated tensions due to geopolitical posturing and proposed tolls, though no active disruptions are reported. Traders should monitor US-Indonesia defense developments and regional diplomatic talks that could impact shipping costs and insurance premiums.",
-    "score_rationale": "Heightened geopolitical attention and toll proposals create operational uncertainty, but no active disruptions or closures are occurring.",
+    "market_summary": "The Malacca Strait faces heightened geopolitical scrutiny with ongoing debates about tolls and potential weaponization, though no active disruptions are reported. Traders should monitor US-Indonesia defense developments and regional tensions, as these could impact shipping costs and insurance premiums. The recent Hormuz closure has amplified focus on this critical chokepoint's vulnerability.",
+    "score_rationale": "Elevated political tensions and strategic posturing are partially offset by continued normal operations and weather conditions.",
     "political_context_score": 55,
-    "logistics_score": 40,
-    "weather_score": 3,
+    "logistics_score": 35,
+    "weather_score": 5,
     "assessment_method": "ollama-aggregate",
-    "updated_at": "2026-05-20T14:37:07.549111+00:00"
+    "updated_at": "2026-05-20T15:27:05.870837+00:00"
   },
   "weather": {
-    "time": "2026-05-20T14:30",
+    "time": "2026-05-20T15:15",
     "wave_height": 0.7,
     "wave_height_unit": "m",
-    "wave_direction": 326,
+    "wave_direction": 325,
     "wave_direction_unit": "°",
-    "wave_period": 4.95,
+    "wave_period": 4.8,
     "wave_period_unit": "s",
-    "wind_wave_height": 0.38,
-    "swell_wave_height": 0.5,
-    "wind_time": "2026-05-20T14:30",
-    "wind_speed": 21.9,
+    "wind_wave_height": 0.42,
+    "swell_wave_height": 0.48,
+    "wind_time": "2026-05-20T15:15",
+    "wind_speed": 21.5,
     "wind_speed_unit": "km/h",
-    "wind_gusts": 32.4,
+    "wind_gusts": 31.3,
     "wind_gusts_unit": "km/h",
-    "weather_code": 53
+    "weather_code": 81
   }
 }

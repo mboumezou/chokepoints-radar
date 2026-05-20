@@ -18,12 +18,16 @@ try:
 except ImportError:
     st_autorefresh = None
 
+import requests
+import streamlit.components.v1 as components
+
 from core.scorer import DEFAULT_MODEL, DEFAULT_OLLAMA_API_BASE, ClassifiedArticle
 from core.config import CHOKEPOINTS, Chokepoint
-from core.news import parse_datetime
+from core.news import parse_datetime, read_brave_api_key
 from core.scheduler import get_refresh_status, is_refresh_running, schedule_background_refresh
 from core.cache import ChokepointSnapshot, clear_persistent_cache
 from core.refresh import load_cached_dashboard_data
+from core.market import fetch_market_snapshot
 
 
 st.set_page_config(
@@ -304,15 +308,29 @@ CSS = """
         color: #64748b;
         margin-bottom: 0.5rem;
     }
+
+    /* ── Market index cards ── */
+    .index-card {
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        background: #ffffff;
+        padding: 0.75rem 0.9rem;
+        box-shadow: 0 1px 3px rgba(15,23,42,0.05);
+    }
+    .index-name  { color: #64748b; font-size: 0.74rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+    .index-price { color: #0f172a; font-size: 1.3rem; font-weight: 800; line-height: 1.1; margin: 0.2rem 0; }
+    .index-unit  { color: #94a3b8; font-size: 0.72rem; }
+    .index-up    { color: #16a34a; font-size: 0.8rem; font-weight: 700; }
+    .index-down  { color: #dc2626; font-size: 0.8rem; font-weight: 700; }
+    .index-flat  { color: #94a3b8; font-size: 0.8rem; font-weight: 700; }
 </style>
 """
 
 
 FIXED_SETTINGS = {
     "days": 30,
-    "max_records": 15,
-    "max_stored_articles": 80,
-    "curated_feed_limit": 15,
+    "max_records": 25,
+    "max_stored_articles": 120,
 }
 
 
@@ -550,7 +568,8 @@ def sidebar_controls() -> dict:
         st.divider()
 
         st.markdown("**Scoring**")
-        max_ai_articles = st.slider("Articles sent to AI", min_value=5, max_value=30, value=15, step=1)
+        max_ai_articles = st.slider("Articles sent to AI", min_value=5, max_value=50, value=20, step=5)
+        st.caption("Takes effect after next refresh.")
         rolling_minutes = st.slider("Refresh interval (min)", min_value=10, max_value=60, value=30, step=5)
         auto_refresh = st.toggle("Auto-refresh", value=True)
 
@@ -735,6 +754,123 @@ def render_refresh_progress(status: dict) -> None:
     st.progress(fraction, text=label)
 
 
+def render_market_indices() -> None:
+    indices = fetch_market_snapshot()
+    if not indices:
+        return
+    st.markdown('<div class="section-title" style="margin-top:0.6rem;">Market indices</div>', unsafe_allow_html=True)
+    cols = st.columns(len(indices))
+    for col, item in zip(cols, indices):
+        chg = item["change_pct"]
+        arrow = "▲" if chg > 0 else "▼" if chg < 0 else "—"
+        chg_class = "index-up" if chg > 0 else "index-down" if chg < 0 else "index-flat"
+        with col:
+            st.markdown(
+                f"""
+                <div class="index-card">
+                    <div class="index-name">{escape(item['name'])}</div>
+                    <div class="index-price">{item['price']}</div>
+                    <div class="index-unit">{escape(item['unit'])}</div>
+                    <div class="{chg_class}">{arrow} {abs(chg):.2f}%</div>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+
+
+def render_vessel_tab(chokepoint: Chokepoint) -> None:
+    st.markdown(f"### Live vessel traffic — {escape(chokepoint.name)}")
+    st.caption(
+        f"Lat {chokepoint.latitude:.2f}° · Lon {chokepoint.longitude:.2f}° · "
+        "AIS data via VesselFinder (free embed, refreshes automatically)"
+    )
+    zoom = 8 if chokepoint.kind in ("Canal", "Strait") else 6
+    embed_url = (
+        f"https://www.vesselfinder.com/aismap"
+        f"?zoom={zoom}&lat={chokepoint.latitude}&lon={chokepoint.longitude}"
+        f"&width=100%25&height=650&names=true&mmsi=&track=false&fleet=false"
+    )
+    components.html(
+        f'<iframe src="{embed_url}" width="100%" height="660px" '
+        f'frameborder="0" style="border-radius:10px; border:1px solid #e2e8f0;"></iframe>',
+        height=670,
+    )
+    mt_url = (
+        f"https://www.marinetraffic.com/en/ais/home"
+        f"/centerx:{chokepoint.longitude}/centery:{chokepoint.latitude}/zoom:8"
+    )
+    st.markdown(f"[Open full screen on MarineTraffic]({mt_url})")
+
+
+WAR_RISK_QUERIES = [
+    ("War Risk Premiums",    "maritime war risk insurance premium shipping 2025"),
+    ("Red Sea / Houthi",     "Red Sea Houthi war risk shipping insurance premium"),
+    ("JWC Hull War Areas",   "JWC joint war committee hull war risk listed areas shipping"),
+    ("P&I Club Alerts",      "P&I club maritime security alert war risk notice"),
+    ("Strait of Hormuz",     "Strait of Hormuz war risk Iran insurance shipping"),
+    ("Cargo Insurance",      "cargo insurance maritime disruption chokepoint premium rate"),
+]
+
+
+def render_war_risk_tab() -> None:
+    st.markdown("### War Risk & Maritime Insurance Monitor")
+    st.caption("Search live news on war risk premiums, P&I club alerts, JWC area changes and insurance market signals.")
+
+    api_key = read_brave_api_key()
+    if not api_key:
+        st.warning("Brave API key not configured. Add BRAVE_API_KEY to your secrets.")
+        return
+
+    c1, c2 = st.columns([3, 1])
+    with c1:
+        topic = st.selectbox("Topic", [q[0] for q in WAR_RISK_QUERIES], label_visibility="collapsed")
+    with c2:
+        search = st.button("Search", use_container_width=True, type="primary")
+
+    query = next(q[1] for q in WAR_RISK_QUERIES if q[0] == topic)
+    cache_key = f"war_risk__{topic}"
+
+    if search:
+        st.session_state.pop(cache_key, None)
+
+    if search or cache_key in st.session_state:
+        if cache_key not in st.session_state:
+            with st.spinner(f"Searching: {query}…"):
+                try:
+                    resp = requests.get(
+                        "https://api.search.brave.com/res/v1/news/search",
+                        headers={"X-Subscription-Token": api_key, "Accept": "application/json"},
+                        params={"q": query, "count": 20, "search_lang": "en", "country": "us"},
+                        timeout=15,
+                    )
+                    resp.raise_for_status()
+                    st.session_state[cache_key] = resp.json().get("results", [])
+                except Exception as exc:
+                    st.error(f"Search failed: {exc}")
+                    return
+
+        results = st.session_state.get(cache_key, [])
+        st.caption(f"{len(results)} results · query: *{query}*")
+        for item in results:
+            title = escape(item.get("title", ""))
+            url = escape(item.get("url", ""), quote=True)
+            desc = escape((item.get("description") or "")[:300])
+            age = escape(item.get("age", ""))
+            source = escape((item.get("meta_url") or {}).get("netloc", ""))
+            st.markdown(
+                f"""
+                <div class="article-card">
+                    <div class="article-meta">{source} &middot; {age}</div>
+                    <div class="article-title"><a href="{url}" target="_blank" rel="noopener">{title}</a></div>
+                    <div class="article-desc">{desc}</div>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+    else:
+        st.info("Select a topic and click Search.")
+
+
 def render_hero(status: dict) -> None:
     running = bool(status.get("running")) if status else False
     has_error = bool(status.get("error")) if status else False
@@ -806,42 +942,57 @@ def main() -> None:
             "the dashboard will auto-update when ready."
         )
 
-    render_market_overview(summary_df, snapshots)
+    tab_radar, tab_vessels, tab_war_risk = st.tabs(["Radar", "Live Vessels", "War Risk & Insurance"])
 
-    map_col, log_col = st.columns([2, 1])
-    with map_col:
-        selected_name = render_map(summary_df, settings["selected"])
-    with log_col:
-        render_log_window(status)
+    with tab_radar:
+        render_market_overview(summary_df, snapshots)
+        render_market_indices()
+        st.markdown("<br>", unsafe_allow_html=True)
 
-    names = [cp.name for cp in CHOKEPOINTS]
-    selected_name = st.radio(
-        "Chokepoint view",
-        names,
-        index=names.index(selected_name) if selected_name in names else 0,
-        horizontal=True,
-        label_visibility="collapsed",
-    )
-    selected = next(cp for cp in CHOKEPOINTS if cp.name == selected_name)
+        map_col, log_col = st.columns([2, 1])
+        with map_col:
+            selected_name = render_map(summary_df, settings["selected"])
+        with log_col:
+            render_log_window(status)
 
-    top = summary_df.sort_values(["score", "news_count"], ascending=False).head(8)
-    st.dataframe(
-        top[["name", "kind", "score", "risk", "news_count", "raw_count", "updated_at"]],
-        use_container_width=True,
-        hide_index=True,
-        column_config={
-            "score": st.column_config.ProgressColumn("Score", min_value=0, max_value=100, format="%d"),
-            "news_count": st.column_config.NumberColumn("AI inputs"),
-            "raw_count": st.column_config.NumberColumn("Cached"),
-            "updated_at": st.column_config.TextColumn("Updated"),
-            "name": st.column_config.TextColumn("Chokepoint"),
-            "kind": st.column_config.TextColumn("Type"),
-            "risk": st.column_config.TextColumn("Risk"),
-        },
-    )
+        names = [cp.name for cp in CHOKEPOINTS]
+        selected_name = st.radio(
+            "Chokepoint view",
+            names,
+            index=names.index(selected_name) if selected_name in names else 0,
+            horizontal=True,
+            label_visibility="collapsed",
+        )
+        selected = next(cp for cp in CHOKEPOINTS if cp.name == selected_name)
 
-    st.divider()
-    render_chokepoint_view(selected, snapshot=snapshots.get(selected.name))
+        top = summary_df.sort_values(["score", "news_count"], ascending=False).head(8)
+        st.dataframe(
+            top[["name", "kind", "score", "risk", "news_count", "raw_count", "updated_at"]],
+            use_container_width=True,
+            hide_index=True,
+            column_config={
+                "score": st.column_config.ProgressColumn("Score", min_value=0, max_value=100, format="%d"),
+                "news_count": st.column_config.NumberColumn("AI inputs"),
+                "raw_count": st.column_config.NumberColumn("Cached"),
+                "updated_at": st.column_config.TextColumn("Updated"),
+                "name": st.column_config.TextColumn("Chokepoint"),
+                "kind": st.column_config.TextColumn("Type"),
+                "risk": st.column_config.TextColumn("Risk"),
+            },
+        )
+
+        st.divider()
+        render_chokepoint_view(selected, snapshot=snapshots.get(selected.name))
+
+    with tab_vessels:
+        selected_cp = next(
+            (cp for cp in CHOKEPOINTS if cp.name == settings["selected"]),
+            CHOKEPOINTS[0],
+        )
+        render_vessel_tab(selected_cp)
+
+    with tab_war_risk:
+        render_war_risk_tab()
 
     st.markdown(
         """

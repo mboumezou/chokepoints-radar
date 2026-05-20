@@ -1,16 +1,16 @@
 {
   "schema_version": 5,
   "name": "Panama Canal",
-  "updated_at": "2026-05-20T14:36:17.804604+00:00",
-  "last_article_at": "2026-05-20T14:01:49+00:00",
+  "updated_at": "2026-05-20T15:26:50.275948+00:00",
+  "last_article_at": "2026-05-20T14:05:32+00:00",
   "articles": [
     {
-      "id": "https-news-google-com-rss-articles-cbmirwfbvv95cuxpodhbbjnswxh2ofnzwwpim3kycnhcc0wtzgzwy0lvegxlrtdnqzrhovrxcfe1rlrqnunrd",
-      "title": "BigBear.ai stock ticks up after Panama cargo deal - Investing.com",
-      "description": "BigBear.ai stock ticks up after Panama cargo deal Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODhBbjNSWXh2OFNzWWpiM3kycnhCc0wtZGZWY0lveGxlRTdnQzRHOVRXcFE1RlRQNUNrdmR0elY0TDNkcmhySXdQOERVR1lIZlBzSkpiaGR5TW1GUHFBc3lTRU5VcTJwZWE5S1I0cUdtR0NBMnYwTTd4c1VvdDVwYzY4bVpzY1dpcXFwTGQ4YkRXVVZ0MlktUnVrRzNzVTUzVGN0QXVyWGY1WUpIaU93?oc=5",
-      "source": "Investing.com",
-      "published_at": "2026-05-20T14:01:49+00:00",
+      "id": "https-news-google-com-rss-articles-cbmirgfbvv95cuxqulpjsdzdsjhwtetseknzbu5vz1ptmfzvre8xyi1cejjevmdsuxleuwyym1ziu2r2x0hib",
+      "title": "BigBear.ai stock ticks up after Panama cargo deal By Investing.com - Investing.com Australia",
+      "description": "BigBear.ai stock ticks up after Panama cargo deal By Investing.com Investing.com Australia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlpJSDZDSjhWTEtsekNZbU5VZ1pTMFZVRE8xYi1CejJEVmdsUXlEUWYyM1ZIU2R2X0hib3JkazZyT05oSjd6UmhNX3RrZWJmbVZFX1RKLVhDbmh4VlVGY21RaXBzamY4WWZCdk1sQU5ON0gzaWtpNEdWOW5ZN0EyNVRRX3BJVlVkaklaTXBwVkU2UmRzU0NXVUVQS1NxeWNhbGxVVkZmbFNUdEhjZVE?oc=5",
+      "source": "Investing.com Australia",
+      "published_at": "2026-05-20T14:05:32+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Panama Canal"
     },
@@ -35,6 +35,16 @@
       "chokepoint": "Panama Canal"
     },
     {
+      "id": "https-www-hellenicshippingnews-com-panama-bunker-sales-slip-in-april",
+      "title": "Panama bunker sales slip in April",
+      "description": "Sales of VLSFO and HSFO have decreased on both, a total and a daily average basis. Changes in Panama bunker fuel sales from March to April: • Total sales down 13,000 mt to 484,000 mt • VLSFO sales down 1,500 mt to 319,000 mt • LSMGO sales up 6,000 mt to 53,000 mt • HSFO ...",
+      "url": "https://www.hellenicshippingnews.com/panama-bunker-sales-slip-in-april/",
+      "source": "Hellenic Shipping News Worldwide",
+      "published_at": "2026-05-20T10:00:37+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmivwfbvv95cuxoegf5wmhtqmw0nxdmwezhmehobgjjm2vobmv0anvzzwxly2vor25ftwtvthnzemxvtmvky",
       "title": "- Cyprus Shipping News - Cyprus Shipping News",
       "description": "- Cyprus Shipping News Cyprus Shipping News",
@@ -52,6 +62,16 @@
       "source": "The Loadstar",
       "published_at": "2026-05-19T19:21:42+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-www-seatrade-maritime-com-maritime-transportation-mapping-the-future-of-panama-s-maritime-economy",
+      "title": "Mapping the future of Panama’s maritime economy",
+      "description": "Panama plays a pivotal role in global logistics and the maritime sector is a major contributor to the country’s economy",
+      "url": "https://www.seatrade-maritime.com/maritime-transportation/mapping-the-future-of-panama-s-maritime-economy",
+      "source": "seatrademaritime",
+      "published_at": "2026-05-19T10:13:42+00:00",
+      "origin": "Curated RSS",
       "chokepoint": "Panama Canal"
     },
     {
@@ -95,6 +115,26 @@
       "chokepoint": "Panama Canal"
     },
     {
+      "id": "https-www-seatrade-maritime-com-maritime-transportation-el-nino-unlikely-to-restrict-panama-canal-ship-traffic",
+      "title": "El Nino unlikely to restrict Panama Canal ship traffic",
+      "description": "The Panama Canal Authority does not foresee traffic restrictions through 2026 as El Nino looms",
+      "url": "https://www.seatrade-maritime.com/maritime-transportation/el-nino-unlikely-to-restrict-panama-canal-ship-traffic",
+      "source": "seatrademaritime",
+      "published_at": "2026-05-18T07:20:50+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-adimarships-com-panama-canal-ship-agency-requirements-the-2026-compliance-guide",
+      "title": "Panama Canal Ship Agency Requirements: The 2026 Compliance Guide - Adimar Shipping, Inc",
+      "description": "A single data mismatch in your VUMPA submission can now trigger an automatic rejection and a minimum $15,000 fine before your vessel even reaches the locks. You understand that transiting this waterway is a high-stakes balancing act; however, the 2026 digital shift has made the margin for error ...",
+      "url": "https://adimarships.com/panama-canal-ship-agency-requirements-the-2026-compliance-guide",
+      "source": "adimarships.com",
+      "published_at": "2026-05-18T00:59:40+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmihwjbvv95cuxpwul0m2xpb1rnq2pjwdl3dkutq3rusefjy3hguur6b1vmck5wtfhqwkl2x2n1cuxlttixb",
       "title": "An aircraft carrier and a destroyer arrive in Panama on a tour that shows military muscle in one of the world’s most strategic maritime zones - ECOticias.com",
       "description": "An aircraft carrier and a destroyer arrive in Panama on a tour that shows military muscle in one of the world’s most strategic maritime zones ECOticias.com",
@@ -102,6 +142,16 @@
       "source": "ECOticias.com",
       "published_at": "2026-05-17T20:00:00+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-www-indexbox-io-blog-geopolitical-tensions-and-infrastructure-crises-reshape-global-shipping-in-may-2026",
+      "title": "Shipping News: Strait of Hormuz Dangers, Panama Canal Auction Record, Bridge Charges – May 2026 - News and Statistics - IndexBox",
+      "description": "Geopolitical turmoil keeps the Strait of Hormuz perilous and closed in May 2026, while Panama Canal transit auction prices soar to a record $4 million. U.S. prosecutors charge Synergy Marine over the 2024 Baltimore bridge collapse. Shipping industry debates moving from digital complexity toward ...",
+      "url": "https://www.indexbox.io/blog/geopolitical-tensions-and-infrastructure-crises-reshape-global-shipping-in-may-2026/",
+      "source": "indexbox.io",
+      "published_at": "2026-05-16T06:41:00+00:00",
+      "origin": "Brave News",
       "chokepoint": "Panama Canal"
     },
     {
@@ -135,6 +185,26 @@
       "chokepoint": "Panama Canal"
     },
     {
+      "id": "https-www-mining-com-first-quantum-says-panama-has-lost-3-5b-from-mine-halt",
+      "title": "First Quantum says Panama has lost $3.5B from mine halt",
+      "description": "Report shows that Panama has lost billions in economic activity as it keeps Cobre Panamá mine operations suspended.",
+      "url": "https://www.mining.com/first-quantum-says-panama-has-lost-3-5b-from-mine-halt/",
+      "source": "MINING.COM",
+      "published_at": "2026-05-15T12:09:00+00:00",
+      "origin": "Curated RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivafbvv95cuxqnxncuwpzug1rshbua2xhywhxqs0wslhzte1vshlkblniuxgxekdlmmtrmzdkx21ma3vrm",
+      "title": "DP World gains IATA certification for Panama airfreight business - Air Cargo News",
+      "description": "DP World gains IATA certification for Panama airfreight business Air Cargo News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXNCUWpzUG1rSHBua2xHYWhxQS0wSlhZTE1vSHlKblNIUXgxekdLMmtRMzdkX21Ma3VrMTRFc29sNEc0RUVhT3AtUzdKaGNjamtqcUtNSTJDYkt6SmtFOEM1NWVnalBPdV8zQVBWNy1adGVSb1dFTWtKTzhGQWZKZEFaQUEzZER3SHdwSEFoRElwb0Uyb1ZXdURDVGpwOFR1TFRBQ3NpQmxncjhsTHZhUG02SXBJS1Bac3pwXw?oc=5",
+      "source": "Air Cargo News",
+      "published_at": "2026-05-13T14:08:56+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmitgfbvv95cuxobul2r1zhcnrqn2zybkkybdhttwliz2psoupuctn0nje1atv6ukpklvveylaxzmxiwur2z",
       "title": "Panama Canal and Global Shipping - C-SPAN",
       "description": "Panama Canal and Global Shipping C-SPAN",
@@ -143,18 +213,138 @@
       "published_at": "2026-05-11T07:00:00+00:00",
       "origin": "Google News RSS",
       "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-lloydslist-com-ll1157125-crisis-driven-tanker-demand-propels-panama-canal-to-multiyear-high",
+      "title": "Crisis-driven tanker demand propels Panama Canal to multiyear high :: Lloyd's List",
+      "description": "The Panama Canal has emerged as one of the biggest beneficiaries of the Strait of Hormuz crisis. The canal’s numbers in April were even higher than in March",
+      "url": "https://lloydslist.com/LL1157125/Crisis-driven-tanker-demand-propels-Panama-Canal-to-multiyear-high",
+      "source": "lloydslist.com",
+      "published_at": "2026-05-09T02:13:04+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiygfbvv95cuxnsdbiamhhaknheezbse1koxvsyxbxuljxruhjqnc4mertt29smwzkmzlodvzcmutcuta3b",
+      "title": "Panama minister slams China ship crackdown, tells deputies in Beijing: push back - South China Morning Post",
+      "description": "Panama minister slams China ship crackdown, tells deputies in Beijing: push back South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDBIamhhakNHeEZBSE1KOXVsYXBXUlJXRUhjQnc4MERtT29sMWZkMzlodVZCMUtCUTA3b3RyR0xmaWFTZDdNNUE3RWJOaHdVZ2E1YW0tUUI4QnB1aGVTRFJnUV9sU0VMdE1BbFNPWkU2VTMtbVBxYnY0R2tQZFNjMjA2Q0p5SnEtMy1VSDZCYjBiemtFWE1hZkpmdUwtWUJLUGRMWDlWZGNzZEFQVDRFT0RHMmJFQXpOUVo0TnNMX0VJaWdoVDVnZGJ30gHKAUFVX3lxTE5pSFpMQ2VQXzFzZW1nMUo5dFJTVWxRVWw5MHJEbVR3cUZkWmRuQ1JidlhJM0lYWlhrQzlxb01zQnBUNDJ2VFk0THpiR2Z0ekdmal9SR2c1LWxYSVN3QjlLblo5NE1SRUFyeE9ySmJ3LV9xcTB4d2k0VWNhZHdoV1ppTTFfRk1GRHhjQndJVC1LSUoxOWN6NUtZM3FTWDJZT21FX0NUUnRKenlkTDVJWUVHWkNWeV9WVFZsQmtiRHBpZktSLVk5dE9jUVE?oc=5",
+      "source": "South China Morning Post",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmipwfbvv95cuxqymuzd2xmdkfsdkt6d3dprgnxuuzglxptchd1lwnhck4yb2h3s3nkrdnmce4xmg8tqtfkm",
+      "title": "Panama container terminal bidding stacked against U.S. companies: Source - FreightWaves",
+      "description": "Panama container terminal bidding stacked against U.S. companies: Source FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYmUzd2xmdkFSdkt6d3dPRGNxUUZGLXpTcHd1LWNHck4yb2h3S3NKRDNMcE4xMG8tQTFKMThscnVfYm1CT19ocllVNU9yZXVnY2NSM0RZTDYtYnZKT2hCa3EtNlN6dlJvd3JSbnp3alF1S0lCRHBQdDJMNUV4ejhXV0FyLTZDVFh1Vy1Bc3lFYU9IYm1uejVDYUNIbVl4dUF0Z2ZyMXI3aw?oc=5",
+      "source": "FreightWaves",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-www-aljazeera-com-news-2026-4-30-hormuz-effect-how-us-china-are-ramping-up-tensions-over-the-panama-canal",
+      "title": "Hormuz effect? How US, China are ramping up tensions over the Panama Canal | Shipping News | Al Jazeera",
+      "description": "Rising tensions over Panama Canal prompt US-China showdown in global shipping power struggle.",
+      "url": "https://www.aljazeera.com/news/2026/4/30/hormuz-effect-how-us-china-are-ramping-up-tensions-over-the-panama-canal",
+      "source": "aljazeera.com",
+      "published_at": "2026-04-30T13:36:27+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-oilprice-com-energy-energy-general-hormuz-blockage-boosts-panama-canal-oil-tanker-traffic-html",
+      "title": "Hormuz Blockage Boosts Panama Canal Oil Tanker Traffic | OilPrice.com",
+      "description": "Asian buyers are increasingly sourcing U.S. crude via the Panama Canal as Middle Eastern supply is disrupted, pushing Canal traffic to a four-year high.",
+      "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Blockage-Boosts-Panama-Canal-Oil-Tanker-Traffic.html",
+      "source": "oilprice.com",
+      "published_at": "2026-04-29T20:00:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-newsroompanama-com-2026-04-29-after-the-closure-of-the-strait-of-hormuz-it-is-understood-the-race-to-get-to-the-pa",
+      "title": "After the Closure of the Strait of Hormuz it is Understood the Race to Get to the Panama Canal - Newsroom Panama",
+      "description": "The Panama Canal has once again become a barometer of global trade. This time, the...",
+      "url": "https://newsroompanama.com/2026/04/29/after-the-closure-of-the-strait-of-hormuz-it-is-understood-the-race-to-get-to-the-panama-canal/",
+      "source": "newsroompanama.com",
+      "published_at": "2026-04-29T16:32:09+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiogfbvv95cuxnsfhhvzfmmm43vklrtzbtogu4zc1hbfh3bnrvzk1slvixq3bgoeczulbxqug0vxluvu5hu",
+      "title": "Six States Criticize China for Detaining Panama-Flagged Ships - The Maritime Executive",
+      "description": "Six States Criticize China for Detaining Panama-Flagged Ships The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFhHVzFmMm43VklRTzBTOGU4ZC1hbFh3bnRVZk1SLVIxQ3BGOEczUlBxQUg0VXlUVU5hUml3MjZnZUZqd2thdVZ0aGI1anduOWNYRHluWFcxNDZaZzNJc0FQYm9RVXdJS1JwdEVXblV6Mk9ZYTl5WWduanB1R2k4cHBzQ1BwczJ0alJSNFQxcW9HQkxmemF5ZGxBSlFpQXR4T0E?oc=5",
+      "source": "The Maritime Executive",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-morethanshipping-com-the-current-situation-at-the-panama-canal-what-to-know",
+      "title": "The Current Situation at the Panama Canal: What to Know - More Than Shipping",
+      "description": "The current status of the Panama Canal has improved significantly compared to the disruptions experienced during the period of 2023-2024. However, the Panama Canal continues to operate within a relatively fragile balance. Increased rainfall throughout 2025 and into 2026 has significantly improved ...",
+      "url": "https://morethanshipping.com/the-current-situation-at-the-panama-canal-what-to-know",
+      "source": "morethanshipping.com",
+      "published_at": "2026-04-27T18:50:41+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-www-voiceofemirates-com-en-news-2026-04-26-the-price-of-fear-global-companies-pay-millions-to-reroute-shipping-awa",
+      "title": "Global Shipping Shifts from Hormuz to Panama Canal Due to Tensions",
+      "description": "Global shipping firms are paying $4M extra per trip to reroute away from the Strait of Hormuz to the Panama Canal due to geopolitical tensions and insurance hikes.",
+      "url": "https://www.voiceofemirates.com/en/news/2026/04/26/the-price-of-fear-global-companies-pay-millions-to-reroute-shipping-away-from-the-strait-of-hormuz/",
+      "source": "voiceofemirates.com",
+      "published_at": "2026-04-25T22:33:32+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-english-mathrubhumi-com-amp-news-world-panama-canal-shipping-costs-strait-of-hormuz-crisis-a40qyo9o",
+      "title": "Shipping firms pay up to $4M for Panama Canal access as Strait of Hormuz crisis disrupts trade | Mathrubhumi English",
+      "description": "Panama City: Companies are reportedly paying as much as $4 million per vessel to secure priority passage through the Panama Canal, as escalating tensions have effectively disrupted the Strait of Hormuz, according to the Panama Canal Authority · Under normal conditions, ships transit the canal ...",
+      "url": "https://english.mathrubhumi.com/amp/news/world/panama-canal-shipping-costs-strait-of-hormuz-crisis-a40qyo9o",
+      "source": "english.mathrubhumi.com",
+      "published_at": "2026-04-24T09:54:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmihafbvv95cuxnewpnetvfc2s3dexdttvxcwzuym41dgvztditqxpjbv9vnxi5c2i0bm1tumk0s3hxqljle",
+      "title": "China links tough new trade rules to Iran war and Panama port dispute - Financial Times",
+      "description": "China links tough new trade rules to Iran war and Panama port dispute Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWpneTVfc2s3dExDTTVxcWZUYm41dGVzTDItQXpJbV9VNXI5c2I0bm1tUmk0S3hxQlJleVhudnAtZ0taQnZnWDYxVVJaRUpwZ3EyeFNFeWM4VGZtRzgwWlF1TVQxMkd6ZEhldjlFcWNxQlc2NWdlQXdqdC15dnRpczFSa1E?oc=5",
+      "source": "Financial Times",
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Panama Canal"
+    },
+    {
+      "id": "https-ticotimes-net-2026-04-20-costa-rica-backs-panama-in-escalating-china-shipping-dispute",
+      "title": "Costa Rica Backs Panama in Escalating China Shipping Dispute : The Tico Times | Costa Rica News | Travel | Real Estate",
+      "description": "Panama has announced sanctions on a Chinese consortium while detentions of its flagged vessels in Chinese ports continue to rise.",
+      "url": "https://ticotimes.net/2026/04/20/costa-rica-backs-panama-in-escalating-china-shipping-dispute",
+      "source": "ticotimes.net",
+      "published_at": "2026-04-20T18:12:00+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Panama Canal"
     }
   ],
   "assessment": {
     "classified_articles": [
       {
         "article": {
-          "id": "https-news-google-com-rss-articles-cbmirwfbvv95cuxpodhbbjnswxh2ofnzwwpim3kycnhcc0wtzgzwy0lvegxlrtdnqzrhovrxcfe1rlrqnunrd",
-          "title": "BigBear.ai stock ticks up after Panama cargo deal - Investing.com",
-          "description": "BigBear.ai stock ticks up after Panama cargo deal Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODhBbjNSWXh2OFNzWWpiM3kycnhCc0wtZGZWY0lveGxlRTdnQzRHOVRXcFE1RlRQNUNrdmR0elY0TDNkcmhySXdQOERVR1lIZlBzSkpiaGR5TW1GUHFBc3lTRU5VcTJwZWE5S1I0cUdtR0NBMnYwTTd4c1VvdDVwYzY4bVpzY1dpcXFwTGQ4YkRXVVZ0MlktUnVrRzNzVTUzVGN0QXVyWGY1WUpIaU93?oc=5",
-          "source": "Investing.com",
-          "published_at": "2026-05-20T14:01:49+00:00",
+          "id": "https-news-google-com-rss-articles-cbmirgfbvv95cuxqulpjsdzdsjhwtetseknzbu5vz1ptmfzvre8xyi1cejjevmdsuxleuwyym1ziu2r2x0hib",
+          "title": "BigBear.ai stock ticks up after Panama cargo deal By Investing.com - Investing.com Australia",
+          "description": "BigBear.ai stock ticks up after Panama cargo deal By Investing.com Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlpJSDZDSjhWTEtsekNZbU5VZ1pTMFZVRE8xYi1CejJEVmdsUXlEUWYyM1ZIU2R2X0hib3JkazZyT05oSjd6UmhNX3RrZWJmbVZFX1RKLVhDbmh4VlVGY21RaXBzamY4WWZCdk1sQU5ON0gzaWtpNEdWOW5ZN0EyNVRRX3BJVlVkaklaTXBwVkU2UmRzU0NXVUVQS1NxeWNhbGxVVkZmbFNUdEhjZVE?oc=5",
+          "source": "Investing.com Australia",
+          "published_at": "2026-05-20T14:05:32+00:00",
           "origin": "Google News RSS",
           "chokepoint": "Panama Canal"
         },
@@ -165,7 +355,7 @@
           "freight"
         ],
         "risk_type": "other",
-        "summary": "BigBear.ai stock ticks up after Panama cargo deal Investing.com",
+        "summary": "BigBear.ai stock ticks up after Panama cargo deal By Investing.com Investing.com Australia",
         "filter_method": "score-input"
       },
       {
@@ -212,6 +402,27 @@
       },
       {
         "article": {
+          "id": "https-www-hellenicshippingnews-com-panama-bunker-sales-slip-in-april",
+          "title": "Panama bunker sales slip in April",
+          "description": "Sales of VLSFO and HSFO have decreased on both, a total and a daily average basis. Changes in Panama bunker fuel sales from March to April: • Total sales down 13,000 mt to 484,000 mt • VLSFO sales down 1,500 mt to 319,000 mt • LSMGO sales up 6,000 mt to 53,000 mt • HSFO ...",
+          "url": "https://www.hellenicshippingnews.com/panama-bunker-sales-slip-in-april/",
+          "source": "Hellenic Shipping News Worldwide",
+          "published_at": "2026-05-20T10:00:37+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Panama Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "energy"
+        ],
+        "risk_type": "other",
+        "summary": "Sales of VLSFO and HSFO have decreased on both, a total and a daily average basis. Changes in Panama bunker fuel sales from March to April: • Total sales down 13,000 mt to 484,000 mt • VLSFO sales down 1,500 mt to 319,000 mt • LSMGO sales u",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmivwfbvv95cuxoegf5wmhtqmw0nxdmwezhmehobgjjm2vobmv0anvzzwxly2vor25ftwtvthnzemxvtmvky",
           "title": "- Cyprus Shipping News - Cyprus Shipping News",
           "description": "- Cyprus Shipping News Cyprus Shipping News",
@@ -251,6 +462,27 @@
         ],
         "risk_type": "weather",
         "summary": "News Maintenance work and weather threatens to boost Panama Canal congestion The Loadstar",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-www-seatrade-maritime-com-maritime-transportation-mapping-the-future-of-panama-s-maritime-economy",
+          "title": "Mapping the future of Panama’s maritime economy",
+          "description": "Panama plays a pivotal role in global logistics and the maritime sector is a major contributor to the country’s economy",
+          "url": "https://www.seatrade-maritime.com/maritime-transportation/mapping-the-future-of-panama-s-maritime-economy",
+          "source": "seatrademaritime",
+          "published_at": "2026-05-19T10:13:42+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Panama Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Panama plays a pivotal role in global logistics and the maritime sector is a major contributor to the country’s economy",
         "filter_method": "score-input"
       },
       {
@@ -340,6 +572,48 @@
       },
       {
         "article": {
+          "id": "https-www-seatrade-maritime-com-maritime-transportation-el-nino-unlikely-to-restrict-panama-canal-ship-traffic",
+          "title": "El Nino unlikely to restrict Panama Canal ship traffic",
+          "description": "The Panama Canal Authority does not foresee traffic restrictions through 2026 as El Nino looms",
+          "url": "https://www.seatrade-maritime.com/maritime-transportation/el-nino-unlikely-to-restrict-panama-canal-ship-traffic",
+          "source": "seatrademaritime",
+          "published_at": "2026-05-18T07:20:50+00:00",
+          "origin": "Curated RSS",
+          "chokepoint": "Panama Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "congestion"
+        ],
+        "risk_type": "congestion",
+        "summary": "The Panama Canal Authority does not foresee traffic restrictions through 2026 as El Nino looms",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-adimarships-com-panama-canal-ship-agency-requirements-the-2026-compliance-guide",
+          "title": "Panama Canal Ship Agency Requirements: The 2026 Compliance Guide - Adimar Shipping, Inc",
+          "description": "A single data mismatch in your VUMPA submission can now trigger an automatic rejection and a minimum $15,000 fine before your vessel even reaches the locks. You understand that transiting this waterway is a high-stakes balancing act; however, the 2026 digital shift has made the margin for error ...",
+          "url": "https://adimarships.com/panama-canal-ship-agency-requirements-the-2026-compliance-guide",
+          "source": "adimarships.com",
+          "published_at": "2026-05-18T00:59:40+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Panama Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "A single data mismatch in your VUMPA submission can now trigger an automatic rejection and a minimum $15,000 fine before your vessel even reaches the locks. You understand that transiting this waterway is a high-stakes balancing act; howeve",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmihwjbvv95cuxpwul0m2xpb1rnq2pjwdl3dkutq3rusefjy3hguur6b1vmck5wtfhqwkl2x2n1cuxlttixb",
           "title": "An aircraft carrier and a destroyer arrive in Panama on a tour that shows military muscle in one of the world’s most strategic maritime zones - ECOticias.com",
           "description": "An aircraft carrier and a destroyer arrive in Panama on a tour that shows military muscle in one of the world’s most strategic maritime zones ECOticias.com",
@@ -357,6 +631,28 @@
         ],
         "risk_type": "market",
         "summary": "An aircraft carrier and a destroyer arrive in Panama on a tour that shows military muscle in one of the world’s most strategic maritime zones ECOticias.com",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-www-indexbox-io-blog-geopolitical-tensions-and-infrastructure-crises-reshape-global-shipping-in-may-2026",
+          "title": "Shipping News: Strait of Hormuz Dangers, Panama Canal Auction Record, Bridge Charges – May 2026 - News and Statistics - IndexBox",
+          "description": "Geopolitical turmoil keeps the Strait of Hormuz perilous and closed in May 2026, while Panama Canal transit auction prices soar to a record $4 million. U.S. prosecutors charge Synergy Marine over the 2024 Baltimore bridge collapse. Shipping industry debates moving from digital complexity toward ...",
+          "url": "https://www.indexbox.io/blog/geopolitical-tensions-and-infrastructure-crises-reshape-global-shipping-in-may-2026/",
+          "source": "indexbox.io",
+          "published_at": "2026-05-16T06:41:00+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Panama Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight",
+          "energy"
+        ],
+        "risk_type": "market",
+        "summary": "Geopolitical turmoil keeps the Strait of Hormuz perilous and closed in May 2026, while Panama Canal transit auction prices soar to a record $4 million. U.S. prosecutors charge Synergy Marine over the 2024 Baltimore bridge collapse. Shipping",
         "filter_method": "score-input"
       },
       {
@@ -425,13 +721,13 @@
       },
       {
         "article": {
-          "id": "https-news-google-com-rss-articles-cbmitgfbvv95cuxobul2r1zhcnrqn2zybkkybdhttwliz2psoupuctn0nje1atv6ukpklvveylaxzmxiwur2z",
-          "title": "Panama Canal and Global Shipping - C-SPAN",
-          "description": "Panama Canal and Global Shipping C-SPAN",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUl2R1ZHcnRqN2ZYbkkybDhTTWlIZ2pSOUpucTN0NjE1aTV6UkpKLVVEYlAxZmxiWUR2ZkpsRDZGT012aWxSUFRfS2VkMFNYNkhQWXgwcXM5REl3ZGtLSHh0ZS1Cd1l4amJBc0VpT3VDX1pCeEFMN2lVT0c0VWEyRnFRZEhsZ1NuQXh3QnRvMGdTNkFkUkZiQVVKdmtVNlB2Qy0tRXFDU04xV29ZTG9FMTN2Yjl2Zw?oc=5",
-          "source": "C-SPAN",
-          "published_at": "2026-05-11T07:00:00+00:00",
-          "origin": "Google News RSS",
+          "id": "https-www-mining-com-first-quantum-says-panama-has-lost-3-5b-from-mine-halt",
+          "title": "First Quantum says Panama has lost $3.5B from mine halt",
+          "description": "Report shows that Panama has lost billions in economic activity as it keeps Cobre Panamá mine operations suspended.",
+          "url": "https://www.mining.com/first-quantum-says-panama-has-lost-3-5b-from-mine-halt/",
+          "source": "MINING.COM",
+          "published_at": "2026-05-15T12:09:00+00:00",
+          "origin": "Curated RSS",
           "chokepoint": "Panama Canal"
         },
         "relevant": true,
@@ -441,34 +737,55 @@
           "freight"
         ],
         "risk_type": "other",
-        "summary": "Panama Canal and Global Shipping C-SPAN",
+        "summary": "Report shows that Panama has lost billions in economic activity as it keeps Cobre Panamá mine operations suspended.",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmivafbvv95cuxqnxncuwpzug1rshbua2xhywhxqs0wslhzte1vshlkblniuxgxekdlmmtrmzdkx21ma3vrm",
+          "title": "DP World gains IATA certification for Panama airfreight business - Air Cargo News",
+          "description": "DP World gains IATA certification for Panama airfreight business Air Cargo News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXNCUWpzUG1rSHBua2xHYWhxQS0wSlhZTE1vSHlKblNIUXgxekdLMmtRMzdkX21Ma3VrMTRFc29sNEc0RUVhT3AtUzdKaGNjamtqcUtNSTJDYkt6SmtFOEM1NWVnalBPdV8zQVBWNy1adGVSb1dFTWtKTzhGQWZKZEFaQUEzZER3SHdwSEFoRElwb0Uyb1ZXdURDVGpwOFR1TFRBQ3NpQmxncjhsTHZhUG02SXBJS1Bac3pwXw?oc=5",
+          "source": "Air Cargo News",
+          "published_at": "2026-05-13T14:08:56+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Panama Canal"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "market",
+        "summary": "DP World gains IATA certification for Panama airfreight business Air Cargo News",
         "filter_method": "score-input"
       }
     ],
-    "tension_score": 42,
-    "market_summary": "Panama Canal faces mounting congestion due to scheduled June maintenance and weather concerns, with rising freight costs and delays expected. While El Niño is not currently expected to restrict traffic, the combination of maintenance and operational challenges poses risks to timely cargo movement.",
-    "score_rationale": "Moderate tension driven by maintenance-related congestion and weather concerns, partially offset by stable political conditions and new security measures.",
+    "tension_score": 45,
+    "market_summary": "Panama Canal faces moderate congestion due to upcoming June maintenance, with some operational delays and rising freight costs. While El Niño is not expected to cause significant restrictions, traders should monitor transit times and potential auction price volatility. The deployment of AI security systems and military presence indicates heightened security measures but no active threats.",
+    "score_rationale": "Elevated logistics disruption from maintenance and congestion, partially offset by stable weather and security improvements.",
     "political_context_score": 20,
-    "logistics_score": 65,
+    "logistics_score": 60,
     "weather_score": 5,
     "assessment_method": "ollama-aggregate",
-    "updated_at": "2026-05-20T14:36:17.803564+00:00"
+    "updated_at": "2026-05-20T15:26:50.275948+00:00"
   },
   "weather": {
-    "time": "2026-05-20T14:30",
+    "time": "2026-05-20T15:15",
     "wave_height": 0.2,
     "wave_height_unit": "m",
-    "wave_direction": 159,
+    "wave_direction": 158,
     "wave_direction_unit": "°",
-    "wave_period": 7.85,
+    "wave_period": 8.0,
     "wave_period_unit": "s",
     "wind_wave_height": 0.02,
     "swell_wave_height": 0.14,
-    "wind_time": "2026-05-20T14:30",
-    "wind_speed": 9.7,
+    "wind_time": "2026-05-20T15:15",
+    "wind_speed": 9.8,
     "wind_speed_unit": "km/h",
-    "wind_gusts": 24.8,
+    "wind_gusts": 25.2,
     "wind_gusts_unit": "km/h",
-    "weather_code": 3
+    "weather_code": 2
   }
 }

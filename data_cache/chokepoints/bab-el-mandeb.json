@@ -1,7 +1,7 @@
 {
   "schema_version": 5,
   "name": "Bab el-Mandeb",
-  "updated_at": "2026-05-20T14:36:53.618465+00:00",
+  "updated_at": "2026-05-20T15:27:00.442149+00:00",
   "last_article_at": "2026-05-01T07:00:00+00:00",
   "articles": [
     {
@@ -35,6 +35,16 @@
       "chokepoint": "Bab el-Mandeb"
     },
     {
+      "id": "https-en-mehrnews-com-news-243907-somalia-closes-bab-al-mandab-strait-to-israeli-shipping",
+      "title": "Somalia closes Bab al-Mandab Strait to Israeli shipping - Mehr News Agency",
+      "description": "TEHRAN, Apr. 23 (MNA) – Somalia announces that it is banning vessels linked to the Israeli occupation from traversing the strategic Bab al-Mandab Strait — a vital global shipping passage.",
+      "url": "https://en.mehrnews.com/news/243907/Somalia-closes-Bab-al-Mandab-Strait-to-Israeli-shipping",
+      "source": "en.mehrnews.com",
+      "published_at": "2026-04-23T13:02:34+00:00",
+      "origin": "Brave News",
+      "chokepoint": "Bab el-Mandeb"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmilgfbvv95cuxoeezvylbwelnkuthyall3bnlys011tghqexdmegtiszfzxzfmzxr0q3l5twjuohn0my1rs",
       "title": "Somalia bans Israeli-linked vessels from Bab al-Mandab Strait - thecradle.co",
       "description": "Somalia bans Israeli-linked vessels from Bab al-Mandab Strait thecradle.co",
@@ -52,6 +62,16 @@
       "source": "IRNA English",
       "published_at": "2026-04-23T07:00:00+00:00",
       "origin": "Google News RSS",
+      "chokepoint": "Bab el-Mandeb"
+    },
+    {
+      "id": "https-thecradle-co-articles-hormuz-and-bab-al-mandab-iran-turns-maritime-choke-points-into-leverage",
+      "title": "Hormuz and Bab al-Mandab: Iran turns maritime choke points into leverage",
+      "description": "Washington’s move to choke Hormuz risks triggering a wider maritime confrontation that Tehran is already preparing to extend beyond a single strait.",
+      "url": "https://thecradle.co/articles/hormuz-and-bab-al-mandab-iran-turns-maritime-choke-points-into-leverage",
+      "source": "thecradle.co",
+      "published_at": "2026-04-23T00:00:00+00:00",
+      "origin": "Brave News",
       "chokepoint": "Bab el-Mandeb"
     }
   ],
@@ -122,6 +142,27 @@
       },
       {
         "article": {
+          "id": "https-en-mehrnews-com-news-243907-somalia-closes-bab-al-mandab-strait-to-israeli-shipping",
+          "title": "Somalia closes Bab al-Mandab Strait to Israeli shipping - Mehr News Agency",
+          "description": "TEHRAN, Apr. 23 (MNA) – Somalia announces that it is banning vessels linked to the Israeli occupation from traversing the strategic Bab al-Mandab Strait — a vital global shipping passage.",
+          "url": "https://en.mehrnews.com/news/243907/Somalia-closes-Bab-al-Mandab-Strait-to-Israeli-shipping",
+          "source": "en.mehrnews.com",
+          "published_at": "2026-04-23T13:02:34+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Bab el-Mandeb"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "policy",
+        "summary": "TEHRAN, Apr. 23 (MNA) – Somalia announces that it is banning vessels linked to the Israeli occupation from traversing the strategic Bab al-Mandab Strait — a vital global shipping passage.",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
           "id": "https-news-google-com-rss-articles-cbmilgfbvv95cuxoeezvylbwelnkuthyall3bnlys011tghqexdmegtiszfzxzfmzxr0q3l5twjuohn0my1rs",
           "title": "Somalia bans Israeli-linked vessels from Bab al-Mandab Strait - thecradle.co",
           "description": "Somalia bans Israeli-linked vessels from Bab al-Mandab Strait thecradle.co",
@@ -161,29 +202,50 @@
         "risk_type": "other",
         "summary": "Somalia closes Bab al-Mandab Strait to Israeli shipping IRNA English",
         "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-thecradle-co-articles-hormuz-and-bab-al-mandab-iran-turns-maritime-choke-points-into-leverage",
+          "title": "Hormuz and Bab al-Mandab: Iran turns maritime choke points into leverage",
+          "description": "Washington’s move to choke Hormuz risks triggering a wider maritime confrontation that Tehran is already preparing to extend beyond a single strait.",
+          "url": "https://thecradle.co/articles/hormuz-and-bab-al-mandab-iran-turns-maritime-choke-points-into-leverage",
+          "source": "thecradle.co",
+          "published_at": "2026-04-23T00:00:00+00:00",
+          "origin": "Brave News",
+          "chokepoint": "Bab el-Mandeb"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Washington’s move to choke Hormuz risks triggering a wider maritime confrontation that Tehran is already preparing to extend beyond a single strait.",
+        "filter_method": "score-input"
       }
     ],
     "tension_score": 89,
-    "market_summary": "Active rerouting around Africa is occurring due to Houthi threats and Somali restrictions on Israeli-linked vessels, creating significant supply chain disruptions. While the impact is currently viewed as manageable, the situation remains volatile with potential for escalation affecting all commodity flows through this critical chokepoint.",
-    "score_rationale": "Multiple confirmed security threats and active rerouting justify high tension score, though not yet at full blockade levels.",
+    "market_summary": "Active rerouting around Africa confirms severe disruption to all maritime traffic through Bab el-Mandeb, with Somalia's ban on Israeli-linked vessels adding to Houthi threats. While the market is absorbing the shock, the extended transit times and increased costs are affecting global supply chains across all commodity classes. Traders should expect sustained pressure on freight rates and insurance premiums, with part",
+    "score_rationale": "Multiple confirmed disruptions including active rerouting, Houthi threats, and Somalia's ban on Israeli-linked vessels indicate severe operational tension, though not full closure.",
     "political_context_score": 85,
     "logistics_score": 70,
     "weather_score": 10,
     "assessment_method": "ollama-aggregate",
-    "updated_at": "2026-05-20T14:36:53.618465+00:00"
+    "updated_at": "2026-05-20T15:27:00.442149+00:00"
   },
   "weather": {
-    "time": "2026-05-20T14:30",
+    "time": "2026-05-20T15:15",
     "wave_height": 0.36,
     "wave_height_unit": "m",
-    "wave_direction": 114,
+    "wave_direction": 112,
     "wave_direction_unit": "°",
     "wave_period": 2.7,
     "wave_period_unit": "s",
     "wind_wave_height": 0.34,
     "swell_wave_height": 0.04,
-    "wind_time": "2026-05-20T14:30",
-    "wind_speed": 24.9,
+    "wind_time": "2026-05-20T15:15",
+    "wind_speed": 24.3,
     "wind_speed_unit": "km/h",
     "wind_gusts": 33.1,
     "wind_gusts_unit": "km/h",
