@@ -157,6 +157,10 @@ def refresh_chokepoint_snapshot(
         except Exception as wind_exc:
             emit(f"{chokepoint.name}: weather unavailable — {wind_exc}.")
 
+    if not weather and existing and existing.weather:
+        weather = existing.weather
+        emit(f"{chokepoint.name}: live weather unavailable, keeping cached data.")
+
     # ── AI scoring ───────────────────────────────────────────────────────
     ai_input_count = min(len(merged_articles), settings["max_ai_articles"])
     emit(

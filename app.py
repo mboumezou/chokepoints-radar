@@ -807,7 +807,6 @@ WAR_RISK_QUERIES = [
     ("Red Sea / Houthi",     "Red Sea Houthi war risk shipping insurance premium"),
     ("JWC Hull War Areas",   "JWC joint war committee hull war risk listed areas shipping"),
     ("P&I Club Alerts",      "P&I club maritime security alert war risk notice"),
-    ("Strait of Hormuz",     "Strait of Hormuz war risk Iran insurance shipping"),
     ("Cargo Insurance",      "cargo insurance maritime disruption chokepoint premium rate"),
 ]
 
@@ -849,7 +848,11 @@ def render_war_risk_tab() -> None:
                     st.error(f"Search failed: {exc}")
                     return
 
-        results = st.session_state.get(cache_key, [])
+        results = sorted(
+            st.session_state.get(cache_key, []),
+            key=lambda item: parse_datetime(item.get("page_age") or "") or datetime(1970, 1, 1, tzinfo=timezone.utc),
+            reverse=True,
+        )
         st.caption(f"{len(results)} results · query: *{query}*")
         for item in results:
             title = escape(item.get("title", ""))
