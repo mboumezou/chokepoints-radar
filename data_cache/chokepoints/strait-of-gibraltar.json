@@ -1,0 +1,68 @@
+{
+  "schema_version": 5,
+  "name": "Strait of Gibraltar",
+  "updated_at": "2026-05-20T14:37:38.812853+00:00",
+  "last_article_at": "2026-05-06T07:00:00+00:00",
+  "articles": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiswfbvv95cuxnnuvirm5cuv9pddz4u1e5dutsc2zqr3pqd3ppqnp5eeptuxvkctlpqwd4s29xmdjdu1nvz",
+      "title": "US ambassador to the UN extends Hormuz warning to Gibraltar shipping corridor - HESPRESS English - Morocco News",
+      "description": "US ambassador to the UN extends Hormuz warning to Gibraltar shipping corridor HESPRESS English - Morocco News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUVIRm5CUV9PdDZ4U1E5dUtsc2ZqR3pQd3ppQnp5eEptUXVkcTlPQWd4S29xMDJDU1NvZ3UtYTFzX3k1VTFYNmk4ck9EWGw4bzhydjZ6LVExaFNDckFrb3pBUzdBRW5KdnlpdzBPZzU3Sk9qYmhBOHdRV00zZG5acUxneUt6NktoMVYwNUtfMy00UVk1SXRpemh1bkMtNm9ycjItaV9XR2NobUpENEprdVBUZw?oc=5",
+      "source": "HESPRESS English - Morocco News",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Strait of Gibraltar"
+    }
+  ],
+  "assessment": {
+    "classified_articles": [
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmiswfbvv95cuxnnuvirm5cuv9pddz4u1e5dutsc2zqr3pqd3ppqnp5eeptuxvkctlpqwd4s29xmdjdu1nvz",
+          "title": "US ambassador to the UN extends Hormuz warning to Gibraltar shipping corridor - HESPRESS English - Morocco News",
+          "description": "US ambassador to the UN extends Hormuz warning to Gibraltar shipping corridor HESPRESS English - Morocco News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUVIRm5CUV9PdDZ4U1E5dUtsc2ZqR3pQd3ppQnp5eEptUXVkcTlPQWd4S29xMDJDU1NvZ3UtYTFzX3k1VTFYNmk4ck9EWGw4bzhydjZ6LVExaFNDckFrb3pBUzdBRW5KdnlpdzBPZzU3Sk9qYmhBOHdRV00zZG5acUxneUt6NktoMVYwNUtfMy00UVk1SXRpemh1bkMtNm9ycjItaV9XR2NobUpENEprdVBUZw?oc=5",
+          "source": "HESPRESS English - Morocco News",
+          "published_at": "2026-05-06T07:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Strait of Gibraltar"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "US ambassador to the UN extends Hormuz warning to Gibraltar shipping corridor HESPRESS English - Morocco News",
+        "filter_method": "score-input"
+      }
+    ],
+    "tension_score": 20,
+    "market_summary": "Heightened political rhetoric from US officials regarding Gibraltar shipping corridor, though no active disruptions reported. Weather conditions remain within normal operational parameters with moderate winds and waves.",
+    "score_rationale": "Single diplomatic warning increases political risk slightly above baseline, but no confirmed operational impacts or disruptions to report.",
+    "political_context_score": 20,
+    "logistics_score": 0,
+    "weather_score": 5,
+    "assessment_method": "ollama-aggregate",
+    "updated_at": "2026-05-20T14:37:38.810854+00:00"
+  },
+  "weather": {
+    "time": "2026-05-20T14:30",
+    "wave_height": 0.96,
+    "wave_height_unit": "m",
+    "wave_direction": 1,
+    "wave_direction_unit": "°",
+    "wave_period": 8.3,
+    "wave_period_unit": "s",
+    "wind_wave_height": 0.68,
+    "swell_wave_height": 0.6,
+    "wind_time": "2026-05-20T14:30",
+    "wind_speed": 40.1,
+    "wind_speed_unit": "km/h",
+    "wind_gusts": 53.6,
+    "wind_gusts_unit": "km/h",
+    "weather_code": 0
+  }
+}

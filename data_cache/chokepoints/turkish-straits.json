@@ -1,0 +1,99 @@
+{
+  "schema_version": 5,
+  "name": "Turkish Straits",
+  "updated_at": "2026-05-20T14:37:24.810763+00:00",
+  "last_article_at": "2026-04-29T07:00:00+00:00",
+  "articles": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmisafbvv95cuxnbud3wktvczjnbkhzanzud0f2uvfirhpunxhqzgqwuy1tzew3tuxgaezwwvdtumtolxpvm",
+      "title": "Video: Container Ship Runs Aground Near Istanbul Mansions, Halts Bosphorus Traffic - Marine Insight",
+      "description": "Video: Container Ship Runs Aground Near Istanbul Mansions, Halts Bosphorus Traffic Marine Insight",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUd3WktvczJnbkhZanZud0F2UVFiRHpuNXhQZGQwUy1TZEw3TUxGaEZWWVdtUmtoLXpVMGZFZ0ZQWDY5UXVPMV9abEdFOHhsMGNFTzNqZUx0TnVPbnhzQjRHLW1fWWJZdUtzM204c19DY1ZaWTJOc3NjWjdPNWxzSExkdy1oSVZPd3hzdHU5WDFJZDd0Q05EMjlzaWJ4YWVnWXd2dTZzLU5SejJqMlFsOQ?oc=5",
+      "source": "Marine Insight",
+      "published_at": "2026-04-29T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Turkish Straits"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitgfbvv95cuxpyjj5wk9xdxbpzeiwrfnvt25ytw52wdfoeg1urdzzu1ezswj3mmfbbwtywvfvylbhzw9vo",
+      "title": "Cargo ship runs aground just meters from Bosphorus mansions in Istanbul - Türkiye Today",
+      "description": "Cargo ship runs aground just meters from Bosphorus mansions in Istanbul Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjJ5Wk9xdXBPZEIwRFNvT25YTW52WDFOeG1uRDZZU1EzSWJ3MmFBbWtyWVFVYlBHZW9VOXVOSENoNnNDdG95d3RRZjBhTEpRNDV1ODR1ZW9SV3hXNnJNUXFya3NROFVCdWtYSkFKTXBEbzItUXVrWTFRcWs5bTliWFB4QUViYy1MdjZQOVBsd2JsUXotWV85Tmc4UWFHdFdfOVgtOV81Q1d0VkJDWUtOMDR2Wm92dw?oc=5",
+      "source": "Türkiye Today",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "chokepoint": "Turkish Straits"
+    }
+  ],
+  "assessment": {
+    "classified_articles": [
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmisafbvv95cuxnbud3wktvczjnbkhzanzud0f2uvfirhpunxhqzgqwuy1tzew3tuxgaezwwvdtumtolxpvm",
+          "title": "Video: Container Ship Runs Aground Near Istanbul Mansions, Halts Bosphorus Traffic - Marine Insight",
+          "description": "Video: Container Ship Runs Aground Near Istanbul Mansions, Halts Bosphorus Traffic Marine Insight",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUd3WktvczJnbkhZanZud0F2UVFiRHpuNXhQZGQwUy1TZEw3TUxGaEZWWVdtUmtoLXpVMGZFZ0ZQWDY5UXVPMV9abEdFOHhsMGNFTzNqZUx0TnVPbnhzQjRHLW1fWWJZdUtzM204c19DY1ZaWTJOc3NjWjdPNWxzSExkdy1oSVZPd3hzdHU5WDFJZDd0Q05EMjlzaWJ4YWVnWXd2dTZzLU5SejJqMlFsOQ?oc=5",
+          "source": "Marine Insight",
+          "published_at": "2026-04-29T07:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Turkish Straits"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "monitoring"
+        ],
+        "risk_type": "other",
+        "summary": "Video: Container Ship Runs Aground Near Istanbul Mansions, Halts Bosphorus Traffic Marine Insight",
+        "filter_method": "score-input"
+      },
+      {
+        "article": {
+          "id": "https-news-google-com-rss-articles-cbmitgfbvv95cuxpyjj5wk9xdxbpzeiwrfnvt25ytw52wdfoeg1urdzzu1ezswj3mmfbbwtywvfvylbhzw9vo",
+          "title": "Cargo ship runs aground just meters from Bosphorus mansions in Istanbul - Türkiye Today",
+          "description": "Cargo ship runs aground just meters from Bosphorus mansions in Istanbul Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjJ5Wk9xdXBPZEIwRFNvT25YTW52WDFOeG1uRDZZU1EzSWJ3MmFBbWtyWVFVYlBHZW9VOXVOSENoNnNDdG95d3RRZjBhTEpRNDV1ODR1ZW9SV3hXNnJNUXFya3NROFVCdWtYSkFKTXBEbzItUXVrWTFRcWs5bTliWFB4QUViYy1MdjZQOVBsd2JsUXotWV85Tmc4UWFHdFdfOVgtOV81Q1d0VkJDWUtOMDR2Wm92dw?oc=5",
+          "source": "Türkiye Today",
+          "published_at": "2026-04-28T07:00:00+00:00",
+          "origin": "Google News RSS",
+          "chokepoint": "Turkish Straits"
+        },
+        "relevant": true,
+        "confidence": 1.0,
+        "severity": 0,
+        "impact_tags": [
+          "freight"
+        ],
+        "risk_type": "other",
+        "summary": "Cargo ship runs aground just meters from Bosphorus mansions in Istanbul Türkiye Today",
+        "filter_method": "score-input"
+      }
+    ],
+    "tension_score": 60,
+    "market_summary": "A container ship grounding has caused temporary Bosphorus traffic disruption, though no structural damage or environmental impact reported. Traders should monitor for potential delays in Black Sea commodity flows, particularly for time-sensitive cargoes.",
+    "score_rationale": "Single incident causing localized disruption but no sustained closure or systemic risk.",
+    "political_context_score": 42,
+    "logistics_score": 65,
+    "weather_score": 5,
+    "assessment_method": "ollama-aggregate",
+    "updated_at": "2026-05-20T14:37:24.810763+00:00"
+  },
+  "weather": {
+    "time": "2026-05-20T14:30",
+    "wave_height": 0.2,
+    "wave_height_unit": "m",
+    "wave_direction": 339,
+    "wave_direction_unit": "°",
+    "wave_period": 2.15,
+    "wave_period_unit": "s",
+    "wind_wave_height": 0.14,
+    "swell_wave_height": 0.1,
+    "wind_time": "2026-05-20T14:30",
+    "wind_speed": 13.7,
+    "wind_speed_unit": "km/h",
+    "wind_gusts": 38.5,
+    "wind_gusts_unit": "km/h",
+    "weather_code": 2
+  }
+}
